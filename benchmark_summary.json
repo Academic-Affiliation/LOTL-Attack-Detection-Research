@@ -1,0 +1,10 @@
+{
+  "total_samples": 1453,
+  "benign_count": 1000,
+  "malicious_count": 453,
+  "sources": {
+    "combined_lotl": 1430,
+    "volttyphoon": 23
+  },
+  "balance_ratio": "68.8% benign, 31.2% malicious"
+}
